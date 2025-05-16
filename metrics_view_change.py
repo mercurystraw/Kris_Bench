@@ -169,8 +169,8 @@ def process_image_eval(model, category, image_id, metrics, annotations):
         return None
     ann = annotations.get(image_id, {})
     data = {
-        "instruction": ann.get("instruction", ""),
-        "explain": ann.get("explain", ""),
+        "instruction": ann.get("ins_en", ""),
+        "explain": ann.get("explain_en", ""),
         **results
     }
     return image_id, data

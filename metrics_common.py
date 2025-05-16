@@ -204,8 +204,8 @@ def evaluate_images(model_name: str,
         logging.error(f"Failed to encode images for {model_name}/{category}/{image_id}")
         return results
 
-    instr = entry.get("instruction", "")
-    expl = entry.get("explain", "")
+    instr = entry.get("ins_en", "")
+    expl = entry.get("explain_en", "")
 
     for m in metrics:
         if m == "consistency":
@@ -248,8 +248,8 @@ def process_image_eval(model: str,
         return None
     entry = annotations.get(str(image_id), {})
     data = {
-        "instruction": entry.get("instruction", ""),
-        "explain":     entry.get("explain", ""),
+        "instruction": entry.get("ins_en", ""),
+        "explain":     entry.get("explain_en", ""),
         **eval_res
     }
     return image_id, data

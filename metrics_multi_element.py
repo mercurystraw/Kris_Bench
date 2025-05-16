@@ -208,8 +208,8 @@ def process_multi_element_image_eval(model, category, image_id, metrics, annotat
         return None
     ann = annotations[image_id]
     packed = {
-        "instruction": ann.get("instruction", ""),
-        "explain": ann.get("explain", ""),
+        "instruction": ann.get("ins_en", ""),
+        "explain": ann.get("explain_en", ""),
         **eval_res
     }
     return image_id, packed

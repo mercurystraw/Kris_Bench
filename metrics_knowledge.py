@@ -90,8 +90,8 @@ def evaluate_images(model: str, category: str, image_id: str, metrics: list[str]
         logging.error(f"Failed to encode images for {model}/{category}/{image_id}")
         return results
 
-    instruct = ann.get("instruction", "")
-    explain = ann.get("explain", "")
+    instruct = ann.get("ins_en", "")
+    explain = ann.get("explain_en", "")
 
     for metric in metrics:
         if metric == "consistency":
@@ -297,8 +297,8 @@ def process_image_eval(model: str,
 
     ann = annotations.get(str(image_id), {})
     record = {
-        "instruction": ann.get("instruction", ""),
-        "explain":     ann.get("explain", ""),
+        "instruction": ann.get("ins_en", ""),
+        "explain":     ann.get("explain_en", ""),
         **eval_res
     }
     return (image_id, record)
