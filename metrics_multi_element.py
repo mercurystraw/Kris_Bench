@@ -101,7 +101,7 @@ def evaluate_multi_element_images(model_name, category, image_id, metrics=None):
         logging.error(f"Failed to encode predicted image: {pred_path}")
         return {}
 
-    instruction = ann.get("instruction", "")
+    instruction = ann.get("ins_en", "")
     results = {}
 
     for metric in metrics:
