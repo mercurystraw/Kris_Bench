@@ -29,7 +29,7 @@ export OPENAI_API_KEY=your_openai_api_key
 
 ## Usage
 
-First download benchmark from ....
+First, download the benchmark. We upload the whole benchmark to the [Hugging Face repository](https://huggingface.co/datasets/Liang0223/KRIS_Bench). For convenience, we also keep the benchmark in this repository. You can find the dataset in [KRIS_Bench](./KRIS_Bench).
 
 Run the main evaluation script from the command line:
 
