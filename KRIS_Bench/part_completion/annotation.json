@@ -1,0 +1,302 @@
+{
+  "1": {
+    "ori_img": "1.png",
+    "gt_img": "",
+    "ins_en": "Complete the bicycle wheel",
+    "explain_en": ""
+  },
+  "2": {
+    "ori_img": "2.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the legs of the chair",
+    "explain_en": ""
+  },
+  "3": {
+    "ori_img": "3.jpg",
+    "gt_img": "",
+    "ins_en": "Complete this popsicle.",
+    "explain_en": ""
+  },
+  "4": {
+    "ori_img": "4.png",
+    "gt_img": "",
+    "ins_en": "Complete the legs of the chair.",
+    "explain_en": ""
+  },
+  "5": {
+    "ori_img": "5.png",
+    "gt_img": "",
+    "ins_en": "Complete the table legs.",
+    "explain_en": ""
+  },
+  "6": {
+    "ori_img": "6.png",
+    "gt_img": "",
+    "ins_en": "Complete the wheels of the suitcase",
+    "explain_en": ""
+  },
+  "7": {
+    "ori_img": "7.png",
+    "gt_img": "",
+    "ins_en": "Complete the wheels on the suitcase.",
+    "explain_en": ""
+  },
+  "8": {
+    "ori_img": "8.png",
+    "gt_img": "",
+    "ins_en": "Complete the stringing of the badminton racket.",
+    "explain_en": ""
+  },
+  "9": {
+    "ori_img": "9.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the strings on the badminton racket",
+    "explain_en": ""
+  },
+  "10": {
+    "ori_img": "10.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the strings of the guitar",
+    "explain_en": ""
+  },
+  "11": {
+    "ori_img": "11.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the handle of the spoon.",
+    "explain_en": ""
+  },
+  "12": {
+    "ori_img": "12.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the chopstick handle",
+    "explain_en": ""
+  },
+  "13": {
+    "ori_img": "13.png",
+    "gt_img": "",
+    "ins_en": "Complete the zipper teeth on the upper portion.",
+    "explain_en": ""
+  },
+  "14": {
+    "ori_img": "14.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the temple arms of the glasses",
+    "explain_en": ""
+  },
+  "15": {
+    "ori_img": "15.png",
+    "gt_img": "",
+    "ins_en": "Repair or complete the temple arms of the glasses.",
+    "explain_en": ""
+  },
+  "16": {
+    "ori_img": "16.png",
+    "gt_img": "",
+    "ins_en": "Complete the comb teeth.",
+    "explain_en": ""
+  },
+  "17": {
+    "ori_img": "17.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the teeth",
+    "explain_en": ""
+  },
+  "18": {
+    "ori_img": "18.png",
+    "gt_img": "",
+    "ins_en": "Complete the plate",
+    "explain_en": ""
+  },
+  "19": {
+    "ori_img": "19.png",
+    "gt_img": "",
+    "ins_en": "Complete the bowl",
+    "explain_en": ""
+  },
+  "20": {
+    "ori_img": "20.png",
+    "gt_img": "",
+    "ins_en": "Complete the cup",
+    "explain_en": ""
+  },
+  "21": {
+    "ori_img": "21.png",
+    "gt_img": "",
+    "ins_en": "Complete the stone wall",
+    "explain_en": ""
+  },
+  "22": {
+    "ori_img": "22.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the skateboard",
+    "explain_en": ""
+  },
+  "23": {
+    "ori_img": "23.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the skateboard",
+    "explain_en": ""
+  },
+  "24": {
+    "ori_img": "24.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the pants",
+    "explain_en": ""
+  },
+  "25": {
+    "ori_img": "25.jpeg",
+    "gt_img": "",
+    "ins_en": "Complete the pants",
+    "explain_en": ""
+  },
+  "26": {
+    "ori_img": "26.png",
+    "gt_img": "",
+    "ins_en": "Complete the pencil",
+    "explain_en": ""
+  },
+  "27": {
+    "ori_img": "27.png",
+    "gt_img": "",
+    "ins_en": "Complete the doorknob",
+    "explain_en": ""
+  },
+  "28": {
+    "ori_img": "28.png",
+    "gt_img": "",
+    "ins_en": "Complete the door handle",
+    "explain_en": ""
+  },
+  "29": {
+    "ori_img": "29.png",
+    "gt_img": "",
+    "ins_en": "Complete the Rubik's Cube",
+    "explain_en": ""
+  },
+  "30": {
+    "ori_img": "30.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the missing keyboard keys",
+    "explain_en": ""
+  },
+  "31": {
+    "ori_img": "31.png",
+    "gt_img": "",
+    "ins_en": "Complete the fork",
+    "explain_en": ""
+  },
+  "32": {
+    "ori_img": "32.jpeg",
+    "gt_img": "",
+    "ins_en": "Complete the table corner",
+    "explain_en": ""
+  },
+  "33": {
+    "ori_img": "33.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the bottle cap",
+    "explain_en": ""
+  },
+  "34": {
+    "ori_img": "34.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the jar",
+    "explain_en": ""
+  },
+  "35": {
+    "ori_img": "35.png",
+    "gt_img": "",
+    "ins_en": "Complete the pottery bowl.",
+    "explain_en": ""
+  },
+  "36": {
+    "ori_img": "36.png",
+    "gt_img": "",
+    "ins_en": "Complete the iron pot",
+    "explain_en": ""
+  },
+  "37": {
+    "ori_img": "37.png",
+    "gt_img": "",
+    "ins_en": "Complete the spoon",
+    "explain_en": ""
+  },
+  "38": {
+    "ori_img": "38.png",
+    "gt_img": "",
+    "ins_en": "Complete the socks",
+    "explain_en": ""
+  },
+  "39": {
+    "ori_img": "39.png",
+    "gt_img": "",
+    "ins_en": "Complete the umbrella ribs",
+    "explain_en": ""
+  },
+  "40": {
+    "ori_img": "40.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the cup",
+    "explain_en": ""
+  },
+  "41": {
+    "ori_img": "41.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the broom handle for the broom.",
+    "explain_en": ""
+  },
+  "42": {
+    "ori_img": "42.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the corn kernels on the corn cob.",
+    "explain_en": ""
+  },
+  "43": {
+    "ori_img": "43.png",
+    "gt_img": "",
+    "ins_en": "Repair the broken electrical wire",
+    "explain_en": ""
+  },
+  "44": {
+    "ori_img": "44.png",
+    "gt_img": "",
+    "ins_en": "Complete the gloves",
+    "explain_en": ""
+  },
+  "45": {
+    "ori_img": "45.png",
+    "gt_img": "",
+    "ins_en": "Complete the tennis ball",
+    "explain_en": ""
+  },
+  "46": {
+    "ori_img": "46.png",
+    "gt_img": "",
+    "ins_en": "Complete the high heels",
+    "explain_en": ""
+  },
+  "47": {
+    "ori_img": "47.png",
+    "gt_img": "",
+    "ins_en": "Complete the hammer",
+    "explain_en": ""
+  },
+  "48": {
+    "ori_img": "48.png",
+    "gt_img": "",
+    "ins_en": "Complete the knife",
+    "explain_en": ""
+  },
+  "49": {
+    "ori_img": "49.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the jar",
+    "explain_en": ""
+  },
+  "50": {
+    "ori_img": "50.jpg",
+    "gt_img": "",
+    "ins_en": "Complete the wrench",
+    "explain_en": ""
+  }
+}

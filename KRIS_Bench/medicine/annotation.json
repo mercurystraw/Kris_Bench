@@ -1,0 +1,302 @@
+{
+  "1": {
+    "ori_img": "1.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to appear as a middle finger fracture",
+    "explain_en": "The bone of the middle finger should appear broken"
+  },
+  "2": {
+    "ori_img": "2.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to an example of premature ventricular contraction beats on an ECG",
+    "explain_en": "The ECG shows premature excitations. These premature excitations mostly replace a normal sinus beat, followed by a longer interval than the normal cardiac cycle."
+  },
+  "3": {
+    "ori_img": "3.png",
+    "gt_img": "",
+    "ins_en": "Modify to an atrial fibrillation ECG example",
+    "explain_en": "On the ECG, there appear waves that vary completely in size, amplitude, and shape."
+  },
+  "4": {
+    "ori_img": "4.jpg",
+    "gt_img": "",
+    "ins_en": "Change to the value for tachycardia",
+    "explain_en": "The heart rate value needs to be greater than 100"
+  },
+  "5": {
+    "ori_img": "5.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to the values for bradycardia",
+    "explain_en": "Heart rate values need to be less than 60"
+  },
+  "6": {
+    "ori_img": "6.jpg",
+    "gt_img": "",
+    "ins_en": "Remove my four wisdom teeth",
+    "explain_en": "Remove the four teeth on both sides of the upper and lower rows in the X-ray."
+  },
+  "7": {
+    "ori_img": "7.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to resemble a radial fracture",
+    "explain_en": "The bone on the left side of the arm is fractured"
+  },
+  "8": {
+    "ori_img": "8.jpg",
+    "gt_img": "",
+    "ins_en": "Appearance after the fracture has healed.",
+    "explain_en": "The arm no longer shows signs of broken bones and appears as a normal X-ray image."
+  },
+  "9": {
+    "ori_img": "9.jpg",
+    "gt_img": "",
+    "ins_en": "Change to a CT image of pneumonia",
+    "explain_en": "The lungs show some whitish areas"
+  },
+  "10": {
+    "ori_img": "10.png",
+    "gt_img": "",
+    "ins_en": "Change to hypertension values",
+    "explain_en": "Systolic pressure greater than 130, or diastolic pressure greater than 80"
+  },
+  "11": {
+    "ori_img": "11.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to hypotensive values",
+    "explain_en": "Systolic pressure less than 90, or diastolic pressure less than 60"
+  },
+  "12": {
+    "ori_img": "12.jpg",
+    "gt_img": "",
+    "ins_en": "Make the arm appear as if it has an allergic reaction to a penicillin skin test.",
+    "explain_en": "A small area of redness and swelling appears on the arm."
+  },
+  "13": {
+    "ori_img": "13.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the COVID-19 test result to be negative.",
+    "explain_en": "The control line (C) should be visible, while the test line (T) should not appear."
+  },
+  "14": {
+    "ori_img": "14.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the pregnancy test result to be positive.",
+    "explain_en": "The pregnancy test should display a cross mark."
+  },
+  "15": {
+    "ori_img": "15.png",
+    "gt_img": "",
+    "ins_en": "Change to the state of a person with aldehyde dehydrogenase deficiency after drinking alcohol",
+    "explain_en": "The person's face should turn red"
+  },
+  "16": {
+    "ori_img": "16.png",
+    "gt_img": "",
+    "ins_en": "For individuals with normal blood coagulation, after a period of time",
+    "explain_en": "The finger should stop bleeding and form a scab."
+  },
+  "17": {
+    "ori_img": "17.jpeg",
+    "gt_img": "",
+    "ins_en": "People with coagulation abnormalities after a period of time",
+    "explain_en": "The finger should still be bleeding"
+  },
+  "18": {
+    "ori_img": "18.jpg",
+    "gt_img": "",
+    "ins_en": "Ensure my wound is fully healed",
+    "explain_en": "No more wound"
+  },
+  "19": {
+    "ori_img": "19.jpg",
+    "gt_img": "",
+    "ins_en": "Make her look like an albino",
+    "explain_en": "Hair turns white, pupil color becomes lighter"
+  },
+  "20": {
+    "ori_img": "20.jpg",
+    "gt_img": "",
+    "ins_en": "Fix the eye to make it look normal",
+    "explain_en": "The white part on the pupil should be removed"
+  },
+  "21": {
+    "ori_img": "21.jpg",
+    "gt_img": "",
+    "ins_en": "Make this eye appear as if it has cataracts",
+    "explain_en": "You should add a white section to the pupil"
+  },
+  "22": {
+    "ori_img": "22.jpg",
+    "gt_img": "",
+    "ins_en": "Modify it to show the appearance after developing onychomycosis",
+    "explain_en": "The nails turn yellow-brown, with a rough and thickened surface, and damaged, uneven edges."
+  },
+  "23": {
+    "ori_img": "23.jpg",
+    "gt_img": "",
+    "ins_en": "Make my cardiovascular system appear normal",
+    "explain_en": "The width of the middle aorta is no longer narrow"
+  },
+  "24": {
+    "ori_img": "24.jpg",
+    "gt_img": "",
+    "ins_en": "Remove kidney stones from the CT image",
+    "explain_en": "Remove a few small white particles"
+  },
+  "25": {
+    "ori_img": "25.png",
+    "gt_img": "",
+    "ins_en": "Remove foods that diabetics cannot eat",
+    "explain_en": "Jelly beans should be removed"
+  },
+  "26": {
+    "ori_img": "26.jpg",
+    "gt_img": "",
+    "ins_en": "Remove items that liver damage patients cannot consume.",
+    "explain_en": "Alcohol should be removed."
+  },
+  "27": {
+    "ori_img": "27.jpeg",
+    "gt_img": "",
+    "ins_en": "Remove items that high blood sugar patients cannot consume",
+    "explain_en": "Only sugar-free cola should be retained"
+  },
+  "28": {
+    "ori_img": "28.jpg",
+    "gt_img": "",
+    "ins_en": "Change to the state of blood after single blood collection and separation",
+    "explain_en": "Appearance of three separate layers of plasma, red blood cells, and white blood cells"
+  },
+  "29": {
+    "ori_img": "29.jpeg",
+    "gt_img": "",
+    "ins_en": "Modify the urine in the image to show the result of severe dehydration",
+    "explain_en": "Change to dark brown"
+  },
+  "30": {
+    "ori_img": "30.jpg",
+    "gt_img": "",
+    "ins_en": "Change to the appearance of a fresh burn blister",
+    "explain_en": "Blisters should appear at the burnt area"
+  },
+  "31": {
+    "ori_img": "31.jpeg",
+    "gt_img": "",
+    "ins_en": "Make my skin look like it's having an allergic reaction",
+    "explain_en": "Large patches of red rash appear"
+  },
+  "32": {
+    "ori_img": "32.jpg",
+    "gt_img": "",
+    "ins_en": "Make my ankle look sprained",
+    "explain_en": "The ankle becomes swollen"
+  },
+  "33": {
+    "ori_img": "33.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to appear as if the arm has eczema",
+    "explain_en": "Swollen rashes and exuding blisters appear"
+  },
+  "34": {
+    "ori_img": "34.jpeg",
+    "gt_img": "",
+    "ins_en": "Make this person's face look sunburned",
+    "explain_en": "The face starts to appear red"
+  },
+  "35": {
+    "ori_img": "35.jpg",
+    "gt_img": "",
+    "ins_en": "Make me look a bit anemic",
+    "explain_en": "The lips should turn pale"
+  },
+  "36": {
+    "ori_img": "36.jpeg",
+    "gt_img": "",
+    "ins_en": "Make the arm appear as if it has been bitten by mosquitoes or insects.",
+    "explain_en": "There should be raised bumps on the arm."
+  },
+  "37": {
+    "ori_img": "37.jpeg",
+    "gt_img": "",
+    "ins_en": "Change to a state of severe dehydration",
+    "explain_en": "Lips have developed dry skin"
+  },
+  "38": {
+    "ori_img": "38.jpg",
+    "gt_img": "",
+    "ins_en": "Elbow vein bleeding, please apply a bandage in an appropriate location.",
+    "explain_en": "The bandage should be tied on the outside of the elbow, at the distal end."
+  },
+  "39": {
+    "ori_img": "39.jpg",
+    "gt_img": "",
+    "ins_en": "Elbow artery bleeding, apply a tourniquet at the appropriate location",
+    "explain_en": "The tourniquet should be applied on the inner side of the elbow, closer to the heart"
+  },
+  "40": {
+    "ori_img": "40.png",
+    "gt_img": "",
+    "ins_en": "If the elbow is bitten by a snake, apply a bandage at the appropriate site.",
+    "explain_en": "The bandage should be applied on the inner side of the elbow, towards the heart."
+  },
+  "41": {
+    "ori_img": "41.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to a value indicating hypoglycemia",
+    "explain_en": "Change to less than 3.9 mmol"
+  },
+  "42": {
+    "ori_img": "42.png",
+    "gt_img": "",
+    "ins_en": "Modify to the value for high blood sugar",
+    "explain_en": "Change to greater than 7 mmol"
+  },
+  "43": {
+    "ori_img": "43.png",
+    "gt_img": "",
+    "ins_en": "Modify to appear as post-shoulder dislocation",
+    "explain_en": "The humerus is displaced a certain distance from the joint"
+  },
+  "44": {
+    "ori_img": "44.png",
+    "gt_img": "",
+    "ins_en": "Modify to look like when not pregnant",
+    "explain_en": "The baby's image should be removed"
+  },
+  "45": {
+    "ori_img": "45.jpg",
+    "gt_img": "",
+    "ins_en": "Change to the appearance after vitiligo occurs",
+    "explain_en": "There should be patches of white areas on the hand"
+  },
+  "46": {
+    "ori_img": "46.png",
+    "gt_img": "",
+    "ins_en": "Modify to resemble peripheral facial palsy",
+    "explain_en": "The face should appear with a crooked mouth and slanted eyes."
+  },
+  "47": {
+    "ori_img": "47.JPG",
+    "gt_img": "",
+    "ins_en": "Correct the spinal curvature in the X-ray image",
+    "explain_en": "The spine should be straightened"
+  },
+  "48": {
+    "ori_img": "48.png",
+    "gt_img": "",
+    "ins_en": "The appearance of hands after being soaked in water for a long time",
+    "explain_en": "The fingers will wrinkle and turn white"
+  },
+  "49": {
+    "ori_img": "49.png",
+    "gt_img": "",
+    "ins_en": "Appearance of having conjunctivitis",
+    "explain_en": "The character's eyes should turn red"
+  },
+  "50": {
+    "ori_img": "50.png",
+    "gt_img": "",
+    "ins_en": "Modify to a post-mortem electrocardiogram example",
+    "explain_en": "The electrocardiogram waveform should become flat"
+  }
+}

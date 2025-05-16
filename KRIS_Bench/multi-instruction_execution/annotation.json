@@ -1,0 +1,452 @@
+{
+  "1": {
+    "ori_img": "1.jpg",
+    "gt_img": "",
+    "ins_en": "Based on the given image, design a modern food-themed poster. Keep a clear display of the burger in the center, and add floating food elements such as sesame seeds, cheese slices, lettuce leaves, and tomato slices around it to enhance the dynamic feel of the image. Use a gradient warm color tone (red and orange) for the background, incorporating soft light and glowing lines to create a warm, inviting atmosphere. Write \"Savor the Flavor\" at the top in bold letters. The overall style should be appetizing and fashionable, suitable for fast-food brand promotions or menu designs.",
+    "explain_en": ""
+  },
+  "2": {
+    "ori_img": "2.jpg",
+    "gt_img": "",
+    "ins_en": "Design a modern food poster using the given image as the main focus. Keep the pizza clearly showcased in the center of the image, surrounded by floating elements like cheese strings, herb leaves, tomato sauce droplets, and chili slices to create a steaming, freshly-baked atmosphere. Use a bright orange-yellow gradient for the background, paired with soft light and heat wave visual effects to enhance the sense of appetite. Add a prominent, bold title at the top of the image: \"Freshly Baked & Spicy\". The overall style should be modern and enticing, suitable for promoting a new product at a pizza shop, as a main image on a menu, or for display on an online delivery platform.",
+    "explain_en": ""
+  },
+  "3": {
+    "ori_img": "3.jpg",
+    "gt_img": "",
+    "ins_en": "Design a sports-tech style promotional poster using the given image as the main subject. Position the athletic shoes on the left or center of the composition. Use a refreshing gradient background (such as light gray to white, ice blue, or pale orange), and incorporate dynamic lines, speed light effects, and minimal geometric shapes to create a sense of lightness, dynamism, and futurism. Add virtual tracks or flow trail elements beneath the shoes to enhance the sense of movement. Include a main title in the upper right corner: \"Light Start.\" The overall style should be simple and modern, suitable for promoting new sports brand products, as the main display of an online store, or for a spring-summer product launch.",
+    "explain_en": ""
+  },
+  "4": {
+    "ori_img": "4.jpeg",
+    "gt_img": "",
+    "ins_en": "Design a poster with the given object as the main subject, centered around the concept of \"Green Living\". Keep the apple in the center of the image, extending outward with elegant, ink-like green plant vines, morning dew, leaves swayed by the breeze, and natural texture patterns to create an atmosphere of \"harmony between humans and nature\". The background should feature a soft gradient transition between green and creamy white tones, resulting in a transparent and breathable effect. At the top of the image, use an elegant handwritten-style font to write: \"An apple a day, mind and body at ease\". The overall style should be gentle, environmentally friendly, and rich in lifestyle aesthetics, suitable for health food brands, ecological agriculture promotions, or green living advocacy posters.",
+    "explain_en": ""
+  },
+  "5": {
+    "ori_img": "5.jpg",
+    "gt_img": "",
+    "ins_en": "Design a highly impactful summer refreshment-themed poster with this Coca-Cola can as the main subject. Retain a close-up view of the can in the center or slightly to the right of the image. The background should feature dynamic elements like splashing water, scattering ice cubes, and rising bubbles to create a visual burst of the drinking moment. You can add light steam mist or sunlight effects to enhance the three-dimensional effect and summer atmosphere. The main slogan should be located at the top or center, written in red and white contrast font: \"Refresh Every Moment.\" The overall style should be enthusiastic, refreshing, and memorable in line with the brand image, suitable for beverage promotions, pop-up event advertising, store windows, or as the main visual for social media.",
+    "explain_en": ""
+  },
+  "6": {
+    "ori_img": "6.jpg",
+    "gt_img": "",
+    "ins_en": "Please design a minimalist style product poster with the image as the main visual. Use a light gray solid color background. Position the glasses in the center of the frame, retaining the original light and shadow details to enhance the floating effect. Add the title text \"Classics Beyond Vision\" at the top center of the poster, using bold black font. The overall layout should be centrally symmetrical with ample white space, adopting a modern and simple style to highlight the vintage texture and design sense of the glasses.",
+    "explain_en": ""
+  },
+  "7": {
+    "ori_img": "7.jpg",
+    "gt_img": "",
+    "ins_en": "Use a light beige three-seater fabric sofa as the visual focal point, placed in a minimalist living room space with soft natural light. The background should consist of light wood or white walls, adorned with a few green plants and books to create a tranquil and soothing living atmosphere. The poster style should be Nordic minimalist, with fresh and restrained colors, strong sense of whitespace in the layout, and suggest using a sans-serif font for the headline text. The copy should read \"The gentleness of home is a corner where you can sleep peacefully.\"",
+    "explain_en": ""
+  },
+  "8": {
+    "ori_img": "8.jpg",
+    "gt_img": "",
+    "ins_en": "Use a black and white diamond pattern cushion as the main visual, highlighting the geometric structure and fabric texture with close-ups, placed in a modern urban style interior scene, such as a dark gray sofa background. The overall tone is cool and rational. The poster style is industrial minimalism, with the text layout aligned to the top left corner. The main title should be in bold sans-serif font, with the text content like \"Between Black and White Lies the Aesthetic of Life's Order.\"",
+    "explain_en": ""
+  },
+  "9": {
+    "ori_img": "9.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the image as the main visual element to depict a vintage metal wall lamp installed on a dark green wall. The lampshade is eggshell white, while the lamp arm and base are made of matte brass. The light is directed downward, illuminating a walnut-colored shelf on the wall. On the shelf, there is an open old book with a brown cover and a pair of round-frame metal glasses. The overall color scheme consists of dark green, brass gold, and creamy white. The poster title is placed in the upper left corner of the frame, written in white handwritten font, with the text: \"Where the light falls, the story begins.\"",
+    "explain_en": ""
+  },
+  "10": {
+    "ori_img": "10.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the picture as the main visual focus, placing it slightly to the left of the frame. The background should be at the junction of a warm white wall and light oak flooring. The right side should have a blank space where a small portion of linen curtain and the soft sunlight casting angled shadows are visible. The overall atmosphere should be tranquil, refreshing, and convey a strong sense of lifestyle. The color scheme of the image should primarily consist of light grey, natural wood, and natural white. The title should be placed in the bottom right corner using a thin-line sans-serif font. The text should read: \"Not only storing items, but also preserving order and peace of mind.\"",
+    "explain_en": ""
+  },
+  "11": {
+    "ori_img": "11.jpg",
+    "gt_img": "",
+    "ins_en": "Set the object in the image as the main visual focus, placing it centrally in the frame. The background should have a dark blue tone. The desk lamp is turned on, with light gradually diffusing outward, creating a warm orange-yellow halo effect. In front of the lamp base, place a dark wood desk surface with a few pages of an open magazine and a pair of sunglasses scattered on it. The overall style leans towards a vintage modern aesthetic, with strong contrasts in light and shadow. The color scheme creates tension between dark blue and orange. The title should be placed in the upper right corner of the image, with the text: \"Illuminating not just the desk, but an attitude.\"",
+    "explain_en": ""
+  },
+  "12": {
+    "ori_img": "12.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the image as the main visual focus. Place the red and black contrasting office chair in the center of a translucent white background. Above the chair, suspend a strong spotlight, and scatter various office supplies across the surrounding floor to simulate the chaotic remnants of a late-night overtime work scene. Items include scattered folders, open notebooks, dried-out pens, and torn sticky note fragments. The composition should create a high-contrast \"isolated island\" effect, adhering to an industrial minimalistic style. The overall color palette should primarily consist of black, white, and gray, with the chair retaining its vivid red color to serve as a visual anchor.",
+    "explain_en": ""
+  },
+  "13": {
+    "ori_img": "13.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the image as the main visual focus. Place the light blue handbag slightly below the center of the frame. The background should feature a dawn pink gradient sky with a soft-focus city silhouette. The ground is made of a smooth mirror material with a slightly blurred reflection, creating an airy and ethereal composition. Include minimalistic white feather elements slowly falling in the sky to enhance the dreamlike feeling. The overall color scheme should be unified in three colors: blue, white, and pink, with a soft, modern texture and a fantasy atmosphere, suitable for urban women's affordable luxury brand poster style. Position the title at the top center of the image, using a thin serif font, with the copy reading: \"Lighter than the wind, more resolute than you.\"",
+    "explain_en": ""
+  },
+  "14": {
+    "ori_img": "14.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the picture as the main visual. Place the brown-green color-block wallet slightly to the right of the center on the marble tabletop. The edge of the table should reveal a hand wearing a metal watch that has just retracted a credit card. The background features a vintage brass pendant light under hazy shadows and a dark walnut wood wall, creating a subtly luxurious still-life atmosphere. The overall color scheme should mainly consist of brown, green, gold, and dark wood tones, emphasizing a rich texture and a stable, elegant style.",
+    "explain_en": ""
+  },
+  "15": {
+    "ori_img": "15.jpg",
+    "gt_img": "",
+    "ins_en": "Focus on the hat as the main visual. Hang the lace sun hat on a white, old wooden door. The brim of the hat should slightly tilt upwards, with the bow hanging naturally. The door should display slight weathering marks, while the background should only retain parts of the door frame and the soft shadows formed by the slanting natural light. The entire composition should be centered, slightly skewed to the right. Use a color palette of off-white, light wood, and sunlit gold. The style should be quiet, natural, with a hint of nostalgia. Place the title in the upper left corner, using a fine, handwritten-style font. The caption should read: \"The wind will remember your silhouette.\"",
+    "explain_en": ""
+  },
+  "16": {
+    "ori_img": "16.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the image as the main visual element, placing the watch horizontally in the center of a dark gray background. The surrounding area should only have a faint halo illuminating the watch dial, while the rest remains dimly lit to create a high-end still life photography feel. The watch dial should reflect a delicate silver glow. Maintain a minimalist composition throughout the entire image, avoiding any unnecessary props. The style should be sophisticated, rational, and precise. Position the title in the upper right corner of the image using narrow uppercase English letters. The text should read: \"Time is the purest form of discipline.\"",
+    "explain_en": ""
+  },
+  "17": {
+    "ori_img": "17.png",
+    "gt_img": "",
+    "ins_en": "Use the image object as the main visual. Place the smartphone vertically at the center of a completely black background. The blue light emitted from the screen should be the only light source, creating a halo diffusion effect around it to enhance the visual language of \"Technology as Light.\" Do not introduce any other objects. Only place the title \"BEYOND THE EDGE\" in extremely fine white sans-serif font at the top center of the image. The overall composition should be centered and symmetrical, with a minimalist, cool, and futuristic tension, suitable for high-end tech brand visual displays or new product launch posters.",
+    "explain_en": ""
+  },
+  "18": {
+    "ori_img": "18.jpg",
+    "gt_img": "",
+    "ins_en": "Center the silver laptop front and center on a white background as the main visual focus, with the screen displaying a pure white blank state, as if waiting for a creator to inject content. Place a black fountain pen on the keyboard, with its nib pointing slightly below the center of the screen. The entire composition should be minimalistic with ample white space, and soft lighting from the top right should highlight the reflective edges of the metal material. The title should be placed in the upper part of the screen, using an ultra-thin sans-serif font that combines Chinese and English text, with the copy reading: \"All creativity begins with a blank slate.\"",
+    "explain_en": ""
+  },
+  "19": {
+    "ori_img": "19.jpeg",
+    "gt_img": "",
+    "ins_en": "Center the matte white pump bottle towards the lower middle of the image, making it the main focus. The background should depict a milky-white bathroom scene with morning light softly filtering in, resulting in gentle, natural lighting. There should be a slight reflection on the surface of the bottle creating a subtle halo effect. A ring of softly blurred water stains should be placed at the bottom of the bottle, suggesting it has just been used after a cleansing routine. The overall color palette should consist mainly of milky white, light apricot, and pale water blue, conveying a gentle, restrained style with a healing feel. Do not add any extraneous items; maintain a pure composition to emphasize the concept of \"skin's first sensation.\" Place the title in the upper left corner using a fine serif font. The copy reads: \"Gentle care starts with this pump.\"",
+    "explain_en": ""
+  },
+  "20": {
+    "ori_img": "20.jpg",
+    "gt_img": "",
+    "ins_en": "Focus on the object in the image as the main visual element. Place the beige-gold skincare tube vertically towards the right of the center on a cream-colored stone surface. The background should be a low-saturation champagne gold gradient wall. Apply soft spotlighting from above to create highlights on the bottle and a gentle shadow beneath, enhancing its texture. Keep the overall image minimalist with ample white space; the surface should have a slight mirror reflection to emphasize the product's premium feel. Do not include foam, watermarks, or everyday scenes; convey a sense of professional, high-end skincare solely through materials, lighting, and color scheme. Position the title in the upper right corner of the image with the text: \"CLEAN IS LUXURY · Softness is Cleanliness, Beauty from Essence.\"",
+    "explain_en": ""
+  },
+  "21": {
+    "ori_img": "21.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the image as the main visual focus. Place the red lipstick in the exact center of a deep gray mirrored surface. The background should have the texture of a black velvet curtain. Utilize backlighting to create a focused highlight, allowing the silver tube to reflect a cool luster, with the red lipstick being the sole warm focal point, creating a strong visual center. The mirror reflection should have a slightly soft focus to enhance the texture layers. Do not add any other props to the composition, maintaining a minimalist luxurious style. Position the title in the lower left corner of the image, using uppercase serif font. The text should read: \"ONE SWIPE FOCUS.\" The font color should be matte gold to enhance the balance and sophisticated atmosphere of the image.",
+    "explain_en": ""
+  },
+  "22": {
+    "ori_img": "22.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the image as the main visual focus. Place the white earphones on a dark marble surface by the window of a high-rise building at night, with a background of blurred city lights and bokeh effect visible through the glass window. Let the earphone cable naturally spiral, forming a \"musical note\" shape in the composition. Subtly showcase music wave particle effects emerging from the earphones, dispersing towards the upper right corner of the image. The overall color scheme includes midnight blue, dark gray, and white, with a tranquil and immersive style, and the image should feel breathable. Position the title slightly above the center of the image, using a thin, long, white sans-serif font. The text reads: \"In the world of earphones, the city becomes silent.\"",
+    "explain_en": ""
+  },
+  "23": {
+    "ori_img": "23.jpg",
+    "gt_img": "",
+    "ins_en": "Focus on the object in the image as the main visual. Vertically suspend the white over-ear headphones in the center of a deep space blue background. Soft light waves and minimal spectral lines should emanate and float between the ear cups, giving the impression of sound flowing through the air. The background should transition from deep blue to purple, simulating a deep listening experience at night. The surface of the headphones should reflect faint silvery highlights, emphasizing the material texture. The overall style should lean toward a futuristic and immersive atmosphere with a restrained and calm composition. The title should be placed at the bottom center of the image, using a narrow-bodied all-uppercase font, with the text: \"IMMERSIVE SILENCE · 沉入自己的宇宙\".",
+    "explain_en": ""
+  },
+  "24": {
+    "ori_img": "24.jpeg",
+    "gt_img": "",
+    "ins_en": "Make the main focus of the image the object, capturing the dynamic moment when milk splashes in the center of the glass. The background should be a pure white space without any distractions to enhance the cleanliness of the milk. Add a soft gray shadow at the bottom of the image to increase the three-dimensional effect. The overall composition should be extremely minimalist and restrained, using only white, silver, and light gray to highlight the visual core of \"pure, natural, healthy.\" Place the title at the center top of the image in uppercase sans-serif font, with the copy reading: \"A CUP OF WHITE, CLEAN TO THE END.\" The font should be light silver-gray to enhance the sense of sophistication and natural texture.",
+    "explain_en": ""
+  },
+  "25": {
+    "ori_img": "25.png",
+    "gt_img": "",
+    "ins_en": "Use the image of the object as the main visual focus, placing two chocolate balls slightly lower in the center of the frame. The background should feature a champagne gold gradient, with a faint warm light spilling from the top right to create highlights on the gold foil and chocolate surfaces. Surround with a few blurred golden bokeh effects to evoke the festive atmosphere or the feeling of opening a gift box. The overall color palette should primarily consist of gold, brown, and cream, with a strong sweet visual impression, maintaining restrained composition. Position the title in the top left corner with the text: \"Every bite, a moment worth celebrating.\" The font should be in a deep brown metallic color, reflecting the rich taste of the chocolate and the ceremonial feel of the packaging.",
+    "explain_en": ""
+  },
+  "26": {
+    "ori_img": "26.png",
+    "gt_img": "",
+    "ins_en": "Make the object in the image the main visual focus. Place two dark chocolate cookies stacked in the center of a deep brown velvet background. The base should have a matte black slate texture. A soft light should pour in slightly from the left at the top of the image, highlighting the gloss and dense texture of the chocolate surface. The overall color tone should feature deep brown, black, and caramel, creating a subdued, rich, and sensory atmosphere. Use a slightly upward camera angle to evoke the delicate feel of a \"premium dessert display table.\" The title should be positioned in the top right corner of the image with the text: \"Bitterness is the elegance that enters the mouth; sweetness is the gentleness hidden at the end.\"",
+    "explain_en": ""
+  },
+  "27": {
+    "ori_img": "27.jpg",
+    "gt_img": "",
+    "ins_en": "Focus on the object of the image as the main visual, place the berry cake at the center of a light pink frosted background, with the cake positioned on a round white porcelain plate. Naturally scatter a few blueberries and strawberry slices around the edge of the plate to enhance the realistic dessert scene; in the background, subtly reveal sugar powder particles and the traces of the handwritten phrase “Happy Sweet Day” to create a light and dreamy atmosphere. The overall color scheme should be primarily pink, white, and berry red, conveying a gentle, soothing style with a visual sweetness. The title is centrally placed at the top of the image, using a curved handwritten font with the text: \"Pink is the flavor of today\". The font color is berry red to enhance the sweetness and brand recognition.",
+    "explain_en": ""
+  },
+  "28": {
+    "ori_img": "28.jpeg",
+    "gt_img": "",
+    "ins_en": "Position the pink ice cream cone as the primary visual in the center of the image. The background should be a gradient sky blue, with a few hand-drawn candy illustrations and colorful bubble patterns sprinkled around to create a sweet summer vibe. Highlight the creamy texture of the ice cream with high gloss at the top, and let the cone cast a soft shadow at the bottom to enhance the 3D effect. The overall color scheme should focus on pink, blue, yellow, and white, with a bright, playful, and childlike style. Place the title in the upper center of the image, using a bold rounded handwritten font. The text should read: \"Sweet to the core, cool into summer!\" The font color should be strawberry pink with a light sugary texture effect, echoing the product itself.",
+    "explain_en": ""
+  },
+  "29": {
+    "ori_img": "29.jpg",
+    "gt_img": "",
+    "ins_en": "Center the ceramic purple clay teapot as the main visual focus, positioning it slightly to the right of the ink wash background. Place the teapot on a coarse ceramic tea tray. The background should consist of a vast area of pale gray and rice paper white for a large blank space, with a faint wisp of tea smoke subtly appearing in the upper right corner. The light should shine diagonally from the upper left to enhance the natural glaze variations and handcrafted textures on the teapot's surface. The overall color tone should primarily feature gray, red, and brown, embodying a serene and subdued style that echoes the \"silent beauty\" of Oriental objects.",
+    "explain_en": ""
+  },
+  "30": {
+    "ori_img": "30.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the image as the main visual focus, suspending a gold-chain sapphire pendant in the upper central part of a minimalist grey-blue background. The background should have a velvet texture with a subtle gradient, leaving white space below for emotional text layout. The pendant should be highlighted with focused lighting, with the sapphire reflecting star-like brilliance to enhance the sense of refinement and spirit. The overall composition should be centered and symmetrical, with a color palette of gold, blue, and light grey, showcasing a restrained, high-end style with emotional tension. The title should be placed at the center bottom of the image using a fine serif font, with the text: \"Her light never shouts, yet is dazzling enough.\"",
+    "explain_en": ""
+  },
+  "31": {
+    "ori_img": "31.jpg",
+    "gt_img": "",
+    "ins_en": "Make the object in the image the main visual focus. Place the object vertically in the upper central position of a white velvet background. The ring should be upright with a clear silhouette. Light should gently pour from the upper right, highlighting the cut brilliance of the main diamond and the intricate detailing of the diamonds on the ring's band. A soft shadow ring should be cast below the ring, maintaining a clean, restrained composition to create an extremely pure jewelry display atmosphere. The background color should transition from off-white to icy gray, retaining only a minimal reflection in the image. The title should be centered at the bottom of the image, using an elegant serif typeface in uppercase letters. The text reads: \"LOVE KNOWS NO BOUNDS, EVEN MOUNTAINS AND SEAS CAN BE OVERCOME.\" The font color should be a light silver-gray, symbolizing the eternal promise of the diamond.",
+    "explain_en": ""
+  },
+  "32": {
+    "ori_img": "32.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the image as the main visual. Place the chips packaging in the center of the frame. The background should be a gradient from vibrant yellow to sunlit orange to enhance the sense of energy. Below the packaging, several real chips are bursting out of the bag, dynamically frozen mid-air, creating a light \"chip explosion\" visual language. In the top right corner, add handwritten graffiti-style text that reads \"Let’s Snack!\" with a playful and dynamic style, suggesting a snacking social scene for young people. The title is located in the bottom left corner, using a bold sans-serif font, with the caption: “Enjoy a Moment, That’s Living”.",
+    "explain_en": ""
+  },
+  "33": {
+    "ori_img": "33.png",
+    "gt_img": "",
+    "ins_en": "Use the object in the image as the main visual element and place the colorful layered drink cup at the center of the frame. The background should transition from a bright white gradient to a soft peach pink, creating a tropical highlight effect. A clear, high-gloss glass shadow should be cast beneath the drink. Add faint color blocks reflection (pink-blue, lemon-yellow, orange-red) to the four corners of the background to enhance the visual sweetness. The overall composition revolves around the theme of \"color impact,\" with the layered gradient in the cup becoming the focal point. The title should be centered at the top of the image, using a hand-drawn-style POP font. The caption reads: \"This cup, turning summer into colors.\" The font color should be a gradient of red and yellow, with a glass-textured outline.",
+    "explain_en": ""
+  },
+  "34": {
+    "ori_img": "34.jpg",
+    "gt_img": "",
+    "ins_en": "Center the banana horizontally slightly lower than the middle of the image as the main visual focus. Use a clean pure white or slightly warm beige gradient as the background with a soft gray shadow beneath. The overall composition should be minimalist and restrained; do not introduce other fruits or props, emphasizing the natural form of the single object. The color scheme should highlight the natural color of the banana as the sole primary color, reinforcing the \"unadulterated\" visual experience. Position the title slightly above the center of the image, using sans-serif, thin lowercase English letters. The text should read: \"100% natural. Nothing added. Nothing needed.\"",
+    "explain_en": ""
+  },
+  "35": {
+    "ori_img": "35.jpg",
+    "gt_img": "",
+    "ins_en": "Use the basketball in the image as the main visual element, placing it centrally and slightly above the middle of the frame. The background should be a matte pure black, with the basketball casting a subtle circular soft shadow to highlight texture and structure. Do not include the hoop or any human figures; maintain a minimalist still-life composition, expressing power and tension solely through the basketball. The overall color scheme should be black and orange, creating a strong contrast. Position the title at the bottom center of the frame in bold sans-serif font, with the English tagline: \"No excuses. Just bounce back.\"",
+    "explain_en": ""
+  },
+  "36": {
+    "ori_img": "36.jpg",
+    "gt_img": "",
+    "ins_en": "Use the objects in the image as the main visual element. Arrange the set of coffee beans in the same manner as the original photo, placing them slightly above the center of the frame. The background should be pure white or very light beige to create natural white space. Cast soft, three-dimensional shadows below the coffee beans to enhance the sense of texture and handcrafted quality. The overall composition should be minimalist, with a quiet and high-quality aesthetic, free from any miscellaneous props or color distractions. The title should be centered at the bottom of the frame, using a fine serif English font. The text should read: \"Crafted by time. Brewed for soul.\" The font color should be dark brown or warm gray to complement the coffee bean color scheme, conveying warmth and depth. This is suitable for visual posters for coffee brands, roasting workshops, independent pour-over coffee shops, or lifestyle brands.",
+    "explain_en": ""
+  },
+  "37": {
+    "ori_img": "37.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the image as the main visual, positioning the wine bottle vertically slightly below the center of the frame. The background should feature a deep wine-red to black velvet gradient, creating a soft spotlight effect. Bottle details should be highlighted clearly, with a subtle reflection at the bottom. Do not add other objects; maintain a pure and restrained composition. In the upper right corner, elegantly typeset the text \"Timeless. Bottled.\" in serif English font, using a low-saturation gold color. The overall style should be high-end, serene, and classic.",
+    "explain_en": ""
+  },
+  "38": {
+    "ori_img": "38.jpg",
+    "gt_img": "",
+    "ins_en": "Focus on the object in the image as the main visual element, positioning it slightly below the center of the frame. The background should be pure white with a light gray gradient, and the steak should be placed on a black slate underneath to highlight the glossy texture and charred grill marks of the meat. The overall composition should be clean and restrained, without adding any other decorations. Place the text \"Bold. Juicy.\" in the top right corner of the image, using a sans-serif bold English font in dark brown color. The overall style should be simple and powerful, suitable for a high-end steak brand or minimalist visual communication.",
+    "explain_en": ""
+  },
+  "39": {
+    "ori_img": "39.jpg",
+    "gt_img": "",
+    "ins_en": "Center the main visual of the object slightly below the center of the image. The background should feature a soft warm white gradient. Add subtle glowing particles at the top to create a festive atmosphere. Ensure overall symmetry and balance in the composition, retaining only the object and a small amount of shadow at the base to highlight the main visual aspect. Position the festive English text \"Make it merry.\" at the top center of the image. Use a gold handwritten serif font with a warm and lively style, suitable for Christmas-themed event posters or main images for brand holiday promotions.",
+    "explain_en": ""
+  },
+  "40": {
+    "ori_img": "40.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the image as the main visual, placing it slightly above the center of the frame. The background should be a clean off-white or light gray gradient. Add a minimal shadow of hanging clothes below to enhance the sense of space. Maintain a restrained composition with ample blank space to highlight the material and tailoring. Arrange the text \"Essential. Effortless.\" in fine sans-serif English at the center-bottom of the image, using a neutral gray font that is simple and modern, suitable for a minimalist clothing brand, new product launch main image or basic style visual planning.",
+    "explain_en": ""
+  },
+  "41": {
+    "ori_img": "41.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the image as the main visual focus, placing the object slightly below the center of the frame. The background should feature a blurred image of a morning coffee shop street scene with warm tones. Soft natural light should filter through glass windows, and the tabletop should have a light wood grain texture to create a daily commute atmosphere. The overall composition should be restrained and fresh, preserving the object's shadow and a sense of real space. Centered at the top of the image, place the English text: \"Start here.\" Use a light sans-serif font in dark brown, with a simple and warm style suitable for specialty coffee brands, urban convenience beverage advertisements, or lifestyle visual projects.",
+    "explain_en": ""
+  },
+  "42": {
+    "ori_img": "42.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the image as the main visual focus, placing it centrally but slightly to the right. The background should be a large gradient from light gray to cool white. Add a subtle shadow on the ground at the bottom to enhance the three-dimensional effect. Maintain a minimalist design with plenty of white space. Avoid adding excessive scenes—use color contrast to highlight the shape and material of the object instead. In the upper left corner of the image, layout a simple English tagline: \"Ready when you are.\" Use a thin, sans-serif font in dark gray or black, with a crisp, modern style. This is suitable for use in visuals for luggage brands, new product posters, or the main image on an e-commerce homepage.",
+    "explain_en": ""
+  },
+  "43": {
+    "ori_img": "43.jpg",
+    "gt_img": "",
+    "ins_en": "Focus on the person as the main visual element, positioning them slightly towards the center of the lower-right corner of the image. Retain the original texture and feel of the white wall background. In the upper-left corner, draw a simplified series of dance movement trajectories using very faint gold lines (such as arm extension curves or rotation paths). The lines should be soft and complement the person's posture. Maintain an overall color scheme of off-white, nude pink, and light gold to highlight a gentle and elegant aura. In the middle of the left side of the image, place the English text: \"grace in motion.\" using an extremely thin serif font, with the font in a semi-transparent warm gray or light gold color. The overall style should be serene and artistically rich, suitable for dance workshops, art portrait exhibitions, theater visual promotions, or feminine aesthetic brand projects.",
+    "explain_en": ""
+  },
+  "44": {
+    "ori_img": "44.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the image as the main visual focus, positioning it slightly below the center of the frame. Retain the original light-colored marble texture in the background to keep a minimalist and pure overall style. Lightly overlay a thin, gold line halo at the top of the frame as a visual guide to enhance the sense of tranquility and ceremonial feel. Do not add other objects; preserve the natural shadow of the flower. Arrange English text in the top right corner: \"Still. Pure.\" The font should be a very thin sans-serif type, with the color in misty gray or light gold. The overall temperament should be ethereal and gentle, suitable for visual presentations in natural skincare, ceremonial lifestyle, aesthetic products, or still-life brands.",
+    "explain_en": ""
+  },
+  "45": {
+    "ori_img": "45.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the image as the main visual focus, positioning it slightly above the center of the frame. The background should be a light gray-blue gradient with a mild grainy texture to evoke a sense of technology and a calm atmosphere. Add a soft shadow beneath the object to enhance its three-dimensional effect. The overall image should be clean and restrained, maintaining ample white space. Position the English text \"Press Start.\" centrally at the bottom of the image in bold, sans-serif font, using black or electric blue color. The style should be simple yet powerful, suitable for game device advertisements, esports brand posters, or tech-related visual covers.",
+    "explain_en": ""
+  },
+  "46": {
+    "ori_img": "46.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the picture as the main visual, positioning the object slightly lower in the center of the frame. The background should feature a natural gradient blending lemon yellow and white. Add subtle, semi-transparent brush strokes of juice splatters at the edges to enhance the fruitiness and liveliness. The overall image should be refreshing and bright. Position the main text centrally at the top: \"100% NFC Lemon Juice.\" Use a rounded, sans-serif font, with the font color transitioning from light green to orange-yellow. The style should be natural and organic, suitable for the main visual and product image of brands in the cold-pressed juice, natural beverage, and health food categories.",
+    "explain_en": ""
+  },
+  "47": {
+    "ori_img": "47.jpg",
+    "gt_img": "",
+    "ins_en": "Use the animal in the image as the main visual element, positioning it slightly lower in the center of the frame. The background should be a softly focused green lawn, maintaining natural texture but overall appearing gentle and fresh. Preserve the dynamic pose and expression of the animal leaping, enhancing the lively atmosphere. Add a small caption in the upper left corner of the image: \"Full of Joy.\" Use a playful, handwritten style font in pale yellow or sky blue color. The overall style should be light and natural, suitable for pet brand promotions, pet product packaging, outdoor pet event visual posters, and similar applications.",
+    "explain_en": ""
+  },
+  "48": {
+    "ori_img": "48.jpg",
+    "gt_img": "",
+    "ins_en": "Use the image object as the main visual focus. Position the object slightly to the right of the center of the frame. Employ a background with a gray-white velvet texture gradient, accompanied by a subdued halo to enhance the luxurious feel. Add a small amount of gold serif font copy in the top left corner of the frame: \"Elegance, Always.\" At the bottom center, mark the brand name \"GUCCI\" in subtle gold fine lettering. Ensure the overall composition is symmetrical and leaves white space, with soft lighting to create a sophisticated, understated, and elegant atmosphere. This setup is suitable for luxury magazine advertisements, brand brochures, or flagship display images.",
+    "explain_en": ""
+  },
+  "49": {
+    "ori_img": "49.jpg",
+    "gt_img": "",
+    "ins_en": "Use the object in the image as the main visual, placing it slightly below the center of the frame. Apply a blurred effect to the background using an urban nightscape, and introduce a small amount of neon light reflection and a dark gray gradient texture to enhance the visual tension of speed and power. In the top left corner, use a silver-gray sans-serif font to add the minimalistic text: \"Unleash the Drive.\" In the bottom center, use smaller lettering to indicate the brand name Ferrari. The overall style is minimalist, cool, and full of tension, suitable for high-end sports car brand advertising or performance poster design.",
+    "explain_en": ""
+  },
+  "50": {
+    "ori_img": "50.png",
+    "gt_img": "",
+    "ins_en": "Use the object as the main visual focus and place it in the lower-left third of the image. The background should be a light blue gradient sky and the sunlit ground of a skateboard park, creating the atmosphere of summer outdoor sports. Add slight dynamic shadows to convey the texture of wind blowing against the pants. In the upper-right corner, add a brief tagline: \"Just Breathe.\" using a lively font. The tagline should be white with a light yellow outline, creating a light contrast with the overall image. This is suitable for visual applications such as streetwear, e-commerce new arrivals, and summer outfit recommendations.",
+    "explain_en": ""
+  },
+  "51": {
+    "ori_img": "51.jpg",
+    "gt_img": "",
+    "ins_en": "Design a fresh and natural home plant poster centered around the given green plant. Add floating water droplets and green leaf silhouettes to create a humid and lively atmosphere. Use a light green gradient background with soft halo effects for a refreshing feel. Place an elegant title 'Green Home' on the top left in a natural-style font. The overall tone should be natural and warm, suitable for home brand promotion, new product launches, or online plant store displays.",
+    "explain_en": ""
+  },
+  "52": {
+    "ori_img": "52.jpg",
+    "gt_img": "",
+    "ins_en": "Design an elegant and romantic art poster centered around the given crystal flower. Maintain clarity and detail, and add soft glow effects to mimic light refraction. Use a warm pink-to-white gradient background with subtle petal textures to enhance depth. Add an elegant title 'Crystal Moments' at the top in a fine handwritten font with gold elements to harmonize with the flower's golden parts.",
+    "explain_en": ""
+  },
+  "53": {
+    "ori_img": "53.jpg",
+    "gt_img": "",
+    "ins_en": "Design a joyful children's event poster using the provided bear balloon image. Position the balloon slightly to the right and add cartoon-style stars, clouds, and candy patterns around it. Use a sky-blue gradient background with fluffy white clouds. Place the title 'Bear Balloon Party' at the top in bold colorful font. The style should be cheerful and cute, ideal for children’s festivals, mall events, or daycare publicity.",
+    "explain_en": ""
+  },
+  "54": {
+    "ori_img": "54.jpg",
+    "gt_img": "",
+    "ins_en": "Design a modern seafood-themed poster using the provided salmon image. Center the fish, highlighting its texture and color. Surround it with lemon slices, sea salt, and herbs. Use a turquoise gradient background with soft glow for freshness. Place the title 'Fresh · Pure · Quality' at the top in white bold modern font. The design suits high-end seafood restaurant promos and online marketing.",
+    "explain_en": ""
+  },
+  "55": {
+    "ori_img": "55.jpg",
+    "gt_img": "",
+    "ins_en": "Design a modern English learning poster using the given book image. Center the book, highlighting its UK-themed cover. Add floating letters, pages, and colored pencils. Use a soft blue gradient background with abstract textures. Add the title 'Improve English · Unlock the World' at the top in a bold modern sans-serif font. Suitable for language school recruitment or online platform promotion.",
+    "explain_en": ""
+  },
+  "56": {
+    "ori_img": "56.jpg",
+    "gt_img": "",
+    "ins_en": "This poster features a traditional-style painting, suitable for art exhibitions or cultural events. Keep the painting centered and surround it with light clouds and flying cranes. Use a soft blue gradient background with cloud motifs. Add a soft glow to highlight the frame. The top text 'Artistic Charm: Beauty of Tradition' should be in large elegant serif font. Add event info in handwritten style at the bottom left.",
+    "explain_en": ""
+  },
+  "57": {
+    "ori_img": "57.jpg",
+    "gt_img": "",
+    "ins_en": "Design a dynamic and energetic sports poster with the runner in the given image as the central figure. Position the runner slightly to the right in a powerful sprinting pose to emphasize strength and speed. Use a gradient background from deep to light blue with abstract motion lines that simulate wind flow and convey speed. Add floating stars and light dots to create a vibrant and tech-inspired atmosphere. Place a bold, modern font title 'Full Speed Ahead' at the top center, with a brief subtitle or slogan in white at the bottom for contrast. The overall style should be modern and energetic, suitable for sports brand promotions, new running shoes launches, or gym marketing campaigns.",
+    "explain_en": ""
+  },
+  "58": {
+    "ori_img": "58.jpg",
+    "gt_img": "",
+    "ins_en": "Design a cute and heartwarming promotional poster with the cat as the main subject. Place the cat in the center, enlarged slightly to become the visual focus. Use a soft pink and blue gradient background to contrast with the white fur, creating a cozy and peaceful mood. Decorate with floating paw prints, heart-shaped bubbles, and other playful elements. Add a hand-drawn-style title 'Pet Home' in bright pink above the cat. Include a middle-sized tagline below: 'Add warmth to your life' in a minimalist sans-serif font in light gray. Ideal for pet store promotions, grand openings, or pet-themed social media marketing.",
+    "explain_en": ""
+  },
+  "59": {
+    "ori_img": "59.jpg",
+    "gt_img": "",
+    "ins_en": "Design a vibrant promotional poster for the bicycle, placing it at the center as the visual focus to highlight its style and dynamic feel. Use a gradient background of blue and green to resemble natural mountain scenery and evoke a sense of riding in open spaces. Add mountain and city silhouettes to emphasize its versatile use. Surround it with dynamic wind lines and motion trails for a sense of speed and technology. At the top, place the bold headline 'Conquer City and Mountain' and beside the bike, include a short slogan like 'Ride Free, Enjoy Freedom!'. The style should be modern and lively, ideal for in-store displays, online promotions, or cycling event advertising.",
+    "explain_en": ""
+  },
+  "60": {
+    "ori_img": "60.jpg",
+    "gt_img": "",
+    "ins_en": "Design a romantic travel-themed poster featuring the Eiffel Tower. Center the tower and maintain clarity to show its grandeur. Use a soft bluish-purple gradient background with subtle star effects to create a dreamy and romantic atmosphere. Add floating clouds and flying birds to enhance the sense of freedom and nature. At the top center, place the title 'Charm of Paris' in elegant handwritten font, followed by the subtitle 'A romantic journey begins here' in gold or white to enhance the premium feel. Add travel agency details on the bottom left in clean sans-serif font to keep focus on the main visuals.",
+    "explain_en": ""
+  },
+  "61": {
+    "ori_img": "61.jpg",
+    "gt_img": "",
+    "ins_en": "Create a stylish shoe advertisement poster centered on the given high heels. Place the heels prominently to showcase their sleek white texture and elegant curves. Add floating gold glitter, fine ink lines, or floral patterns around them to convey a sense of modern luxury. Use a light gray-to-white gradient background with soft lighting for a high-end, fresh look. Add the title 'Grace in Every Step' in bold gold uppercase font at the top center with slight shadow. Include the slogan 'Walk in elegance, step with confidence' below in clean sans-serif font. Ideal for high-end shoe promotions or boutique window displays.",
+    "explain_en": ""
+  },
+  "62": {
+    "ori_img": "62.jpg",
+    "gt_img": "",
+    "ins_en": "Design a fashionable, tech-inspired promotional poster featuring the glasses. Position them slightly to the left with dazzling light effects to highlight the transparency and streamlined shape. Use a dark gradient background with abstract geometric patterns and subtle light lines to create a futuristic mood. On the right, add floating light dots and glowing streaks to enhance the trendy vibe. Use a bold sans-serif font for the headline 'Trend Leader' at the top center, with brand logo and a sharp slogan at the bottom. Ideal for product launches, online promotions, or retail displays targeting a fashion-forward audience.",
+    "explain_en": ""
+  },
+  "63": {
+    "ori_img": "63.jpg",
+    "gt_img": "",
+    "ins_en": "Design an energetic and dynamic poster using the provided tennis racket and ball. Cross the rackets in the center for visual symmetry and place a tennis ball slightly lower to the right for motion. Add flying balls, speed lines, and glowing effects to evoke high-speed action. Use a blue-to-green gradient background resembling a tennis court with modern textures. Add a bold title 'Swing with Passion, Go All Out' at the top center. Perfect for promoting tennis clubs, sports events, or new athletic gear.",
+    "explain_en": ""
+  },
+  "64": {
+    "ori_img": "64.jpg",
+    "gt_img": "",
+    "ins_en": "Design an elegant wedding-themed poster based on the provided image. Place the figure in a wedding dress slightly to the right of center, making it the visual focal point. Use a soft light green gradient background with petal overlays and lace patterns to create a dreamy and romantic feel. Add subtle glow effects to highlight dress details. Use a large, gold-accented handwritten-style title 'The Big Day' at the top center. Place additional information in clean font at the bottom. Ideal for wedding fairs, bridal shop displays, or event promotions.",
+    "explain_en": ""
+  },
+  "65": {
+    "ori_img": "65.jpg",
+    "gt_img": "",
+    "ins_en": "Design a stylish and elegant product poster centered around the umbrella. Keep the floral pattern clear and add translucent raindrops and delicate petals around it to suggest a post-rain romantic scene. Use a soft pink-to-blue gradient background with abstract textures for depth. Add a flowing script-style title 'Strolling Among Flowers' at the bottom center. The design emphasizes beauty and innovation, perfect for mall showcases, brand promotions, or lifestyle e-commerce.",
+    "explain_en": ""
+  },
+  "66": {
+    "ori_img": "66.jpg",
+    "gt_img": "",
+    "ins_en": "Design a festive promotional poster based on the provided red lantern image. Place the lantern at the center with golden willow decorations and scattered red petals to create a vibrant holiday feel. Use a red-to-gold gradient background with soft glow and sparkling effects to convey warmth and celebration. Add a bold golden headline 'Welcoming Spring Festival' at the top center, and a short festive slogan like 'Celebrate the New Year in Lights' in modern calligraphy at the bottom. A mix of traditional and modern styles, ideal for Chinese New Year events or online campaigns.",
+    "explain_en": ""
+  },
+  "67": {
+    "ori_img": "67.jpg",
+    "gt_img": "",
+    "ins_en": "Design a sweet-themed fashion poster centered on the pink dress. Keep the dress prominent and surround it with floating petals, butterflies, and soft clouds to enhance the dreamy and romantic mood. Use a soft pink gradient background with faint halos for a gentle look. Add a handwritten-style headline at the top center: 'Fairy Girl's Favorite', and a slogan below: 'The perfect blend of elegance and sweetness'. Ideal for children's clothing promotions or pastel-style campaigns.",
+    "explain_en": ""
+  },
+  "68": {
+    "ori_img": "68.jpg",
+    "gt_img": "",
+    "ins_en": "Create a promotional poster for honey products with the honeycomb and dipper as the main visuals. Place them at the center and highlight their rich texture and color. Use a gradient background from light yellow to gold to reflect warmth and natural quality. Add floating honey drops and flower petals to enhance sweetness and freshness. Include soft glow effects for a gentle ambiance. Title: 'Pure Natural Honey' in bold font at the top center. Add a concise description at the bottom to highlight the product's health benefits. Ideal for store displays, product launches, or online marketplaces.",
+    "explain_en": ""
+  },
+  "69": {
+    "ori_img": "69.jpg",
+    "gt_img": "",
+    "ins_en": "Design a modern, tech-themed city travel poster featuring the Statue of Liberty. Center the statue to showcase its grandeur. Use a fresh blue-green gradient background with subtle grid patterns to convey a futuristic urban vibe. Add soft white stars in the top-right corner to symbolize hope. Use a bold sans-serif title 'Explore the Journey of Freedom' at the top center. Below, include a tagline like 'Feel the heartbeat and soul of New York' in lighter font. Ideal for tourism ads, airport billboards, or online travel platforms.",
+    "explain_en": ""
+  },
+  "70": {
+    "ori_img": "70.png",
+    "gt_img": "",
+    "ins_en": "Design a high-energy extreme sports poster using the skateboarder image. Place the skater in mid-air near the upper center for strong visual impact. Use a deep blue gradient background with abstract motion lines and light effects to emphasize speed. Add city skyline shapes at the edges to blend urban culture with sports. Include skateboard parts and lightning icons for added excitement. Title like 'Dare to Leap' or 'Extreme Challenge' in large yellow bold font at the top. Add a short call-to-action at the bottom like 'Join the challenge, unleash your passion'. Perfect for brand campaigns or extreme sports events.",
+    "explain_en": ""
+  },
+  "71": {
+    "ori_img": "71.jpg",
+    "gt_img": "",
+    "ins_en": "Design a luxurious-themed promotional poster based on the crown image. Place the crown centrally to highlight its ornate design and gemstones. Use a gradient background of deep blue and gold with abstract halos and star effects to evoke grandeur. Add soft glow bands above and below for depth. Title: 'Crowned in Glory' in gold 3D-style font at the top center, with a slogan like 'Experience the Luxury Life' in white below. Suitable for high-end jewelry promotions, brand ads, or event backdrops.",
+    "explain_en": ""
+  },
+  "72": {
+    "ori_img": "72.jpg",
+    "gt_img": "",
+    "ins_en": "Create an art workshop promotional poster with the paintbrush image. Place the hand holding the brush in the bottom-left corner, highlighting the texture and detail. Use a soft beige gradient background inspired by handmade paper for a warm, natural feel. Add colorful brushstrokes and splatter effects to symbolize creative energy. At the top center, place the bold title 'Creative Painting Workshop' in dark contrasting color. Add workshop details in smaller clean font at the bottom right. Ideal for art events, studio promotions, or festival advertising.",
+    "explain_en": ""
+  },
+  "73": {
+    "ori_img": "73.png",
+    "gt_img": "",
+    "ins_en": "Design a traditional culture-themed poster using the 'Fu' paper cutting. Center the character to emphasize its festive and peaceful vibe. Surround it with ribbons, lanterns, and plum blossoms for a lively Chinese New Year atmosphere. Use a warm red-to-gold gradient background with water-like textures for richness. Add a bold golden title 'A Home Full of Blessings' at the top. Ideal for holiday mall displays, online campaigns, or community event promotions.",
+    "explain_en": ""
+  },
+  "74": {
+    "ori_img": "74.jpg",
+    "gt_img": "",
+    "ins_en": "Design a public donation campaign poster with the person in the image slightly right of center. Ensure they look directly at viewers for emotional connection. Add floating heart symbols, hand-in-hand icons, and Earth graphics to represent love and help. Use a soft blue-green gradient background to convey hope and warmth. Add a bold title 'Give Your Love' in warm tones like orange-red or gold at the top. Below, a simple call to action like 'Join the donation, change a life' in clear font. Ideal for charity event backdrops, community posters, or online fundraisers.",
+    "explain_en": ""
+  },
+  "75": {
+    "ori_img": "75.jpg",
+    "gt_img": "",
+    "ins_en": "Create a cheerful and lively event poster with the provided photo. Center the person wearing a paper crown to highlight their joyful expression. Add confetti, balloons, and fireworks for a festive vibe. Use a rainbow gradient background with soft cloud textures to evoke fun and positivity. Include radiant light effects from behind the figure. Title: 'Joyful Moments, Celebrate This Summer!' in large modern sans-serif font at the top. Below, a smaller tagline: 'Join our party and enjoy the fun'. Ideal for community events, store openings, or social media campaigns targeting youth.",
+    "explain_en": ""
+  }
+}

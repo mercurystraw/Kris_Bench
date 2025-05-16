@@ -1,0 +1,452 @@
+{
+  "1": {
+    "ori_img": "1.png",
+    "gt_img": "",
+    "ins_en": "Add a piece of solid sodium to the water",
+    "explain_en": "A large amount of heat will be released, causing the water to boil"
+  },
+  "2": {
+    "ori_img": "2.jpg",
+    "gt_img": "",
+    "ins_en": "Color change of red cabbage pH indicator when dropped into a cup of water",
+    "explain_en": "In the image, it changes to yellow or green when mixed with soap solution"
+  },
+  "3": {
+    "ori_img": "3.jpg",
+    "gt_img": "",
+    "ins_en": "Color change of red cabbage pH indicator after being added to a glass of water",
+    "explain_en": "Vinegar is acidic and changes to red or pink"
+  },
+  "4": {
+    "ori_img": "4.jpg",
+    "gt_img": "",
+    "ins_en": "Color changes of red cabbage pH indicator when dropped into a glass of water",
+    "explain_en": "Yogurt is acidic, turning red or pink"
+  },
+  "5": {
+    "ori_img": "5.jpg",
+    "gt_img": "",
+    "ins_en": "Color change of red cabbage pH indicator when dropped into a glass of water.",
+    "explain_en": "The image shows soda water, which changes to yellow or green."
+  },
+  "6": {
+    "ori_img": "6.jpg",
+    "gt_img": "",
+    "ins_en": "Color Change of Red Cabbage pH Indicator After Being Dropped into a Water Cup",
+    "explain_en": "In the image, lemon juice is acidic and changes to red or pink."
+  },
+  "7": {
+    "ori_img": "7.png",
+    "gt_img": "",
+    "ins_en": "Changes after dropping litmus solution into the pool",
+    "explain_en": "The soapy water in the pool is alkaline and turns blue."
+  },
+  "8": {
+    "ori_img": "8.png",
+    "gt_img": "",
+    "ins_en": "Modify the soap to appear as it would after rancidification.",
+    "explain_en": "The oils inside the soap are oxidized, causing the color to turn yellow, with cracks and small spots appearing on the surface, making it look rough."
+  },
+  "9": {
+    "ori_img": "9.png",
+    "gt_img": "",
+    "ins_en": "Place calcium carbonate into the cup and observe the changes.",
+    "explain_en": "It reacts with acetic acid to produce small bubbles."
+  },
+  "10": {
+    "ori_img": "10.png",
+    "gt_img": "",
+    "ins_en": "Color change after dropping phenolphthalein reagent into the bowl",
+    "explain_en": "Baking soda is alkaline and turns pink"
+  },
+  "11": {
+    "ori_img": "11.jpg",
+    "gt_img": "",
+    "ins_en": "Color change after adding phenolphthalein reagent to the container",
+    "explain_en": "Hydrochloric acid is acidic, does not change color, remains colorless"
+  },
+  "12": {
+    "ori_img": "12.png",
+    "gt_img": "",
+    "ins_en": "Color change after phenolphthalein reagent is added to this cup of pure water",
+    "explain_en": "No color change, remains colorless"
+  },
+  "13": {
+    "ori_img": "13.png",
+    "gt_img": "",
+    "ins_en": "Add some marble chips into the test tube to induce a reaction",
+    "explain_en": "Reacts with hydrochloric acid to produce bubbles"
+  },
+  "14": {
+    "ori_img": "14.jpg",
+    "gt_img": "",
+    "ins_en": "Color change after adding phenolphthalein reagent to this bottle of chemical liquid",
+    "explain_en": "Soda water is alkaline, turning pink"
+  },
+  "15": {
+    "ori_img": "15.jpg",
+    "gt_img": "",
+    "ins_en": "Place a piece of copper into the chemical reagent shown in the picture, and observe the color change after a period of time.",
+    "explain_en": "It reacts with nitric acid to form blue copper nitrate."
+  },
+  "16": {
+    "ori_img": "16.jpg",
+    "gt_img": "",
+    "ins_en": "Change to incorporate the color of burning lithium elements.",
+    "explain_en": "When lithium elements burn, the flame appears magenta (deep red)."
+  },
+  "17": {
+    "ori_img": "17.jpg",
+    "gt_img": "",
+    "ins_en": "Observe the test tube containing quinine water under a UV lamp",
+    "explain_en": "Quinine emits a blue fluorescence under ultraviolet light"
+  },
+  "18": {
+    "ori_img": "18.jpg",
+    "gt_img": "",
+    "ins_en": "Change to add the color of K element combustion",
+    "explain_en": "When potassium element burns, the flame appears light purple or pale purple."
+  },
+  "19": {
+    "ori_img": "19.jpg",
+    "gt_img": "",
+    "ins_en": "Add a sodium hydroxide solution dropwise to a ferric chloride solution.",
+    "explain_en": "A reddish-brown iron(III) hydroxide precipitate is formed."
+  },
+  "20": {
+    "ori_img": "20.jpg",
+    "gt_img": "",
+    "ins_en": "Add an excess of sodium carbonate to the calcium chloride solution",
+    "explain_en": "A white precipitate of calcium carbonate is formed"
+  },
+  "21": {
+    "ori_img": "21.jpg",
+    "gt_img": "",
+    "ins_en": "Change to include the color of burning Ba element",
+    "explain_en": "When the element barium burns, the flame appears yellow-green"
+  },
+  "22": {
+    "ori_img": "22.png",
+    "gt_img": "",
+    "ins_en": "Both cups contain soy milk, with red laser entering from the left side.",
+    "explain_en": "The red laser can penetrate both cups to form a beam."
+  },
+  "23": {
+    "ori_img": "23.png",
+    "gt_img": "",
+    "ins_en": "Both cups are filled with pure water, with a green laser entering from the left",
+    "explain_en": "The laser beam is unable to create a light column on either of the cups"
+  },
+  "24": {
+    "ori_img": "24.jpg",
+    "gt_img": "",
+    "ins_en": "Add an appropriate amount of iron powder to this dilute nitric acid solution",
+    "explain_en": "The solution changes from colorless to light green, and bubbles are generated"
+  },
+  "25": {
+    "ori_img": "25.jpg",
+    "gt_img": "",
+    "ins_en": "Appearance after adding manganese dioxide to this cup of hydrogen peroxide",
+    "explain_en": "Produces a large amount of bubbles"
+  },
+  "26": {
+    "ori_img": "26.png",
+    "gt_img": "",
+    "ins_en": "The appearance after the circuit is connected.",
+    "explain_en": "The bulb will light up."
+  },
+  "27": {
+    "ori_img": "27.jpeg",
+    "gt_img": "",
+    "ins_en": "Add a little concentrated sulfuric acid into the cup and observe the changes after a period of time",
+    "explain_en": "Concentrated sulfuric acid releases heat when it encounters water, causing the ice to melt"
+  },
+  "28": {
+    "ori_img": "28.jpg",
+    "gt_img": "",
+    "ins_en": "Drip some iodine solution onto this pile of powder.",
+    "explain_en": "Cornstarch turns blue when it encounters iodine."
+  },
+  "29": {
+    "ori_img": "29.jpg",
+    "gt_img": "",
+    "ins_en": "Add a portion of baking soda to this liquid.",
+    "explain_en": "It reacts with acetic acid to produce small bubbles."
+  },
+  "30": {
+    "ori_img": "30.png",
+    "gt_img": "",
+    "ins_en": "Water Level Change after the Device in the Image Starts Running for a While",
+    "explain_en": "The water electrolysis device produces hydrogen and oxygen. The liquid level of hydrogen is lower, and it generates more gas."
+  },
+  "31": {
+    "ori_img": "31.jpg",
+    "gt_img": "",
+    "ins_en": "Cool the solution in the image to crystallize.",
+    "explain_en": "Blue copper sulfate crystals are formed."
+  },
+  "32": {
+    "ori_img": "32.jpg",
+    "gt_img": "",
+    "ins_en": "Silver jewelry exposed to a sulfur-containing environment for an extended period",
+    "explain_en": "Silver jewelry turns black upon contact with sulfur"
+  },
+  "33": {
+    "ori_img": "33.jpg",
+    "gt_img": "",
+    "ins_en": "Place the iron block in the solution to carry out the displacement reaction",
+    "explain_en": "It turns into a pale green ferrous sulfate"
+  },
+  "34": {
+    "ori_img": "34.png",
+    "gt_img": "",
+    "ins_en": "Add a large amount of vitamin C to the solution in the image.",
+    "explain_en": "It undergoes an oxidation reaction with the purple potassium permanganate solution, turning colorless."
+  },
+  "35": {
+    "ori_img": "35.jpg",
+    "gt_img": "",
+    "ins_en": "Add a portion of sucrose inside",
+    "explain_en": "The sucrose expands and forms a black porous columnar structure"
+  },
+  "36": {
+    "ori_img": "36.png",
+    "gt_img": "",
+    "ins_en": "Fill the glass cover with a large amount of carbon dioxide",
+    "explain_en": "The candle goes out"
+  },
+  "37": {
+    "ori_img": "37.png",
+    "gt_img": "",
+    "ins_en": "Add a little lemon juice to the sodium bicarbonate solution in the picture.",
+    "explain_en": "The reaction produces small bubbles."
+  },
+  "38": {
+    "ori_img": "38.jpg",
+    "gt_img": "",
+    "ins_en": "Add copper sulfate solution to the protein solution in the image",
+    "explain_en": "A Biuret reaction occurs, turning purple"
+  },
+  "39": {
+    "ori_img": "39.png",
+    "gt_img": "",
+    "ins_en": "Ignite this magnesium ribbon",
+    "explain_en": "Magnesium ribbon burns vigorously in air, emitting intense white light and producing white magnesium oxide powder."
+  },
+  "40": {
+    "ori_img": "40.jpg",
+    "gt_img": "",
+    "ins_en": "Ignite this pile of red phosphorus in the air.",
+    "explain_en": "Red phosphorus burns slowly in the air, producing white smoke (phosphorus pentoxide), accompanied by a faint flame."
+  },
+  "41": {
+    "ori_img": "41.jpeg",
+    "gt_img": "",
+    "ins_en": "Modify the test tube content to ferric thiocyanate solution",
+    "explain_en": "It turns into a blood-red solution"
+  },
+  "42": {
+    "ori_img": "42.png",
+    "gt_img": "",
+    "ins_en": "The appearance of red phosphorus burning vigorously in oxygen",
+    "explain_en": "Red phosphorus burns vigorously in oxygen, producing a more intense flame and rapidly generating a large amount of white smoke."
+  },
+  "43": {
+    "ori_img": "43.jpg",
+    "gt_img": "",
+    "ins_en": "After adding ferrous sulfide to the wastewater on the left for a period of time",
+    "explain_en": "Precipitate forms, and the water becomes clear"
+  },
+  "44": {
+    "ori_img": "44.jpg",
+    "gt_img": "",
+    "ins_en": "Continuously expose this pile of silver chloride to light.",
+    "explain_en": "Silver chloride decomposes under light exposure to produce metallic silver and chlorine gas, with the color gradually changing from white to gray and even to black-brown."
+  },
+  "45": {
+    "ori_img": "45.png",
+    "gt_img": "",
+    "ins_en": "Ignite this iron wire in oxygen.",
+    "explain_en": "The iron wire burns vigorously in oxygen, producing dazzling sparks."
+  },
+  "46": {
+    "ori_img": "46.jpg",
+    "gt_img": "",
+    "ins_en": "Ignite this pile of sulfur powder",
+    "explain_en": "When sulfur powder burns, it emits a blue-purple flame"
+  },
+  "47": {
+    "ori_img": "47.png",
+    "gt_img": "",
+    "ins_en": "Add copper sulfate solution to the solution in the image.",
+    "explain_en": "It reacts with sodium hydroxide to produce copper hydroxide, forming a blue flocculent precipitate."
+  },
+  "48": {
+    "ori_img": "48.jpg",
+    "gt_img": "",
+    "ins_en": "Add barium chloride solution to the solution in the image",
+    "explain_en": "Dilute sulfuric acid reacts with barium chloride to produce a white precipitate"
+  },
+  "49": {
+    "ori_img": "49.jpg",
+    "gt_img": "",
+    "ins_en": "Modify this pile of iron powder into copper(II) chloride crystals",
+    "explain_en": "Transform into dark green crystals"
+  },
+  "50": {
+    "ori_img": "50.jpg",
+    "gt_img": "",
+    "ins_en": "Add a portion of water to this pile of anhydrous copper sulfate",
+    "explain_en": "Transforms into blue crystals"
+  },
+  "51": {
+    "ori_img": "51.jpg",
+    "gt_img": "",
+    "ins_en": "Add a few drops of brine to this colorless solution and show the change.",
+    "explain_en": "The original solution is silver nitrate; chloride ions form a white silver chloride precipitate."
+  },
+  "52": {
+    "ori_img": "52.png",
+    "gt_img": "",
+    "ins_en": "Bubble carbon dioxide slowly into the beaker and show the colour shift.",
+    "explain_en": "Litmus solution turns from blue to red as it becomes acidic."
+  },
+  "53": {
+    "ori_img": "53.jpeg",
+    "gt_img": "",
+    "ins_en": "Add copper sulfate solution to the solution in the image and show the final colour.",
+    "explain_en": "Copper ions complex with ammonia to give an intense royal‑blue tetraammine copper(II) complex."
+  },
+  "54": {
+    "ori_img": "54.png",
+    "gt_img": "",
+    "ins_en": "Ignite the grey mixture of iron oxide and aluminium powder and show the sparks.",
+    "explain_en": "The thermite reaction emits intense light."
+  },
+  "55": {
+    "ori_img": "55.png",
+    "gt_img": "",
+    "ins_en": "Exhale into the test tube of clear limewater for some time and show the result.",
+    "explain_en": "Carbon dioxide turns limewater milky due to calcium carbonate precipitation."
+  },
+  "56": {
+    "ori_img": "56.jpg",
+    "gt_img": "",
+    "ins_en": "Partially immerse the zinc strip in copper sulfate solution overnight and show the change.",
+    "explain_en": "Copper plates onto the zinc as a red layer."
+  },
+  "57": {
+    "ori_img": "57.jpg",
+    "gt_img": "",
+    "ins_en": "Add water to the cobalt chloride paper.",
+    "explain_en": "The paper shifts from blue to pink."
+  },
+  "58": {
+    "ori_img": "58.jpg",
+    "gt_img": "",
+    "ins_en": "Add concentrated hydrochloric acid to the cup of blue copper sulfate crystals and show the colour.",
+    "explain_en": "Chloride replaces water ligands, turning the solution green."
+  },
+  "59": {
+    "ori_img": "59.jpeg",
+    "gt_img": "",
+    "ins_en": "Expose this highlighter under UV light.",
+    "explain_en": "The yellow highlighter glows green."
+  },
+  "60": {
+    "ori_img": "60.jpg",
+    "gt_img": "",
+    "ins_en": "Expose this highlighter under UV light.",
+    "explain_en": "The pink highlighter glows orange."
+  },
+  "61": {
+    "ori_img": "61.jpg",
+    "gt_img": "",
+    "ins_en": "Expose egg‑white solution to nitric acid briefly and show the change.",
+    "explain_en": "Proteins denature and coagulate into a white solid."
+  },
+  "62": {
+    "ori_img": "62.jpg",
+    "gt_img": "",
+    "ins_en": "Add a drop of formaldehyde solution to the Fehling’s reagent in the image and show the colour.",
+    "explain_en": "A brick‑red cuprous oxide precipitate forms."
+  },
+  "63": {
+    "ori_img": "63.jpg",
+    "gt_img": "",
+    "ins_en": "Drop dry ice into phenolphthalein solution and show the colour after minutes.",
+    "explain_en": "Dissolving CO₂ lowers pH; the solution fades from pink to colourless."
+  },
+  "64": {
+    "ori_img": "64.jpg",
+    "gt_img": "",
+    "ins_en": "Dissolve sodium sulfide crystals in water and add to the lead acetate solution in the image; show the colour.",
+    "explain_en": "A black lead(II) sulfide precipitate forms."
+  },
+  "65": {
+    "ori_img": "65.jpg",
+    "gt_img": "",
+    "ins_en": "Show the road surface two hours after spreading table salt on icy pavement.",
+    "explain_en": "Sodium chloride lowers the freezing point; residual snow melts, leaving wet patches."
+  },
+  "66": {
+    "ori_img": "66.jpg",
+    "gt_img": "",
+    "ins_en": "Heat a spoonful of white sugar in a pan and show the colour progression.",
+    "explain_en": "Sucrose caramelises, shifting from white to dark brown."
+  },
+  "67": {
+    "ori_img": "67.jpg",
+    "gt_img": "",
+    "ins_en": "Pour red‑cabbage juice into the cup containing dish soap solution; show the colour.",
+    "explain_en": "Dish soap is mildly alkaline; the solution turns green."
+  },
+  "68": {
+    "ori_img": "68.jpg",
+    "gt_img": "",
+    "ins_en": "Add calcium chloride pellets to ice water after 5 min.",
+    "explain_en": "Anhydrous CaCl₂ dissolves exothermically, the ice melts."
+  },
+  "69": {
+    "ori_img": "69.jpg",
+    "gt_img": "",
+    "ins_en": "Immerse the egg in vinegar water for 5 min; show its appearance.",
+    "explain_en": "Acetic acid dissolves calcium carbonate; the shell shows bubbles."
+  },
+  "70": {
+    "ori_img": "70.jpg",
+    "gt_img": "",
+    "ins_en": "Soak a copper coin in a salt and vinegar mixture for 10 minutes; show the change.",
+    "explain_en": "Acidic chloride solution dissolves copper oxides, revealing shiny copper."
+  },
+  "71": {
+    "ori_img": "71.jpg",
+    "gt_img": "",
+    "ins_en": "Change to show the cotton swab soaked in iodine tincture after dipping in vitamin C solution for a while.",
+    "explain_en": "Ascorbic acid reduces I₂, causing the swab to fade and become lighter."
+  },
+  "72": {
+    "ori_img": "72.jpg",
+    "gt_img": "",
+    "ins_en": "Change to show the color of fresh rose petals after soaking in dilute alkaline water for 5 minutes.",
+    "explain_en": "Anthocyanins in the petals change from red to blue-green in alkaline conditions."
+  },
+  "73": {
+    "ori_img": "73.jpg",
+    "gt_img": "",
+    "ins_en": "Change to show the color of iron‑rich natural water.",
+    "explain_en": "The water should be reddish‑brown."
+  },
+  "74": {
+    "ori_img": "74.jpg",
+    "gt_img": "",
+    "ins_en": "Drop red cabbage juice on rice.",
+    "explain_en": "Slightly acidic rice turns pink."
+  },
+  "75": {
+    "ori_img": "75.jpg",
+    "gt_img": "",
+    "ins_en": "Drop red cabbage juice on Kansui noodles.",
+    "explain_en": "Kansui noodles turn green."
+  }
+}

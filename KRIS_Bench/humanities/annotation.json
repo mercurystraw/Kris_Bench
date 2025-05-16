@@ -1,0 +1,452 @@
+{
+  "1": {
+    "ori_img": "1.png",
+    "gt_img": "",
+    "ins_en": "Change to the traditional food eaten by Chinese people during the Mid-Autumn Festival",
+    "explain_en": "The food should be changed to mooncakes"
+  },
+  "2": {
+    "ori_img": "2.png",
+    "gt_img": "",
+    "ins_en": "Place a common American Thanksgiving meat food in the middle of the image.",
+    "explain_en": "A roasted turkey should be placed."
+  },
+  "3": {
+    "ori_img": "3.jpg",
+    "gt_img": "",
+    "ins_en": "Place a commonly used Chinese tableware on the table",
+    "explain_en": "Chopsticks should be placed"
+  },
+  "4": {
+    "ori_img": "4.jpg",
+    "gt_img": "",
+    "ins_en": "Replace the sandwich with traditional food commonly eaten during the Chinese Lantern Festival.",
+    "explain_en": "The sandwich should be changed to Tangyuan (glutinous rice balls)."
+  },
+  "5": {
+    "ori_img": "5.jpg",
+    "gt_img": "",
+    "ins_en": "Replace the food on the plate with traditional Chinese food commonly eaten during the Dragon Boat Festival.",
+    "explain_en": "The food should be changed to zongzi."
+  },
+  "6": {
+    "ori_img": "6.png",
+    "gt_img": "",
+    "ins_en": "Change the boat to the type used in races during the Chinese Dragon Boat Festival",
+    "explain_en": "It should be modified to a dragon boat"
+  },
+  "7": {
+    "ori_img": "7.jpg",
+    "gt_img": "",
+    "ins_en": "Dress the person in the image in traditional attire for the German Beer Festival.",
+    "explain_en": "Women wear dirndls, and men wear lederhosen with woolen knee-high socks."
+  },
+  "8": {
+    "ori_img": "8.jpg",
+    "gt_img": "",
+    "ins_en": "Dress the person in the image in traditional attire from the Brazilian Carnival period.",
+    "explain_en": "The outfit should be full of colors, feathers, sequins, and exaggerated designs, typically reflecting a strong tropical vibe and the spirit of celebration."
+  },
+  "9": {
+    "ori_img": "9.jpg",
+    "gt_img": "",
+    "ins_en": "Place Christian classic symbol items on the table.",
+    "explain_en": "A cross should be placed."
+  },
+  "10": {
+    "ori_img": "10.png",
+    "gt_img": "",
+    "ins_en": "Attach the classic emblem of the Red Cross to the cup",
+    "explain_en": "The Red Cross should be attached"
+  },
+  "11": {
+    "ori_img": "11.jpg",
+    "gt_img": "",
+    "ins_en": "Attach the classic emblem of Islam on the cup",
+    "explain_en": "Attach the crescent moon and five-pointed star"
+  },
+  "12": {
+    "ori_img": "12.png",
+    "gt_img": "",
+    "ins_en": "Place a classic Russian novelty craft on the table",
+    "explain_en": "You should place a Matryoshka doll on the table"
+  },
+  "13": {
+    "ori_img": "13.jpg",
+    "gt_img": "",
+    "ins_en": "Change to classic Egyptian tomb architecture",
+    "explain_en": "It should be modified to a pyramid"
+  },
+  "14": {
+    "ori_img": "14.jpg",
+    "gt_img": "",
+    "ins_en": "Build the ancient Chinese defensive structure used to repel foreign invaders here.",
+    "explain_en": "The Great Wall should appear."
+  },
+  "15": {
+    "ori_img": "15.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the building in the image to the tallest and most famous building in Paris, France.",
+    "explain_en": "It should be changed to the Eiffel Tower."
+  },
+  "16": {
+    "ori_img": "16.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the building in the image to the most famous statue in New York, USA.",
+    "explain_en": "It should be changed to the Statue of Liberty."
+  },
+  "17": {
+    "ori_img": "17.jpg",
+    "gt_img": "",
+    "ins_en": "Change the animal in the image to China's most famous national treasure animal.",
+    "explain_en": "It should be changed to a panda."
+  },
+  "18": {
+    "ori_img": "18.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the animal in the image to be the national bird of the United States",
+    "explain_en": "It should be changed to a bald eagle"
+  },
+  "19": {
+    "ori_img": "19.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the birds in the image to symbolize peace.",
+    "explain_en": "It should be changed to doves."
+  },
+  "20": {
+    "ori_img": "20.jpeg",
+    "gt_img": "",
+    "ins_en": "Modify the depicted character in the image to the most representative figure in Christianity.",
+    "explain_en": "The character should be changed to Jesus."
+  },
+  "21": {
+    "ori_img": "21.jpg",
+    "gt_img": "",
+    "ins_en": "Draw a famous painting with a 'mysterious smile'.",
+    "explain_en": "You should draw the painting 'Mona Lisa'."
+  },
+  "22": {
+    "ori_img": "22.jpeg",
+    "gt_img": "",
+    "ins_en": "Draw the most famous pine tree of Huangshan, China",
+    "explain_en": "You should draw the Greeting Pine of Huangshan, China"
+  },
+  "23": {
+    "ori_img": "23.jpg",
+    "gt_img": "",
+    "ins_en": "Change to Christmas-themed decoration",
+    "explain_en": "It should be modified to look like a Christmas tree"
+  },
+  "24": {
+    "ori_img": "24.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the painting to be the famous painting by Chinese artist Xu Beihong",
+    "explain_en": "You should draw Xu Beihong's painting 'Galloping Horse'"
+  },
+  "25": {
+    "ori_img": "25.jpg",
+    "gt_img": "",
+    "ins_en": "Place Singapore's iconic fountain sculpture in the center of the square.",
+    "explain_en": "The Merlion sculpture should be placed."
+  },
+  "26": {
+    "ori_img": "26.jpg",
+    "gt_img": "",
+    "ins_en": "Add the Olympic logo to the hat",
+    "explain_en": "The Olympic Rings should be added"
+  },
+  "27": {
+    "ori_img": "27.png",
+    "gt_img": "",
+    "ins_en": "Add a national treasure animal of Thailand",
+    "explain_en": "A white elephant should be added"
+  },
+  "28": {
+    "ori_img": "28.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the fish in the image to be the largest animal in the ocean.",
+    "explain_en": "It should be modified to a whale."
+  },
+  "29": {
+    "ori_img": "29.jpg",
+    "gt_img": "",
+    "ins_en": "Change the animal in the image to the one with the longest neck in the world.",
+    "explain_en": "It should be changed to a giraffe."
+  },
+  "30": {
+    "ori_img": "30.png",
+    "gt_img": "",
+    "ins_en": "Place Minions' favorite food on the table",
+    "explain_en": "You should place bananas"
+  },
+  "31": {
+    "ori_img": "31.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the mountain in the image to Japan's most famous snow-capped mountain.",
+    "explain_en": "It should be changed to Mount Fuji."
+  },
+  "32": {
+    "ori_img": "32.jpeg",
+    "gt_img": "",
+    "ins_en": "Place Italy's most famous pasta on the plate",
+    "explain_en": "It should be spaghetti"
+  },
+  "33": {
+    "ori_img": "33.png",
+    "gt_img": "",
+    "ins_en": "Dress the woman in the image in traditional Japanese clothing.",
+    "explain_en": "She should be dressed in a kimono."
+  },
+  "34": {
+    "ori_img": "34.jpg",
+    "gt_img": "",
+    "ins_en": "Place traditional Diwali clay lamps on the table.",
+    "explain_en": "Set up clay lamps."
+  },
+  "35": {
+    "ori_img": "35.jpeg",
+    "gt_img": "",
+    "ins_en": "Plant the representative Dutch flowers on the grass",
+    "explain_en": "Plant tulips"
+  },
+  "36": {
+    "ori_img": "36.jpeg",
+    "gt_img": "",
+    "ins_en": "Change the animal in the image to the national bird of France.",
+    "explain_en": "It should be changed to the Gallic Rooster."
+  },
+  "37": {
+    "ori_img": "37.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the building in the image to be the place where the US President works.",
+    "explain_en": "It should be changed to the White House."
+  },
+  "38": {
+    "ori_img": "38.jpg",
+    "gt_img": "",
+    "ins_en": "Place the Southeast Asian speciality known as the 'King of Fruits' on the table.",
+    "explain_en": "You should place a durian."
+  },
+  "39": {
+    "ori_img": "39.jpg",
+    "gt_img": "",
+    "ins_en": "Change the vehicles in the image to traditional Venetian boats.",
+    "explain_en": "Change to gondola."
+  },
+  "40": {
+    "ori_img": "40.jpeg",
+    "gt_img": "",
+    "ins_en": "Place the tool used for navigation, one of the Four Great Inventions of Ancient China.",
+    "explain_en": "A compass should be placed."
+  },
+  "41": {
+    "ori_img": "41.jpg",
+    "gt_img": "",
+    "ins_en": "Add traditional Mongolian residential structures on the grass.",
+    "explain_en": "A yurt should be added."
+  },
+  "42": {
+    "ori_img": "42.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the animal in the image to one not consumed in Islam.",
+    "explain_en": "It should be changed to a pig."
+  },
+  "43": {
+    "ori_img": "43.jpg",
+    "gt_img": "",
+    "ins_en": "Change the animal in the image to one that is not eaten in Hinduism.",
+    "explain_en": "It should be changed to a cow."
+  },
+  "44": {
+    "ori_img": "44.jpg",
+    "gt_img": "",
+    "ins_en": "Stick the classic symbol of Chinese Taoism on the cup",
+    "explain_en": "The Taiji symbol should be applied"
+  },
+  "45": {
+    "ori_img": "45.jpg",
+    "gt_img": "",
+    "ins_en": "Change this statue to the Greek mythology statue of the Goddess with Broken Arm",
+    "explain_en": "Modify it to the Venus de Milo"
+  },
+  "46": {
+    "ori_img": "46.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the wind power station to the most famous architectural landscape in the Netherlands",
+    "explain_en": "Replace with traditional Dutch windmills."
+  },
+  "47": {
+    "ori_img": "47.jpg",
+    "gt_img": "",
+    "ins_en": "Change the animal in the image to a famous egg-laying mammal from Australia.",
+    "explain_en": "It should be changed to a platypus."
+  },
+  "48": {
+    "ori_img": "48.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the building in the image to be the tallest building in the world.",
+    "explain_en": "It should be modified to the Burj Khalifa."
+  },
+  "49": {
+    "ori_img": "49.jpeg",
+    "gt_img": "",
+    "ins_en": "Modify the weapon in the image to symbolize the spirit of Japanese Bushido.",
+    "explain_en": "It should be changed to a katana."
+  },
+  "50": {
+    "ori_img": "50.jpg",
+    "gt_img": "",
+    "ins_en": "Change this animal into the animal that the Ugly Duckling grows into in the Danish fairy tale by Andersen.",
+    "explain_en": "It should be changed to a white swan."
+  },
+  "51": {
+    "ori_img": "51.jpg",
+    "gt_img": "",
+    "ins_en": "Place a decoration in the style of a British phone booth by the roadside",
+    "explain_en": "You should place a red London phone box model"
+  },
+  "52": {
+    "ori_img": "52.jpg",
+    "gt_img": "",
+    "ins_en": "Replace the ordinary bread in the image with the French bread commonly seen on Paris streets",
+    "explain_en": "It should be changed to a French baguette"
+  },
+  "53": {
+    "ori_img": "53.jpg",
+    "gt_img": "",
+    "ins_en": "Add a boat from the Jiangnan water towns of China by the river",
+    "explain_en": "You should place a black‑canopied Wu‑peng boat"
+  },
+  "54": {
+    "ori_img": "54.jpg",
+    "gt_img": "",
+    "ins_en": "Add the colorful paper flower decorations common at Mexico’s Day of the Dead in the sky",
+    "explain_en": "You should add multicolored papel picado banners"
+  },
+  "55": {
+    "ori_img": "55.jpg",
+    "gt_img": "",
+    "ins_en": "Change the ordinary bridge in the image to London’s Tower Bridge over the Thames",
+    "explain_en": "You should transform it into the twin‑tower structure of Tower Bridge"
+  },
+  "56": {
+    "ori_img": "56.jpg",
+    "gt_img": "",
+    "ins_en": "Place on the table the small instrument sailors used to determine direction during night voyages",
+    "explain_en": "It should be a compass"
+  },
+  "57": {
+    "ori_img": "57.png",
+    "gt_img": "",
+    "ins_en": "Replace the creature in the image with the bird famed for wisdom in Greek mythology",
+    "explain_en": "It should be an owl"
+  },
+  "58": {
+    "ori_img": "58.jpg",
+    "gt_img": "",
+    "ins_en": "Place the prop magicians often use to pull a rabbit out at performances beside the person",
+    "explain_en": "It should be a top hat"
+  },
+  "59": {
+    "ori_img": "59.jpg",
+    "gt_img": "",
+    "ins_en": "Replace the ordinary instrument in the image with the percussion instrument traditional to Native American tribes",
+    "explain_en": "It should be a hand drum"
+  },
+  "60": {
+    "ori_img": "60.jpg",
+    "gt_img": "",
+    "ins_en": "Make the wall covered with climbing plants commonly found on European castles",
+    "explain_en": "It should be ivy"
+  },
+  "61": {
+    "ori_img": "61.jpg",
+    "gt_img": "",
+    "ins_en": "Place at the table the small tool often use for night sky observations",
+    "explain_en": "It should be a handheld telescope"
+  },
+  "62": {
+    "ori_img": "62.jpg",
+    "gt_img": "",
+    "ins_en": "Replace the plain mask in the image with the ornate mask worn at the Venetian Carnival",
+    "explain_en": "It should be a baroque-style carnival mask"
+  },
+  "63": {
+    "ori_img": "63.jpg",
+    "gt_img": "",
+    "ins_en": "Place beside the river the tool ancient Egyptians used to irrigate fields along the Nile",
+    "explain_en": "It should be a shaduf (water-lifting device)"
+  },
+  "64": {
+    "ori_img": "64.jpg",
+    "gt_img": "",
+    "ins_en": "Replace the ordinary hat in the image with the wide-brimmed straw hat worn during Mexican harvest festivals",
+    "explain_en": "It should be a sombrero"
+  },
+  "65": {
+    "ori_img": "65.jpg",
+    "gt_img": "",
+    "ins_en": "Add to the flatland the prayer flags commonly seen at Tibetan monasteries",
+    "explain_en": "It should be five-colored prayer flags"
+  },
+  "66": {
+    "ori_img": "66.jpg",
+    "gt_img": "",
+    "ins_en": "Place at the center of the floor the drum used in Native American ceremonies",
+    "explain_en": "It should be a deerskin hand drum"
+  },
+  "67": {
+    "ori_img": "67.jpg",
+    "gt_img": "",
+    "ins_en": "Replace the ordinary church in the image with a Russian Orthodox church",
+    "explain_en": "It should be onion-shaped domes"
+  },
+  "68": {
+    "ori_img": "68.jpg",
+    "gt_img": "",
+    "ins_en": "Change the ordinary decorative vase in the image to a Chinese-style vase",
+    "explain_en": "It should be a blue-and-white porcelain vase"
+  },
+  "69": {
+    "ori_img": "69.jpg",
+    "gt_img": "",
+    "ins_en": "Add a traditional Japanese gate to the street",
+    "explain_en": "A red torii gate should be placed"
+  },
+  "70": {
+    "ori_img": "70.jpg",
+    "gt_img": "",
+    "ins_en": "Change the pyramid to a stepped pyramid of the Maya civilization",
+    "explain_en": "It should be the Kukulkan Pyramid at Chichén Itzá"
+  },
+  "71": {
+    "ori_img": "71.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the statue to Brazil’s Christ the Redeemer",
+    "explain_en": "It should be the Christ the Redeemer statue"
+  },
+  "72": {
+    "ori_img": "72.jpg",
+    "gt_img": "",
+    "ins_en": "Have the person wear the traditional Vietnamese conical hat",
+    "explain_en": "It should be a woven nón lá"
+  },
+  "73": {
+    "ori_img": "73.jpg",
+    "gt_img": "",
+    "ins_en": "Place the Hawaiian welcome ceremony flower garland around the neck",
+    "explain_en": "It should be a multicolored lei"
+  },
+  "74": {
+    "ori_img": "74.jpg",
+    "gt_img": "",
+    "ins_en": "Add the traditional Inuit dwelling in the snowfield",
+    "explain_en": "It should be an igloo made of snow blocks"
+  },
+  "75": {
+    "ori_img": "75.jpg",
+    "gt_img": "",
+    "ins_en": "Change the animal in the image to South Korea’s national treasure animal",
+    "explain_en": "It should be changed to the Korean tiger"
+  }
+}

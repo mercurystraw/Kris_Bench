@@ -1,0 +1,302 @@
+{
+  "1": {
+    "ori_img": "1.png",
+    "gt_img": "",
+    "ins_en": "Modify the nutritional information to 0 calories",
+    "explain_en": "Change Energy to 0KJ, and set protein, fat, and carbohydrates to 0g, with the corresponding NRV all being 0%"
+  },
+  "2": {
+    "ori_img": "2.png",
+    "gt_img": "",
+    "ins_en": "Open the bottle of shaken cola",
+    "explain_en": "The cola is expected to spray out liquid and bubbles"
+  },
+  "3": {
+    "ori_img": "3.jpeg",
+    "gt_img": "",
+    "ins_en": "Add one Mentos into the cola",
+    "explain_en": "The cola is expected to spray out liquid and bubbles"
+  },
+  "4": {
+    "ori_img": "4.jpg",
+    "gt_img": "",
+    "ins_en": "Change the Beijing time in the image to Tokyo time",
+    "explain_en": "The clock should point to 9 o'clock"
+  },
+  "5": {
+    "ori_img": "5.jpg",
+    "gt_img": "",
+    "ins_en": "Change the standard time in the image to daylight saving time",
+    "explain_en": "The clock should point to 11 o'clock"
+  },
+  "6": {
+    "ori_img": "6.jpeg",
+    "gt_img": "",
+    "ins_en": "Change the daylight saving time in the image to standard time",
+    "explain_en": "The clock should point to 8 o'clock"
+  },
+  "7": {
+    "ori_img": "7.png",
+    "gt_img": "",
+    "ins_en": "Modify to a passable state",
+    "explain_en": "The traffic light should be green"
+  },
+  "8": {
+    "ori_img": "8.png",
+    "gt_img": "",
+    "ins_en": "Correct the violations in the image",
+    "explain_en": "The cigarette in the man's hand should be removed."
+  },
+  "9": {
+    "ori_img": "9.jpg",
+    "gt_img": "",
+    "ins_en": "Ensure the lane-change behavior of the black car in the image is not in violation.",
+    "explain_en": "The solid line that the black car is crossing should be modified to a dashed line."
+  },
+  "10": {
+    "ori_img": "10.jpg",
+    "gt_img": "",
+    "ins_en": "Change the shelf life to only one day, format as MM/DD/YY",
+    "explain_en": "The 'EXP' date should be modified to '040914'"
+  },
+  "11": {
+    "ori_img": "11.jpg",
+    "gt_img": "",
+    "ins_en": "The vehicle is making a left turn, please activate the corresponding lights.",
+    "explain_en": "The car's left turn signal should be modified to be in the \"on\" state."
+  },
+  "12": {
+    "ori_img": "12.jpeg",
+    "gt_img": "",
+    "ins_en": "Remove parts that vegetarians cannot eat",
+    "explain_en": "The meat patty in the middle of the hamburger should be removed"
+  },
+  "13": {
+    "ori_img": "13.jpg",
+    "gt_img": "",
+    "ins_en": "Change to appear as if both tires are punctured by nails",
+    "explain_en": "Both bicycle wheels should be modified to look deflated"
+  },
+  "14": {
+    "ori_img": "14.png",
+    "gt_img": "",
+    "ins_en": "Change to the state after one timing cycle ends",
+    "explain_en": "The upper part of the hourglass should be empty"
+  },
+  "15": {
+    "ori_img": "15.png",
+    "gt_img": "",
+    "ins_en": "Modify to appear overcooked",
+    "explain_en": "The toast should appear charred"
+  },
+  "16": {
+    "ori_img": "16.jpg",
+    "gt_img": "",
+    "ins_en": "Put suitable shoes on this person",
+    "explain_en": "This person should be wearing sneakers"
+  },
+  "17": {
+    "ori_img": "17.png",
+    "gt_img": "",
+    "ins_en": "Change to the appearance after being used for a period of time",
+    "explain_en": "The pencil should become shorter"
+  },
+  "18": {
+    "ori_img": "18.jpg",
+    "gt_img": "",
+    "ins_en": "Change the weight to be in pounds",
+    "explain_en": "The unit of the scale should be changed from kilograms to pounds, and the corresponding kilogram amount should be converted into pounds, which is 115 pounds."
+  },
+  "19": {
+    "ori_img": "19.jpg",
+    "gt_img": "",
+    "ins_en": "Change the temperature to Fahrenheit",
+    "explain_en": "Modify the instrument's unit from Celsius to Fahrenheit, and convert the corresponding Celsius temperature to Fahrenheit, which is 93.56 degrees."
+  },
+  "20": {
+    "ori_img": "20.jpeg",
+    "gt_img": "",
+    "ins_en": "Mix equal amounts of red and green paint to create a new color.",
+    "explain_en": "It should turn into yellow."
+  },
+  "21": {
+    "ori_img": "21.jpeg",
+    "gt_img": "",
+    "ins_en": "Add an equal amount of red paint to the blue paint to mix into a new color",
+    "explain_en": "It should turn into purple"
+  },
+  "22": {
+    "ori_img": "22.png",
+    "gt_img": "",
+    "ins_en": "Add a 10% tip to the receipt in the image",
+    "explain_en": "The amount should be amended to $49.50"
+  },
+  "23": {
+    "ori_img": "23.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the car's speed to display it as not speeding.",
+    "explain_en": "The speed value on the speedometer should be adjusted to be less than 25."
+  },
+  "24": {
+    "ori_img": "24.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the speed limit to show a non-speeding scenario.",
+    "explain_en": "The speed value on the speed limit sign should be changed to greater than 52."
+  },
+  "25": {
+    "ori_img": "25.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the incorrect sitting posture in the image",
+    "explain_en": "The person should be adjusted to a straight and upright sitting posture"
+  },
+  "26": {
+    "ori_img": "26.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to represent the situation where the ball is out of bounds.",
+    "explain_en": "The badminton shuttlecock should be adjusted to be out of bounds on the right side."
+  },
+  "27": {
+    "ori_img": "27.jpg",
+    "gt_img": "",
+    "ins_en": "Soccer match, left side is out of bounds, only retain the ball that is out of bounds",
+    "explain_en": "Only the leftmost ball should be kept"
+  },
+  "28": {
+    "ori_img": "28.jpg",
+    "gt_img": "",
+    "ins_en": "In a soccer match, the right side is out of bounds, remove the balls that are out of play.",
+    "explain_en": "All soccer balls should be retained."
+  },
+  "29": {
+    "ori_img": "29.jpg",
+    "gt_img": "",
+    "ins_en": "Change to a Full House hand",
+    "explain_en": "full house is 3 cards of the same rank and 2 cards of the same rank, the minimum modification can be to change 4 to 6, or 6 to 4."
+  },
+  "30": {
+    "ori_img": "30.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to a Four of a Kind hand",
+    "explain_en": "Four of a Kind is 4 cards of the same rank, the minimum modification can be to change 7 or 8 to King."
+  },
+  "31": {
+    "ori_img": "31.jpg",
+    "gt_img": "",
+    "ins_en": "Changes in taillights after pressing the brake",
+    "explain_en": "The red brake lights at the rear of the car should light up."
+  },
+  "32": {
+    "ori_img": "32.jpeg",
+    "gt_img": "",
+    "ins_en": "Correct incorrect driving habits in the image",
+    "explain_en": "A seatbelt should be added to the person because it's necessary to wear a seatbelt while driving"
+  },
+  "33": {
+    "ori_img": "33.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the Incorrect Driving Habits in the Image",
+    "explain_en": "The action of the person making a phone call should be removed, as one should not be talking on the phone while driving."
+  },
+  "34": {
+    "ori_img": "34.png",
+    "gt_img": "",
+    "ins_en": "Modify to an anti-collision form",
+    "explain_en": "The table corners should be changed to a rounded shape"
+  },
+  "35": {
+    "ori_img": "35.png",
+    "gt_img": "",
+    "ins_en": "Apply continuous pressure towards the center with both hands and observe the change",
+    "explain_en": "It should be modified to indicate that the noodles break"
+  },
+  "36": {
+    "ori_img": "36.png",
+    "gt_img": "",
+    "ins_en": "Change into more formal attire for the interview",
+    "explain_en": "The character should wear a suit"
+  },
+  "37": {
+    "ori_img": "37.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to a formal and dignified sitting posture",
+    "explain_en": "The character should be edited to have an upright sitting posture, as crossing legs might appear casual."
+  },
+  "38": {
+    "ori_img": "38.png",
+    "gt_img": "",
+    "ins_en": "Correct the uncivilized way of walking the dog in the image",
+    "explain_en": "It should be modified so that the person's hand is holding a leash attached to the dog's neck"
+  },
+  "39": {
+    "ori_img": "39.png",
+    "gt_img": "",
+    "ins_en": "Lower the chair height for a more comfortable sitting posture",
+    "explain_en": "The chair height should be lowered"
+  },
+  "40": {
+    "ori_img": "40.png",
+    "gt_img": "",
+    "ins_en": "Modify to allow vehicle passage through the pillar",
+    "explain_en": "The retractable bollard should be lowered below ground level to avoid obstructing vehicle movement."
+  },
+  "41": {
+    "ori_img": "41.jpg",
+    "gt_img": "",
+    "ins_en": "Turn off the light in the image",
+    "explain_en": "The light should be modified so that it no longer emits light and the room becomes dark"
+  },
+  "42": {
+    "ori_img": "42.jpg",
+    "gt_img": "",
+    "ins_en": "Modify it to show the kettle as the water is about to boil.",
+    "explain_en": "There should be a large amount of steam rising from the spout, and the indicator light at the bottom of the kettle should be glowing red."
+  },
+  "43": {
+    "ori_img": "43.jpg",
+    "gt_img": "",
+    "ins_en": "Change to resemble the appearance after being exposed under the sun for half an hour.",
+    "explain_en": "It should be modified to look like the ice cream has melted significantly."
+  },
+  "44": {
+    "ori_img": "44.jpg",
+    "gt_img": "",
+    "ins_en": "Unfold this crumpled white paper",
+    "explain_en": "It should be changed to entirely wrinkled white paper"
+  },
+  "45": {
+    "ori_img": "45.png",
+    "gt_img": "",
+    "ins_en": "Correct the incorrect mask-wearing method in the image",
+    "explain_en": "It should be adjusted so that the mask covers the nose"
+  },
+  "46": {
+    "ori_img": "46.jpg",
+    "gt_img": "",
+    "ins_en": "Change to a no-passage situation",
+    "explain_en": "The traffic light should be changed to red, indicating no passage is allowed."
+  },
+  "47": {
+    "ori_img": "47.jpeg",
+    "gt_img": "",
+    "ins_en": "Change to the appearance of well-done.",
+    "explain_en": "The steak should be modified so that the bloodiness disappears, indicating the steak is fully cooked."
+  },
+  "48": {
+    "ori_img": "48.png",
+    "gt_img": "",
+    "ins_en": "Remove the facility used to protect the house",
+    "explain_en": "The lightning rod on the house should be removed because it protects the house from lightning strikes."
+  },
+  "49": {
+    "ori_img": "49.png",
+    "gt_img": "",
+    "ins_en": "Change to enable front fog lights.",
+    "explain_en": "The knob should be rotated counterclockwise to the next position to indicate that the front fog lights are enabled."
+  },
+  "50": {
+    "ori_img": "50.jpg",
+    "gt_img": "",
+    "ins_en": "Change to turn off lights",
+    "explain_en": "The knob should be turned counterclockwise to the '0' position, indicating that the lights are turned off."
+  }
+}

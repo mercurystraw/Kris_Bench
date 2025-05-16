@@ -1,0 +1,733 @@
+{
+  "1": {
+    "ori_img": [
+      "1-1.jpg",
+      "1-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "2": {
+    "ori_img": [
+      "2-1.jpg",
+      "2-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "3": {
+    "ori_img": [
+      "3-1.jpg",
+      "3-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "4": {
+    "ori_img": [
+      "4-1.jpg",
+      "4-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "5": {
+    "ori_img": [
+      "5-1.jpg",
+      "5-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "6": {
+    "ori_img": [
+      "6-1.jpg",
+      "6-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "7": {
+    "ori_img": [
+      "7-1.jpg",
+      "7-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "8": {
+    "ori_img": [
+      "8-1.jpg",
+      "8-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "9": {
+    "ori_img": [
+      "9-1.jpg",
+      "9-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "10": {
+    "ori_img": [
+      "10-1.jpg",
+      "10-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "11": {
+    "ori_img": [
+      "11-1.jpg",
+      "11-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "12": {
+    "ori_img": [
+      "12-1.jpg",
+      "12-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "13": {
+    "ori_img": [
+      "13-1.jpg",
+      "13-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "14": {
+    "ori_img": [
+      "14-1.jpg",
+      "14-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "15": {
+    "ori_img": [
+      "15-1.jpg",
+      "15-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "16": {
+    "ori_img": [
+      "16-1.jpg",
+      "16-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "17": {
+    "ori_img": [
+      "17-1.jpg",
+      "17-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "18": {
+    "ori_img": [
+      "18-1.jpg",
+      "18-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "19": {
+    "ori_img": [
+      "19-1.jpg",
+      "19-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "20": {
+    "ori_img": [
+      "20-1.jpg",
+      "20-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "21": {
+    "ori_img": [
+      "21-1.jpg",
+      "21-2.jpg",
+      "21-3.jpg",
+      "21-4.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "22": {
+    "ori_img": [
+      "22-1.jpg",
+      "22-2.jpg",
+      "22-3.jpg",
+      "22-4.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "23": {
+    "ori_img": [
+      "23-1.jpg",
+      "23-2.jpg",
+      "23-3.jpg",
+      "23-4.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "24": {
+    "ori_img": [
+      "24-1.jpg",
+      "24-2.jpg",
+      "24-3.jpg",
+      "24-4.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "25": {
+    "ori_img": [
+      "25-1.jpg",
+      "25-2.jpg",
+      "25-3.jpg",
+      "25-4.jpg",
+      "25-5.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "26": {
+    "ori_img": [
+      "26-1.jpg",
+      "26-2.jpg",
+      "26-3.jpg",
+      "26-4.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "27": {
+    "ori_img": [
+      "27-1.jpg",
+      "27-2.jpg",
+      "27-3.jpg",
+      "27-4.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "28": {
+    "ori_img": [
+      "28-1.jpg",
+      "28-2.jpg",
+      "28-3.jpg",
+      "28-4.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "29": {
+    "ori_img": [
+      "29-1.jpg",
+      "29-2.jpg",
+      "29-3.jpg",
+      "29-4.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "30": {
+    "ori_img": [
+      "30-1.jpg",
+      "30-2.jpg",
+      "30-3.jpg",
+      "30-4.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the clothing of the person in the image with the ones I provided.",
+    "explain_en": ""
+  },
+  "31": {
+    "ori_img": [
+      "31-1.jpg",
+      "31-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Have the dog from the first image stand in front of the barn in the second image.",
+    "explain_en": ""
+  },
+  "32": {
+    "ori_img": [
+      "32-1.jpeg",
+      "32-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the dog from the first image next to the cat in the second image.",
+    "explain_en": ""
+  },
+  "33": {
+    "ori_img": [
+      "33-1.JPG",
+      "33-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the glasses from the first image to the left of the cup in the second image.",
+    "explain_en": ""
+  },
+  "34": {
+    "ori_img": [
+      "34-1.jpeg",
+      "34-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the cup from the second image onto the table in the first image.",
+    "explain_en": ""
+  },
+  "35": {
+    "ori_img": [
+      "35-1.jpg",
+      "35-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the sofa from the second image into the first image.",
+    "explain_en": ""
+  },
+  "36": {
+    "ori_img": [
+      "36-1.jpg",
+      "36-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the ball from the second image next to the dog in the first image.",
+    "explain_en": ""
+  },
+  "37": {
+    "ori_img": [
+      "37-1.jpeg",
+      "37-2.png"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the ball from the first image on the left side of the second image.",
+    "explain_en": ""
+  },
+  "38": {
+    "ori_img": [
+      "38-1.jpeg",
+      "38-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the vase from the first image onto the mat in the second image.",
+    "explain_en": ""
+  },
+  "39": {
+    "ori_img": [
+      "39-1.jpg",
+      "39-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the parrot from the first image onto the robotic vacuum cleaner in the second image.",
+    "explain_en": ""
+  },
+  "40": {
+    "ori_img": [
+      "40-1.jpeg",
+      "40-2.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the doll from the first image onto the chair in the second image.",
+    "explain_en": ""
+  },
+  "41": {
+    "ori_img": [
+      "41-1.jpg",
+      "41-2.jpg",
+      "41-3.JPG"
+    ],
+    "gt_img": "",
+    "ins_en": "Insert the flower from the third image into the white vase from the first image, and then place it on the floor shown in the second image.",
+    "explain_en": ""
+  },
+  "42": {
+    "ori_img": [
+      "42-1.jpg",
+      "42-2.jpg",
+      "42-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Combine the Russian nesting dolls from the first and second images into the largest one, and then place it on the grass in the third image.",
+    "explain_en": ""
+  },
+  "43": {
+    "ori_img": [
+      "43-1.jpeg",
+      "43-2.jpg",
+      "43-3.jpeg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the cats from the first and second images onto the bench in the third image.",
+    "explain_en": ""
+  },
+  "44": {
+    "ori_img": [
+      "44-1.jpg",
+      "44-2.jpeg",
+      "44-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the chair from the second image onto the snow in the first image, and then place the coffee cup from the third image onto the chair.",
+    "explain_en": ""
+  },
+  "45": {
+    "ori_img": [
+      "45-1.jpg",
+      "45-2.jpg",
+      "45-3.jpeg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the toy from the second picture into the pool, and then place the slippers from the third picture next to the pool.",
+    "explain_en": ""
+  },
+  "46": {
+    "ori_img": [
+      "46-1.jpg",
+      "46-2.jpeg",
+      "46-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the sunglasses from the second image on the dog in the first image and insert it into the third image.",
+    "explain_en": ""
+  },
+  "47": {
+    "ori_img": [
+      "47-1.jpg",
+      "47-2.jpeg",
+      "47-3.jpeg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the teapot from the first image and the doll from the third image onto the table in the second image.",
+    "explain_en": ""
+  },
+  "48": {
+    "ori_img": [
+      "48-1.jpeg",
+      "48-2.jpg",
+      "48-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the furniture from the first and second images into the room shown in the third image.",
+    "explain_en": ""
+  },
+  "49": {
+    "ori_img": [
+      "49-1.jpg",
+      "49-2.jpeg",
+      "49-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Moor the yachts from the second and third images at the shore in the first image.",
+    "explain_en": ""
+  },
+  "50": {
+    "ori_img": [
+      "50-1.jpg",
+      "50-2.jpg",
+      "50-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Make the person in the first image hold the flower from the second image, and have this person wear the sunglasses from the third image.",
+    "explain_en": ""
+  },
+  "51": {
+    "ori_img": [
+      "51-1.jpg",
+      "51-2.jpg",
+      "51-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the kites from the second and third images in the sky of the first image, making them fly in the air.",
+    "explain_en": ""
+  },
+  "52": {
+    "ori_img": [
+      "52-1.jpg",
+      "52-2.jpg",
+      "52-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Make the birds from the second and third images fly next to the kite in the first image.",
+    "explain_en": ""
+  },
+  "53": {
+    "ori_img": [
+      "53-1.jpg",
+      "53-2.jpeg",
+      "53-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the statues from the second and third images on the street in the first image.",
+    "explain_en": ""
+  },
+  "54": {
+    "ori_img": [
+      "54-1.jpg",
+      "54-2.jpg",
+      "54-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Park the cars from the second and third images on the street in the first image.",
+    "explain_en": ""
+  },
+  "55": {
+    "ori_img": [
+      "55-1.jpg",
+      "55-2.jpg",
+      "55-3.png"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the snowmen from the second and third images on the snowy ground in the first image.",
+    "explain_en": ""
+  },
+  "56": {
+    "ori_img": [
+      "56-1.jpg",
+      "56-2.jpg",
+      "56-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the swimming rings from the second and third images in the pool of the first image.",
+    "explain_en": ""
+  },
+  "57": {
+    "ori_img": [
+      "57-1.jpg",
+      "57-2.jpg",
+      "57-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Arrange the dolls from the first and third images on the table in the second image.",
+    "explain_en": ""
+  },
+  "58": {
+    "ori_img": [
+      "58-1.jpg",
+      "58-2.jpg",
+      "58-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Hang the painting from the first image on the wall of the room in the third image, and place the table from the second image in the center.",
+    "explain_en": ""
+  },
+  "59": {
+    "ori_img": [
+      "59-1.jpg",
+      "59-2.jpeg",
+      "59-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the dogs from the second and third images on the grass in the first image.",
+    "explain_en": ""
+  },
+  "60": {
+    "ori_img": [
+      "60-1.jpg",
+      "60-2.jpg",
+      "60-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Put the kitten from the first image inside the cat bed from the third image, and make the kitten from the second image lie down in front of the cat bed.",
+    "explain_en": ""
+  },
+  "61": {
+    "ori_img": [
+      "61-1.jpg",
+      "61-2.jpg",
+      "61-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Arrange the watermelon from the second image and the three apples from the third image on the table in the first image.",
+    "explain_en": ""
+  },
+  "62": {
+    "ori_img": [
+      "62-1.jpg",
+      "62-2.jpg",
+      "62-3.jpeg"
+    ],
+    "gt_img": "",
+    "ins_en": "Change the screen wallpaper in the first image to the second image, and replace the chair with the chair from the third image.",
+    "explain_en": ""
+  },
+  "63": {
+    "ori_img": [
+      "63-1.jpg",
+      "63-2.jpeg",
+      "63-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the beds from the second and third images in the room of the first image.",
+    "explain_en": ""
+  },
+  "64": {
+    "ori_img": [
+      "64-1.jpg",
+      "64-2.jpg",
+      "64-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Make the person in the first image wear the glasses from the second image and the mask from the third image.",
+    "explain_en": ""
+  },
+  "65": {
+    "ori_img": [
+      "65-1.jpg",
+      "65-2.jpeg",
+      "65-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Fill the ground in the first image with flowers from the second and third images.",
+    "explain_en": ""
+  },
+  "66": {
+    "ori_img": [
+      "66-1.jpg",
+      "66-2.jpeg",
+      "66-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the green plants from the first and third images on the table in the third image.",
+    "explain_en": ""
+  },
+  "67": {
+    "ori_img": [
+      "67-1.jpg",
+      "67-2.jpeg",
+      "67-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Insert one flower from the second image and one flower from the third image into the bag in the first image.",
+    "explain_en": ""
+  },
+  "68": {
+    "ori_img": [
+      "68-1.jpg",
+      "68-2.jpeg",
+      "68-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Make the person from the second image wear the clothes from the third image, and have them stand next to the motorcycle in the first image.",
+    "explain_en": ""
+  },
+  "69": {
+    "ori_img": [
+      "69-1.jpg",
+      "69-2.jpg",
+      "69-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the cows from the third image on the grassland in the first image, and add the mountains from the second image in the distance.",
+    "explain_en": ""
+  },
+  "70": {
+    "ori_img": [
+      "70-1.jpg",
+      "70-2.jpg",
+      "70-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Make the horse in the first image wear the flower wreath from the second image and the saddle from the third image.",
+    "explain_en": ""
+  },
+  "71": {
+    "ori_img": [
+      "71-1.jpg",
+      "71-2.jpg",
+      "71-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the swing from the first image and the bench from the third image in the second image.",
+    "explain_en": ""
+  },
+  "72": {
+    "ori_img": [
+      "72-1.jpg",
+      "72-2.jpg",
+      "72-3.jpeg"
+    ],
+    "gt_img": "",
+    "ins_en": "Draw the patterns from the second and third images on the notebook in the first image.",
+    "explain_en": ""
+  },
+  "73": {
+    "ori_img": [
+      "73-1.jpg",
+      "73-2.png",
+      "73-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Put the logo from the second image on the bag from the first image, and place it on the table in the third image.",
+    "explain_en": ""
+  },
+  "74": {
+    "ori_img": [
+      "74-1.jpeg",
+      "74-2.jpg",
+      "74-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Place the computer from the second image and the keyboard from the third image on the table in the first image.",
+    "explain_en": ""
+  },
+  "75": {
+    "ori_img": [
+      "75-1.jpg",
+      "75-2.jpg",
+      "75-3.jpg"
+    ],
+    "gt_img": "",
+    "ins_en": "Replace the vase in the first image with the cat from the second image, and place the mouse from the third image next to it.",
+    "explain_en": ""
+  }
+}

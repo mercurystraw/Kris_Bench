@@ -1,0 +1,302 @@
+{
+  "1": {
+    "ori_img": "1.png",
+    "gt_img": "",
+    "ins_en": "Change to a Directed Acyclic Graph",
+    "explain_en": "There should be no cycles in the graph, modify any arrow to reverse direction."
+  },
+  "2": {
+    "ori_img": "2.png",
+    "gt_img": "",
+    "ins_en": "Adjust the pen cap to be parallel with the pen barrel",
+    "explain_en": "The direction of the pen cap should be modified to align with the direction of the pen barrel."
+  },
+  "3": {
+    "ori_img": "3.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the line b to be perpendicular to line a at point O",
+    "explain_en": "The direction of line b should be perpendicular to the direction of line a at the intersection point O"
+  },
+  "4": {
+    "ori_img": "4.png",
+    "gt_img": "",
+    "ins_en": "Transform into an obtuse triangle",
+    "explain_en": "The image should be a red triangle with one angle exceeding 90 degrees."
+  },
+  "5": {
+    "ori_img": "5.png",
+    "gt_img": "",
+    "ins_en": "Modify to have the line tangent to the circle",
+    "explain_en": "The image should have a line that intersects the circle at exactly one point."
+  },
+  "6": {
+    "ori_img": "6.png",
+    "gt_img": "",
+    "ins_en": "Align the centers of the two circles",
+    "explain_en": "The center of the green circle coincides with the center of another circle"
+  },
+  "7": {
+    "ori_img": "7.jpg",
+    "gt_img": "",
+    "ins_en": "Flip the shape vertically",
+    "explain_en": "The upper left corner of the trapezoid should be an acute angle, resulting in a vertically flipped state."
+  },
+  "8": {
+    "ori_img": "8.jpg",
+    "gt_img": "",
+    "ins_en": "Make it a circle with eccentricity 0",
+    "explain_en": "The shape becomes a yellow circle"
+  },
+  "9": {
+    "ori_img": "9.png",
+    "gt_img": "",
+    "ins_en": "Modify the image to showcase the horizontal cross-section of the polyhedron as shown in the image.",
+    "explain_en": "It should be a regular hexagon."
+  },
+  "10": {
+    "ori_img": "10.JPG",
+    "gt_img": "",
+    "ins_en": "Modify the shape in the image to form the object that is created when it is rotated around its axis of symmetry.",
+    "explain_en": "It should be a sphere."
+  },
+  "11": {
+    "ori_img": "11.png",
+    "gt_img": "",
+    "ins_en": "Modify the right section to the top view of the left diagram",
+    "explain_en": "The right section should be changed to two concentric circles"
+  },
+  "12": {
+    "ori_img": "12.png",
+    "gt_img": "",
+    "ins_en": "Use shading to mark the common intersection of sets A, B, C, and D.",
+    "explain_en": "The central area should be shaded."
+  },
+  "13": {
+    "ori_img": "13.png",
+    "gt_img": "",
+    "ins_en": "Translate the function by shifting it to become an odd function.",
+    "explain_en": "The graph of the function should be symmetric about the origin."
+  },
+  "14": {
+    "ori_img": "14.png",
+    "gt_img": "",
+    "ins_en": "Double the period of the function",
+    "explain_en": "The indices on the X-axis of the function should all become twice their original values"
+  },
+  "15": {
+    "ori_img": "15.png",
+    "gt_img": "",
+    "ins_en": "Modify to a directed cyclic graph",
+    "explain_en": "Change it so that node 3 points to node 0, creating a loop"
+  },
+  "16": {
+    "ori_img": "16.png",
+    "gt_img": "",
+    "ins_en": "Transform the graph of the function by changing all of its values to their negative counterparts.",
+    "explain_en": "The function graph should be reflected across the x-axis."
+  },
+  "17": {
+    "ori_img": "17.png",
+    "gt_img": "",
+    "ins_en": "Change the complex numbers in the image to their conjugate complex numbers",
+    "explain_en": "The coordinates on the Re axis remain unchanged, while the coordinates on the Im axis should become the negative of their original values"
+  },
+  "18": {
+    "ori_img": "18.png",
+    "gt_img": "",
+    "ins_en": "Double the intercept of the function",
+    "explain_en": "The intercept of the function should become -2, and the x-axis intersection value should become 4."
+  },
+  "19": {
+    "ori_img": "19.png",
+    "gt_img": "",
+    "ins_en": "Set the mean of the distribution to 0",
+    "explain_en": "The center of the function should correspond to an x-value of 0, while other x-values should be distributed according to the original pattern."
+  },
+  "20": {
+    "ori_img": "20.png",
+    "gt_img": "",
+    "ins_en": "Multiply the variance of the distribution by 4 times the original.",
+    "explain_en": "The x-value corresponding to the center of the function remains 2, while other x-values are adjusted by 4 times their original change magnitude."
+  },
+  "21": {
+    "ori_img": "21.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the image so that the four angle bisectors of a parallelogram intersect at one point.",
+    "explain_en": "The image should be transformed into a blue square."
+  },
+  "22": {
+    "ori_img": "22.png",
+    "gt_img": "",
+    "ins_en": "Make this graph a connected graph without changing the number of nodes.",
+    "explain_en": "In the image, there should be at least one edge between nodes V5 or V6 and the other nodes of the left graph."
+  },
+  "23": {
+    "ori_img": "23.png",
+    "gt_img": "",
+    "ins_en": "Transform the graph into a disconnected graph while keeping the number of nodes unchanged.",
+    "explain_en": "At least one node in the image should become isolated."
+  },
+  "24": {
+    "ori_img": "24.png",
+    "gt_img": "",
+    "ins_en": "Transpose the matrix in the image",
+    "explain_en": "The first column in the image becomes 6,9,8; the second column becomes 7,3,1; the third column becomes 5,4,2."
+  },
+  "25": {
+    "ori_img": "25.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the matrix in the image to an upper triangular matrix",
+    "explain_en": "The element 3 in the matrix should be changed to 0, while other elements remain unchanged"
+  },
+  "26": {
+    "ori_img": "26.png",
+    "gt_img": "",
+    "ins_en": "Modify the matrix in the image to a lower triangular matrix",
+    "explain_en": "The matrix should remain unchanged"
+  },
+  "27": {
+    "ori_img": "27.png",
+    "gt_img": "",
+    "ins_en": "Modify to an identity matrix",
+    "explain_en": "Change the 0 in the bottom right corner to 1, so that all elements on the main diagonal of the matrix are 1."
+  },
+  "28": {
+    "ori_img": "28.png",
+    "gt_img": "",
+    "ins_en": "Modify Node F to become a child of Node C",
+    "explain_en": "Node F should be connected to Node C"
+  },
+  "29": {
+    "ori_img": "29.png",
+    "gt_img": "",
+    "ins_en": "Delete certain nodes to make it a perfect binary tree",
+    "explain_en": "The two nodes on the fourth level of the tree should be deleted."
+  },
+  "30": {
+    "ori_img": "30.png",
+    "gt_img": "",
+    "ins_en": "Delete a node so that G has no sibling nodes",
+    "explain_en": "The H node should be deleted"
+  },
+  "31": {
+    "ori_img": "31.jpg",
+    "gt_img": "",
+    "ins_en": "Find the length of x and replace the original x in the diagram with its corresponding value.",
+    "explain_en": "x should be replaced with 7 because, based on the angle relationships, this is an isosceles right triangle, meaning the two shorter sides are equal in length, both being 7."
+  },
+  "32": {
+    "ori_img": "32.png",
+    "gt_img": "",
+    "ins_en": "Change the triangle into a square",
+    "explain_en": "The shape in the middle of the image should be transformed into a square that looks the same as the one on the right."
+  },
+  "33": {
+    "ori_img": "33.png",
+    "gt_img": "",
+    "ins_en": "Label the angle value of angle A at the corresponding position.",
+    "explain_en": "Angle A should be marked as 60°."
+  },
+  "34": {
+    "ori_img": "34.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to the case where the centroid, incenter, and circumcenter of the triangle coincide.",
+    "explain_en": "The image should be modified to an equilateral triangle."
+  },
+  "35": {
+    "ori_img": "35.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to make two circles externally tangent.",
+    "explain_en": "The image should be adjusted so that the two circles have only one intersection point."
+  },
+  "36": {
+    "ori_img": "36.png",
+    "gt_img": "",
+    "ins_en": "Mark all the shortest paths that the caterpillar should take to reach the leaf.",
+    "explain_en": "The caterpillar climbs diagonally upward along one side and, after crossing the edge, continues towards the leaf."
+  },
+  "37": {
+    "ori_img": "37.png",
+    "gt_img": "",
+    "ins_en": "Now fold this white paper once such that point A and point B coincide, and draw the crease line on the unfolded white paper.",
+    "explain_en": "There should be a straight line in the diagram, which is the perpendicular bisector of the line segment AB."
+  },
+  "38": {
+    "ori_img": "38.png",
+    "gt_img": "",
+    "ins_en": "Delete a node so that node 9 has no descendants",
+    "explain_en": "Node 8 should be deleted"
+  },
+  "39": {
+    "ori_img": "39.png",
+    "gt_img": "",
+    "ins_en": "Fill in the appropriate numbers in the boxes to satisfy the column calculation.",
+    "explain_en": "The box in the second row should contain the number 1, and the box in the third row should contain the number 8."
+  },
+  "40": {
+    "ori_img": "40.jpg",
+    "gt_img": "",
+    "ins_en": "Add the circumcircle of the shape in the image",
+    "explain_en": "A circle should be drawn such that all three vertices of the triangle lie on the circle."
+  },
+  "41": {
+    "ori_img": "41.png",
+    "gt_img": "",
+    "ins_en": "Edit the Venn diagram so that there is no intersection between the two.",
+    "explain_en": "Remove the shading and adjust sets A and B to be tangent."
+  },
+  "42": {
+    "ori_img": "42.png",
+    "gt_img": "",
+    "ins_en": "Disconnect the edges connecting the node with the smallest in-degree to other nodes.",
+    "explain_en": "Remove the edge from node 0 to node 3, and keep everything else unchanged."
+  },
+  "43": {
+    "ori_img": "43.png",
+    "gt_img": "",
+    "ins_en": "Modify the vectors in the image to form a set of standard orthogonal basis.",
+    "explain_en": "The second element of the third column vector should be changed to 0."
+  },
+  "44": {
+    "ori_img": "44.png",
+    "gt_img": "",
+    "ins_en": "Draw all the axes of symmetry for the isosceles triangle in the image.",
+    "explain_en": "A vertical line should be drawn through the center of the image."
+  },
+  "45": {
+    "ori_img": "45.png",
+    "gt_img": "",
+    "ins_en": "Remove an edge in the graph such that two connected components are formed.",
+    "explain_en": "Remove the edge connecting node 2 and node 4."
+  },
+  "46": {
+    "ori_img": "46.png",
+    "gt_img": "",
+    "ins_en": "Modify the graph in the image to a complete graph",
+    "explain_en": "Each node in the graph should be directly connected to every other node"
+  },
+  "47": {
+    "ori_img": "47.png",
+    "gt_img": "",
+    "ins_en": "Remove all the leaf nodes in the image",
+    "explain_en": "Nodes A, B, and G should be removed"
+  },
+  "48": {
+    "ori_img": "48.png",
+    "gt_img": "",
+    "ins_en": "Draw the vector resulting from vector a minus vector b in the diagram.",
+    "explain_en": "A directed line segment should be added in the diagram pointing from the endpoint of vector b to the endpoint of vector a."
+  },
+  "49": {
+    "ori_img": "49.png",
+    "gt_img": "",
+    "ins_en": "Vectors a and b are unit vectors. In the diagram, draw the vector resulting from the addition of vector a and vector b.",
+    "explain_en": "The new vector should bisect vectors a and b, with a length of the square root of two."
+  },
+  "50": {
+    "ori_img": "50.jpg",
+    "gt_img": "",
+    "ins_en": "Mark the length of side BC in the diagram",
+    "explain_en": "The diagram should indicate that the length of side BC is 13"
+  }
+}

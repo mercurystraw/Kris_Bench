@@ -1,0 +1,452 @@
+{
+  "1": {
+    "ori_img": "1.jpg",
+    "gt_img": "",
+    "ins_en": "Change to black obsidian",
+    "explain_en": "The color of the black obsidian should be black."
+  },
+  "2": {
+    "ori_img": "2.jpg",
+    "gt_img": "",
+    "ins_en": "Change to the appearance of the Moon when the sun, moon, and Earth are aligned and the distance between the moon and Earth is at its maximum.",
+    "explain_en": "The moon should appear as a full moon."
+  },
+  "3": {
+    "ori_img": "3.png",
+    "gt_img": "",
+    "ins_en": "Modify to look like a partial solar eclipse",
+    "explain_en": "The Sun should have a crescent-shaped appearance"
+  },
+  "4": {
+    "ori_img": "4.png",
+    "gt_img": "",
+    "ins_en": "Modify to show the shadow at noon on the equinox at a certain location on the equator",
+    "explain_en": "The object should have no shadow"
+  },
+  "5": {
+    "ori_img": "5.png",
+    "gt_img": "",
+    "ins_en": "Modify the sundial to show the shadow two hours later.",
+    "explain_en": "The shadow should be rotated 30 degrees clockwise."
+  },
+  "6": {
+    "ori_img": "6.png",
+    "gt_img": "",
+    "ins_en": "Change to the shadow at noon during the winter solstice in a certain place on the Tropic of Capricorn.",
+    "explain_en": "The object should have no shadow."
+  },
+  "7": {
+    "ori_img": "7.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to resemble the intensification of solar activity in high latitude regions",
+    "explain_en": "The sky should display aurora phenomena"
+  },
+  "8": {
+    "ori_img": "8.png",
+    "gt_img": "",
+    "ins_en": "Changes after global cooling",
+    "explain_en": "The snowline of the mountains should lower, with the white part descending."
+  },
+  "9": {
+    "ori_img": "9.png",
+    "gt_img": "",
+    "ins_en": "Modify to appear as a total solar eclipse",
+    "explain_en": "The sun should be completely obscured by a circular shadow"
+  },
+  "10": {
+    "ori_img": "10.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to resemble Australia in December",
+    "explain_en": "In Australia, it is summer, and it does not snow."
+  },
+  "11": {
+    "ori_img": "11.png",
+    "gt_img": "",
+    "ins_en": "Change to the state after Earth's magnetic pole reversal",
+    "explain_en": "The red pointer and the blue pointer should exchange positions"
+  },
+  "12": {
+    "ori_img": "12.jpg",
+    "gt_img": "",
+    "ins_en": "Changes after Global Warming",
+    "explain_en": "The snowline of the mountains should rise, and the white area should ascend."
+  },
+  "13": {
+    "ori_img": "13.png",
+    "gt_img": "",
+    "ins_en": "Modify to the state in the Southern Hemisphere",
+    "explain_en": "The cyclone should rotate in a clockwise direction"
+  },
+  "14": {
+    "ori_img": "14.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to the appearance after wind force enhancement",
+    "explain_en": "The windsock should be straighter, forming an angle close to 90 degrees with the pole."
+  },
+  "15": {
+    "ori_img": "15.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to resemble a landslide",
+    "explain_en": "The mountain should expose more of the rocky parts"
+  },
+  "16": {
+    "ori_img": "16.jpg",
+    "gt_img": "",
+    "ins_en": "Adjust the water level to reflect the rainy season height",
+    "explain_en": "The seawater should cover more rocks"
+  },
+  "17": {
+    "ori_img": "17.png",
+    "gt_img": "",
+    "ins_en": "Pressure Change with Elevation Increase",
+    "explain_en": "The pressure reading on the instrument should decrease"
+  },
+  "18": {
+    "ori_img": "18.png",
+    "gt_img": "",
+    "ins_en": "Change in Air Pressure with Decrease in Altitude",
+    "explain_en": "The air pressure reading of the instrument should increase."
+  },
+  "19": {
+    "ori_img": "19.png",
+    "gt_img": "",
+    "ins_en": "Appearance following intense tectonic compression movement",
+    "explain_en": "The height of the mountain range should elevate"
+  },
+  "20": {
+    "ori_img": "20.png",
+    "gt_img": "",
+    "ins_en": "Appearance after experiencing intense tectonic rift movements",
+    "explain_en": "The rift valley becomes wider"
+  },
+  "21": {
+    "ori_img": "21.png",
+    "gt_img": "",
+    "ins_en": "Changes after Enhancement of Prevailing Wind",
+    "explain_en": "Crescent-shaped dunes become more prominent"
+  },
+  "22": {
+    "ori_img": "22.png",
+    "gt_img": "",
+    "ins_en": "Appearance After Global Warming",
+    "explain_en": "Glaciers are expected to partially melt"
+  },
+  "23": {
+    "ori_img": "23.png",
+    "gt_img": "",
+    "ins_en": "Encountering extreme drought conditions",
+    "explain_en": "The waterfall should cease to flow, and vegetation should wither"
+  },
+  "24": {
+    "ori_img": "24.jpg",
+    "gt_img": "",
+    "ins_en": "Appearance of Eutrophication in Water Bodies",
+    "explain_en": "The lake turns green"
+  },
+  "25": {
+    "ori_img": "25.png",
+    "gt_img": "",
+    "ins_en": "Modify to the temperature after an altitude increase of 1000 meters",
+    "explain_en": "The temperature should decrease by approximately 3 degrees Celsius"
+  },
+  "26": {
+    "ori_img": "26.jpg",
+    "gt_img": "",
+    "ins_en": "Adjust to the temperature after descending 1000 meters in altitude",
+    "explain_en": "The temperature should increase by approximately 3 degrees Celsius"
+  },
+  "27": {
+    "ori_img": "27.jpg",
+    "gt_img": "",
+    "ins_en": "Alter the appearance of the water level to Meiyu front conditions.",
+    "explain_en": "The water level should rise."
+  },
+  "28": {
+    "ori_img": "28.jpg",
+    "gt_img": "",
+    "ins_en": "Adjust to the water level appearance during the Chinese Sanfu period",
+    "explain_en": "The water level should decrease"
+  },
+  "29": {
+    "ori_img": "29.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to account for changes in wind speed due to the Venturi effect",
+    "explain_en": "The wind speed measured by the instrument should increase"
+  },
+  "30": {
+    "ori_img": "30.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to wind speed variation encountered by the diffusion effect",
+    "explain_en": "The wind speed measured by the instrument should decrease"
+  },
+  "31": {
+    "ori_img": "31.png",
+    "gt_img": "",
+    "ins_en": "The urbanization process is evident on the left side of the main road.",
+    "explain_en": "The number of trees on the left side of the road should be reduced, and the number of buildings should increase."
+  },
+  "32": {
+    "ori_img": "32.png",
+    "gt_img": "",
+    "ins_en": "Occurrence of a Mudslide Natural Disaster",
+    "explain_en": "A large amount of mud and sand covers the vegetation"
+  },
+  "33": {
+    "ori_img": "33.png",
+    "gt_img": "",
+    "ins_en": "Volcanic Eruption",
+    "explain_en": "There should be a large amount of volcanic ash in the sky."
+  },
+  "34": {
+    "ori_img": "34.jpg",
+    "gt_img": "",
+    "ins_en": "Appearance of a Tsunami",
+    "explain_en": "Very high ocean waves appear"
+  },
+  "35": {
+    "ori_img": "35.jpg",
+    "gt_img": "",
+    "ins_en": "Appearance of a Landslide",
+    "explain_en": "The road is covered with fallen rocks."
+  },
+  "36": {
+    "ori_img": "36.jpg",
+    "gt_img": "",
+    "ins_en": "Temperature Change with Altitude Increase During an Inversion",
+    "explain_en": "The temperature measured by the instrument should increase"
+  },
+  "37": {
+    "ori_img": "37.jpg",
+    "gt_img": "",
+    "ins_en": "Change to the appearance after overgrazing",
+    "explain_en": "The grassland should become barren"
+  },
+  "38": {
+    "ori_img": "38.png",
+    "gt_img": "",
+    "ins_en": "Changes After Experiencing the Foehn Effect on the Leeward Slope",
+    "explain_en": "The measured temperature by the instrument should increase, and the humidity should decrease."
+  },
+  "39": {
+    "ori_img": "39.png",
+    "gt_img": "",
+    "ins_en": "The appearance after more intense sedimentation",
+    "explain_en": "The area of the alluvial fan in the figure should be larger"
+  },
+  "40": {
+    "ori_img": "40.png",
+    "gt_img": "",
+    "ins_en": "Modify to show the occurrence of a red tide.",
+    "explain_en": "The water should turn red"
+  },
+  "41": {
+    "ori_img": "41.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to the appearance of the tide during a full moon",
+    "explain_en": "It should be high tide"
+  },
+  "42": {
+    "ori_img": "42.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to appear more desertified",
+    "explain_en": "The grassland should be reduced, and the desert should increase"
+  },
+  "43": {
+    "ori_img": "43.png",
+    "gt_img": "",
+    "ins_en": "Change to the appearance when blowing at night.",
+    "explain_en": "The direction of the flag should be reversed, facing the sea."
+  },
+  "44": {
+    "ori_img": "44.png",
+    "gt_img": "",
+    "ins_en": "Appearance After Over-Farming",
+    "explain_en": "The soil color should turn yellow and lose fertility."
+  },
+  "45": {
+    "ori_img": "45.jpg",
+    "gt_img": "",
+    "ins_en": "Modify it to appear as if the desertification control measures are effective.",
+    "explain_en": "The amount of grassland vegetation should increase, and the desert area should decrease."
+  },
+  "46": {
+    "ori_img": "46.jpg",
+    "gt_img": "",
+    "ins_en": "Change to the appearance of the sky during a quasi-stationary front.",
+    "explain_en": "It should transform to look like an overcast sky with cumulonimbus clouds."
+  },
+  "47": {
+    "ori_img": "47.png",
+    "gt_img": "",
+    "ins_en": "Modify to appear as it would after salinization",
+    "explain_en": "The soil should show white crystals or clumping"
+  },
+  "48": {
+    "ori_img": "48.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to appear as if after a cold wave has passed",
+    "explain_en": "A layer of frost should be visible on the apple"
+  },
+  "49": {
+    "ori_img": "49.jpg",
+    "gt_img": "",
+    "ins_en": "Changes after the reduction of lower-level temperature inversion phenomenon",
+    "explain_en": "The fog phenomenon is alleviated, and visibility improves"
+  },
+  "50": {
+    "ori_img": "50.jpeg",
+    "gt_img": "",
+    "ins_en": "Changes in Altitude during Temperature Inversion",
+    "explain_en": "The measured air temperature by the instrument should decrease."
+  },
+  "51": {
+    "ori_img": "51.jpg",
+    "gt_img": "",
+    "ins_en": "Change to a river cut‑off meander forming an oxbow lake",
+    "explain_en": "A crescent‑shaped lake separated from the main channel should appear"
+  },
+  "52": {
+    "ori_img": "52.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to show karst landforms with sinkholes",
+    "explain_en": "Surface should display funnel‑shaped depressions"
+  },
+  "53": {
+    "ori_img": "53.jpg",
+    "gt_img": "",
+    "ins_en": "Change to a natural sea arch formed by coastal erosion",
+    "explain_en": "A rock archway opening to the sea should appear"
+  },
+  "54": {
+    "ori_img": "54.jpeg",
+    "gt_img": "",
+    "ins_en": "Change to the rain‑shadow effect on the lee side of a mountain",
+    "explain_en": "Leeward side should appear dry with sparse vegetation"
+  },
+  "55": {
+    "ori_img": "55.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to show road changes after an earthquake",
+    "explain_en": "Cracked pavement and surface deformation should appear"
+  },
+  "56": {
+    "ori_img": "56.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to show an erg (sand sea) in a desert",
+    "explain_en": "Extensive fields of continuous dunes should appear"
+  },
+  "57": {
+    "ori_img": "57.jpeg",
+    "gt_img": "",
+    "ins_en": "Modify to show the alpine treeline zone above timberline",
+    "explain_en": "An area with only shrubs and rocks above tree limit should appear"
+  },
+  "58": {
+    "ori_img": "58.jpg",
+    "gt_img": "",
+    "ins_en": "Change to a savanna‑forest ecotone",
+    "explain_en": "A mix of scattered trees and tall grasses should appear"
+  },
+  "59": {
+    "ori_img": "59.jpeg",
+    "gt_img": "",
+    "ins_en": "Change to show a spit formation extending along a coast",
+    "explain_en": "This spit formation should appear extending further into the sea"
+  },
+  "60": {
+    "ori_img": "60.png",
+    "gt_img": "",
+    "ins_en": "Remove the barrier islands in the image",
+    "explain_en": "Remove the small island on the right side of the image"
+  },
+  "61": {
+    "ori_img": "61.jpg",
+    "gt_img": "",
+    "ins_en": "Change to the Arctic Circle during summer solstice",
+    "explain_en": "The sun should remain above the horizon for 24 hours (midnight sun phenomenon)"
+  },
+  "62": {
+    "ori_img": "62.jpg",
+    "gt_img": "",
+    "ins_en": "Change to the Arctic Circle during winter solstice",
+    "explain_en": "The sun should remain below the horizon for 24 hours (polar night phenomenon)"
+  },
+  "63": {
+    "ori_img": "63.jpg",
+    "gt_img": "",
+    "ins_en": "Introduce a dense multi‑layered tropical rainforest canopy",
+    "explain_en": "Tall emergent trees, understory shrubs, and intertwining vines forming a green canopy should appear"
+  },
+  "64": {
+    "ori_img": "64.jpg",
+    "gt_img": "",
+    "ins_en": "Add a volcanic crater at the mountain summit",
+    "explain_en": "A circular crater with an inner depression should appear"
+  },
+  "65": {
+    "ori_img": "65.jpg",
+    "gt_img": "",
+    "ins_en": "Change the river into a seasonally flooded wetland",
+    "explain_en": "Vegetation should be submerged and waterlogged areas visible"
+  },
+  "66": {
+    "ori_img": "66.jpg",
+    "gt_img": "",
+    "ins_en": "Transform the hillside into terraced farmland",
+    "explain_en": "Stepped agricultural terraces should appear"
+  },
+  "67": {
+    "ori_img": "67.jpg",
+    "gt_img": "",
+    "ins_en": "Transform the coastline into a shingle beach",
+    "explain_en": "Rounded pebbles and coarse sediments should appear"
+  },
+  "68": {
+    "ori_img": "68.jpg",
+    "gt_img": "",
+    "ins_en": "Change the river into a whitewater rapid section",
+    "explain_en": "Churning water with white foam should appear"
+  },
+  "69": {
+    "ori_img": "69.jpg",
+    "gt_img": "",
+    "ins_en": "Transform the sea surface into an oil slick",
+    "explain_en": "A sheen of oil with rainbow patterns should appear"
+  },
+  "70": {
+    "ori_img": "70.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to rainy season in tropical monsoon region",
+    "explain_en": "Thick clouds and water accumulation should be visible"
+  },
+  "71": {
+    "ori_img": "71.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to a submarine volcanic eruption",
+    "explain_en": "Underwater bubbles and pyroclastic eruptions should be visible, and volcanic ash should appear in the sky"
+  },
+  "72": {
+    "ori_img": "72.jpeg",
+    "gt_img": "",
+    "ins_en": "Modify to dry season in tropical monsoon region",
+    "explain_en": "Clear skies and dry ground should be visible"
+  },
+  "73": {
+    "ori_img": "73.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to a field during extreme drought",
+    "explain_en": "Cracked soil crops should appear"
+  },
+  "74": {
+    "ori_img": "74.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to a boreal forest landscape",
+    "explain_en": "Tall, slender coniferous trees should appear in rows"
+  },
+  "75": {
+    "ori_img": "75.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to the Yellow River estuary's brackish water mixing zone",
+    "explain_en": "A distinct yellow and blue boundary should appear"
+  }
+}

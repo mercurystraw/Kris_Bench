@@ -1,0 +1,302 @@
+{
+  "1": {
+    "ori_img": "1.jpg",
+    "gt_img": "",
+    "ins_en": "Change this green pepper to yellow.",
+    "explain_en": ""
+  },
+  "2": {
+    "ori_img": "2.jpeg",
+    "gt_img": "",
+    "ins_en": "Change this apple to red.",
+    "explain_en": ""
+  },
+  "3": {
+    "ori_img": "3.jpg",
+    "gt_img": "",
+    "ins_en": "Change this banana to yellow",
+    "explain_en": ""
+  },
+  "4": {
+    "ori_img": "4.png",
+    "gt_img": "",
+    "ins_en": "Change this balloon to yellow.",
+    "explain_en": ""
+  },
+  "5": {
+    "ori_img": "5.jpeg",
+    "gt_img": "",
+    "ins_en": "Change this chili pepper to green.",
+    "explain_en": ""
+  },
+  "6": {
+    "ori_img": "6.jpg",
+    "gt_img": "",
+    "ins_en": "Dye this hair yellow.",
+    "explain_en": ""
+  },
+  "7": {
+    "ori_img": "7.jpg",
+    "gt_img": "",
+    "ins_en": "Change this short sleeve to black.",
+    "explain_en": ""
+  },
+  "8": {
+    "ori_img": "8.jpeg",
+    "gt_img": "",
+    "ins_en": "Change these shoes to brown.",
+    "explain_en": ""
+  },
+  "9": {
+    "ori_img": "9.jpg",
+    "gt_img": "",
+    "ins_en": "Change this golf ball to black.",
+    "explain_en": ""
+  },
+  "10": {
+    "ori_img": "10.jpg",
+    "gt_img": "",
+    "ins_en": "Change this dog's color to yellow.",
+    "explain_en": ""
+  },
+  "11": {
+    "ori_img": "11.jpg",
+    "gt_img": "",
+    "ins_en": "Change this cat to white.",
+    "explain_en": ""
+  },
+  "12": {
+    "ori_img": "12.jpg",
+    "gt_img": "",
+    "ins_en": "Change this strawberry to purple.",
+    "explain_en": ""
+  },
+  "13": {
+    "ori_img": "13.png",
+    "gt_img": "",
+    "ins_en": "Change the green lemon to yellow.",
+    "explain_en": ""
+  },
+  "14": {
+    "ori_img": "14.png",
+    "gt_img": "",
+    "ins_en": "Change the red apple on the right to green.",
+    "explain_en": ""
+  },
+  "15": {
+    "ori_img": "15.png",
+    "gt_img": "",
+    "ins_en": "Change the red peach on the left to green.",
+    "explain_en": ""
+  },
+  "16": {
+    "ori_img": "16.jpeg",
+    "gt_img": "",
+    "ins_en": "Change this pumpkin to yellow.",
+    "explain_en": ""
+  },
+  "17": {
+    "ori_img": "17.jpg",
+    "gt_img": "",
+    "ins_en": "Change this toy to black.",
+    "explain_en": ""
+  },
+  "18": {
+    "ori_img": "18.jpg",
+    "gt_img": "",
+    "ins_en": "Change this piece of clothing to white.",
+    "explain_en": ""
+  },
+  "19": {
+    "ori_img": "19.jpg",
+    "gt_img": "",
+    "ins_en": "Change this dress to purple.",
+    "explain_en": ""
+  },
+  "20": {
+    "ori_img": "20.jpg",
+    "gt_img": "",
+    "ins_en": "Change this dress to black.",
+    "explain_en": ""
+  },
+  "21": {
+    "ori_img": "21.jpg",
+    "gt_img": "",
+    "ins_en": "Change these shoes to white.",
+    "explain_en": ""
+  },
+  "22": {
+    "ori_img": "22.jpeg",
+    "gt_img": "",
+    "ins_en": "Change the color of this phone to black.",
+    "explain_en": ""
+  },
+  "23": {
+    "ori_img": "23.jpg",
+    "gt_img": "",
+    "ins_en": "Change the color of the table to red.",
+    "explain_en": ""
+  },
+  "24": {
+    "ori_img": "24.jpg",
+    "gt_img": "",
+    "ins_en": "Change this doll to yellow.",
+    "explain_en": ""
+  },
+  "25": {
+    "ori_img": "25.jpg",
+    "gt_img": "",
+    "ins_en": "Change this flower to pink.",
+    "explain_en": ""
+  },
+  "26": {
+    "ori_img": "26.jpeg",
+    "gt_img": "",
+    "ins_en": "Change this chair to blue.",
+    "explain_en": ""
+  },
+  "27": {
+    "ori_img": "27.jpg",
+    "gt_img": "",
+    "ins_en": "Change this hamster to gray.",
+    "explain_en": ""
+  },
+  "28": {
+    "ori_img": "28.jpg",
+    "gt_img": "",
+    "ins_en": "Change the color of this cup to blue.",
+    "explain_en": ""
+  },
+  "29": {
+    "ori_img": "29.jpg",
+    "gt_img": "",
+    "ins_en": "Change the color of this high-heeled shoe to black.",
+    "explain_en": ""
+  },
+  "30": {
+    "ori_img": "30.jpg",
+    "gt_img": "",
+    "ins_en": "Change the color of this pot body to pink.",
+    "explain_en": ""
+  },
+  "31": {
+    "ori_img": "31.jpg",
+    "gt_img": "",
+    "ins_en": "Change the blue towel to gray.",
+    "explain_en": ""
+  },
+  "32": {
+    "ori_img": "32.jpg",
+    "gt_img": "",
+    "ins_en": "Change all the tissues to pink.",
+    "explain_en": ""
+  },
+  "33": {
+    "ori_img": "33.jpg",
+    "gt_img": "",
+    "ins_en": "Change the mango to green.",
+    "explain_en": ""
+  },
+  "34": {
+    "ori_img": "34.jpg",
+    "gt_img": "",
+    "ins_en": "Change the backpack to black.",
+    "explain_en": ""
+  },
+  "35": {
+    "ori_img": "35.jpeg",
+    "gt_img": "",
+    "ins_en": "Change this red bell pepper to green.",
+    "explain_en": ""
+  },
+  "36": {
+    "ori_img": "36.jpg",
+    "gt_img": "",
+    "ins_en": "Change this shovel to yellow.",
+    "explain_en": ""
+  },
+  "37": {
+    "ori_img": "37.jpeg",
+    "gt_img": "",
+    "ins_en": "Change the color of the fruits in the image to red.",
+    "explain_en": ""
+  },
+  "38": {
+    "ori_img": "38.jpg",
+    "gt_img": "",
+    "ins_en": "Change this candy to green.",
+    "explain_en": ""
+  },
+  "39": {
+    "ori_img": "39.jpg",
+    "gt_img": "",
+    "ins_en": "Change this light to green.",
+    "explain_en": ""
+  },
+  "40": {
+    "ori_img": "40.jpg",
+    "gt_img": "",
+    "ins_en": "Change the pants to blue",
+    "explain_en": ""
+  },
+  "41": {
+    "ori_img": "41.jpeg",
+    "gt_img": "",
+    "ins_en": "Change the down feathers to black.",
+    "explain_en": ""
+  },
+  "42": {
+    "ori_img": "42.jpeg",
+    "gt_img": "",
+    "ins_en": "Change the leaves to red.",
+    "explain_en": ""
+  },
+  "43": {
+    "ori_img": "43.jpeg",
+    "gt_img": "",
+    "ins_en": "Change the color of the socks to yellow.",
+    "explain_en": ""
+  },
+  "44": {
+    "ori_img": "44.jpg",
+    "gt_img": "",
+    "ins_en": "Change this bracelet to silver color.",
+    "explain_en": ""
+  },
+  "45": {
+    "ori_img": "45.jpg",
+    "gt_img": "",
+    "ins_en": "Change this necklace to silver color",
+    "explain_en": ""
+  },
+  "46": {
+    "ori_img": "46.jpg",
+    "gt_img": "",
+    "ins_en": "Change this charger to green.",
+    "explain_en": ""
+  },
+  "47": {
+    "ori_img": "47.jpg",
+    "gt_img": "",
+    "ins_en": "Change this bracelet to gold.",
+    "explain_en": ""
+  },
+  "48": {
+    "ori_img": "48.jpeg",
+    "gt_img": "",
+    "ins_en": "Change the color of the juice to orange.",
+    "explain_en": ""
+  },
+  "49": {
+    "ori_img": "49.jpeg",
+    "gt_img": "",
+    "ins_en": "Change this number to green.",
+    "explain_en": ""
+  },
+  "50": {
+    "ori_img": "50.jpg",
+    "gt_img": "",
+    "ins_en": "Change the entire face of the Rubik's cube to green.",
+    "explain_en": ""
+  }
+}

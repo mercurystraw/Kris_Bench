@@ -1,0 +1,452 @@
+{
+  "1": {
+    "ori_img": "1.png",
+    "gt_img": "",
+    "ins_en": "Add a weight to the left side of the balance scale",
+    "explain_en": "The left side becomes two weights, and the balance scale tilts to the left"
+  },
+  "2": {
+    "ori_img": "2.jpg",
+    "gt_img": "",
+    "ins_en": "Place a small iron block with consistent weight on each spring.",
+    "explain_en": "The compression of the spring increases progressively from left to right."
+  },
+  "3": {
+    "ori_img": "3.jpg",
+    "gt_img": "",
+    "ins_en": "Place a helium-filled balloon in the room",
+    "explain_en": "The balloon should float in the air"
+  },
+  "4": {
+    "ori_img": "4.jpg",
+    "gt_img": "",
+    "ins_en": "Place a balloon filled with regular air in the room.",
+    "explain_en": "The balloon should be lying on the floor."
+  },
+  "5": {
+    "ori_img": "5.jpg",
+    "gt_img": "",
+    "ins_en": "Place this person's right hand on a static electricity ball",
+    "explain_en": "This person's hair should stand up"
+  },
+  "6": {
+    "ori_img": "6.png",
+    "gt_img": "",
+    "ins_en": "Place a small wooden block in the water tank",
+    "explain_en": "The small wooden block floats on the water surface"
+  },
+  "7": {
+    "ori_img": "7.png",
+    "gt_img": "",
+    "ins_en": "Place a small iron block in the water tank",
+    "explain_en": "The small iron block sinks to the bottom of the water tank"
+  },
+  "8": {
+    "ori_img": "8.jpg",
+    "gt_img": "",
+    "ins_en": "Pour a little water onto this pile of dry ice",
+    "explain_en": "A large amount of white fog will appear"
+  },
+  "9": {
+    "ori_img": "9.png",
+    "gt_img": "",
+    "ins_en": "Pour some yellow oil into a measuring cup filled with water.",
+    "explain_en": "The oil should float on top of the water."
+  },
+  "10": {
+    "ori_img": "10.png",
+    "gt_img": "",
+    "ins_en": "Pour some alcohol into the water cup.",
+    "explain_en": "The water level rises, but the color does not change."
+  },
+  "11": {
+    "ori_img": "11.png",
+    "gt_img": "",
+    "ins_en": "Insert a pencil into a glass of water",
+    "explain_en": "The pencil should appear 'broken' due to different refractive indices"
+  },
+  "12": {
+    "ori_img": "12.png",
+    "gt_img": "",
+    "ins_en": "Place this glass of water in the cold storage overnight.",
+    "explain_en": "The water will freeze."
+  },
+  "13": {
+    "ori_img": "13.png",
+    "gt_img": "",
+    "ins_en": "Increase the air pressure to two standard atmospheres",
+    "explain_en": "The water will no longer boil"
+  },
+  "14": {
+    "ori_img": "14.png",
+    "gt_img": "",
+    "ins_en": "Pour some water into a glass filled with oil",
+    "explain_en": "The water should settle at the bottom"
+  },
+  "15": {
+    "ori_img": "15.jpg",
+    "gt_img": "",
+    "ins_en": "Describe the changes in the glasses when the warm indoor temperature suddenly drops",
+    "explain_en": "Fogging occurs on the lenses"
+  },
+  "16": {
+    "ori_img": "16.jpg",
+    "gt_img": "",
+    "ins_en": "Change the south direction in the image to the right side",
+    "explain_en": "The compass arrow should point to the right"
+  },
+  "17": {
+    "ori_img": "17.png",
+    "gt_img": "",
+    "ins_en": "Sprinkle iron filings on the surface to observe the magnetic field distribution.",
+    "explain_en": "Iron filing distribution of a U-shaped magnet."
+  },
+  "18": {
+    "ori_img": "18.png",
+    "gt_img": "",
+    "ins_en": "Sprinkle iron filings on the desktop to observe the distribution of the magnetic field",
+    "explain_en": "Iron filings distribution of a bar magnet"
+  },
+  "19": {
+    "ori_img": "19.png",
+    "gt_img": "",
+    "ins_en": "Place a cup of water on the table in the image.",
+    "explain_en": "The cup should also have a symmetrical reflection in the mirror."
+  },
+  "20": {
+    "ori_img": "20.png",
+    "gt_img": "",
+    "ins_en": "Change the water to high-concentration saltwater",
+    "explain_en": "The egg should float"
+  },
+  "21": {
+    "ori_img": "21.jpg",
+    "gt_img": "",
+    "ins_en": "Remove the kitten from the screen",
+    "explain_en": "The kitten in the mirror should also be removed accordingly"
+  },
+  "22": {
+    "ori_img": "22.jpeg",
+    "gt_img": "",
+    "ins_en": "Demonstrate the thermal effect of electric current",
+    "explain_en": "The copper wire heats up due to the current"
+  },
+  "23": {
+    "ori_img": "23.jpg",
+    "gt_img": "",
+    "ins_en": "Place a pickup truck to the right of the house",
+    "explain_en": "There should be a reflection of the pickup truck on the surface of the lake"
+  },
+  "24": {
+    "ori_img": "24.jpg",
+    "gt_img": "",
+    "ins_en": "Bathroom mirror after a hot shower",
+    "explain_en": "The mirror fogs up"
+  },
+  "25": {
+    "ori_img": "25.jpg",
+    "gt_img": "",
+    "ins_en": "Bathroom mirror after a cold shower",
+    "explain_en": "The mirror remains unchanged"
+  },
+  "26": {
+    "ori_img": "26.png",
+    "gt_img": "",
+    "ins_en": "Increase the pressure in this room by 20 atmospheres.",
+    "explain_en": "No change to the water bottle."
+  },
+  "27": {
+    "ori_img": "27.png",
+    "gt_img": "",
+    "ins_en": "Increase the pressure in this room by 20 atmospheres.",
+    "explain_en": "The water bottle gets crushed due to the impact of the atmospheric pressure."
+  },
+  "28": {
+    "ori_img": "28.png",
+    "gt_img": "",
+    "ins_en": "Remove the iron block",
+    "explain_en": "The spring elongates"
+  },
+  "29": {
+    "ori_img": "29.png",
+    "gt_img": "",
+    "ins_en": "A beam of light enters from the left side of the glass prism",
+    "explain_en": "The light undergoes dispersion phenomena"
+  },
+  "30": {
+    "ori_img": "30.png",
+    "gt_img": "",
+    "ins_en": "Draw the state of the pendulum at the highest point on the left side",
+    "explain_en": "The ball symmetrically appears at the position on the left side"
+  },
+  "31": {
+    "ori_img": "31.png",
+    "gt_img": "",
+    "ins_en": "For a voltmeter connected to piezoelectric materials, demonstrate the voltage change after applying pressure.",
+    "explain_en": "The voltage should increase."
+  },
+  "32": {
+    "ori_img": "32.png",
+    "gt_img": "",
+    "ins_en": "Draw the pattern of double-slit interference on the whiteboard on the right.",
+    "explain_en": "A pattern of alternating bright and dark fringes as displayed on the detection screen is formed."
+  },
+  "33": {
+    "ori_img": "33.jpg",
+    "gt_img": "",
+    "ins_en": "Change to the experimental setup and pattern for red light single-slit diffraction",
+    "explain_en": "The board transforms into a single slit, and the image displays a broad center with narrow sides"
+  },
+  "34": {
+    "ori_img": "34.png",
+    "gt_img": "",
+    "ins_en": "Change in resistance after lowering the temperature to the critical temperature of the measured material",
+    "explain_en": "The resistance becomes 0"
+  },
+  "35": {
+    "ori_img": "35.jpeg",
+    "gt_img": "",
+    "ins_en": "Changes in resistance after increasing the temperature of the measured material",
+    "explain_en": "The resistance should increase."
+  },
+  "36": {
+    "ori_img": "36.png",
+    "gt_img": "",
+    "ins_en": "Change the small ball hanging on the right in the image to a state of being negatively charged.",
+    "explain_en": "The ball becomes tilted towards the far left."
+  },
+  "37": {
+    "ori_img": "37.png",
+    "gt_img": "",
+    "ins_en": "Place a paperclip in a cup of water to demonstrate the effect of surface tension.",
+    "explain_en": "The paperclip floats on the water surface."
+  },
+  "38": {
+    "ori_img": "38.png",
+    "gt_img": "",
+    "ins_en": "Changes that occur after heating the liquid in this water bottle",
+    "explain_en": "The red liquid level in the pipe rises"
+  },
+  "39": {
+    "ori_img": "39.jpg",
+    "gt_img": "",
+    "ins_en": "Place a silk-rubbed glass rod near small bits of paper on the table.",
+    "explain_en": "Some of the small bits of paper get attracted to the glass rod."
+  },
+  "40": {
+    "ori_img": "40.png",
+    "gt_img": "",
+    "ins_en": "Changes in the pendant after sudden braking of a moving car",
+    "explain_en": "The pendant tilts towards the left front."
+  },
+  "41": {
+    "ori_img": "41.png",
+    "gt_img": "",
+    "ins_en": "Changes in the pendant when a stationary car suddenly accelerates",
+    "explain_en": "The pendant tilts towards the rear-right direction"
+  },
+  "42": {
+    "ori_img": "42.png",
+    "gt_img": "",
+    "ins_en": "Draw the light reflected by the upper mirror.",
+    "explain_en": "The light is emitted towards the lower left."
+  },
+  "43": {
+    "ori_img": "43.png",
+    "gt_img": "",
+    "ins_en": "Press the switch in the picture",
+    "explain_en": "Two small light bulbs light up"
+  },
+  "44": {
+    "ori_img": "44.jpeg",
+    "gt_img": "",
+    "ins_en": "Disconnect the rightmost red wire.",
+    "explain_en": "The small light bulb at the bottom right lights up."
+  },
+  "45": {
+    "ori_img": "45.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the scene to a warm and humid indoor glass window during winter",
+    "explain_en": "Foggy on the glass"
+  },
+  "46": {
+    "ori_img": "46.png",
+    "gt_img": "",
+    "ins_en": "Correct the indicated height of the erroneous thermometer in the image.",
+    "explain_en": "The red liquid in the thermometer on the far left is at the highest level."
+  },
+  "47": {
+    "ori_img": "47.jpeg",
+    "gt_img": "",
+    "ins_en": "Increase the atmospheric pressure outside the balloon.",
+    "explain_en": "The balloon becomes smaller."
+  },
+  "48": {
+    "ori_img": "48.png",
+    "gt_img": "",
+    "ins_en": "Changes in the balloon after the external atmospheric pressure is reduced.",
+    "explain_en": "The balloon expands"
+  },
+  "49": {
+    "ori_img": "49.jpg",
+    "gt_img": "",
+    "ins_en": "Change to measure the temperature of the ice-water mixture",
+    "explain_en": "Adjust the temperature to 0 degrees Celsius"
+  },
+  "50": {
+    "ori_img": "50.png",
+    "gt_img": "",
+    "ins_en": "Change in liquid level height after temperature decrease",
+    "explain_en": "The red liquid level drops"
+  },
+  "51": {
+    "ori_img": "51.jpg",
+    "gt_img": "",
+    "ins_en": "Remove the weights from the pan balance",
+    "explain_en": "The white plastic object on top is removed, and the display shows zero"
+  },
+  "52": {
+    "ori_img": "52.jpeg",
+    "gt_img": "",
+    "ins_en": "A drop of water falls on the lake surface",
+    "explain_en": "Concentric ripples spread outward on the water surface"
+  },
+  "53": {
+    "ori_img": "53.png",
+    "gt_img": "",
+    "ins_en": "Release the hand pressing on the ball",
+    "explain_en": "The spring elongates, and the ball rises"
+  },
+  "54": {
+    "ori_img": "54.jpeg",
+    "gt_img": "",
+    "ins_en": "Use a magnifying glass at noon to focus sunlight on a match for some time",
+    "explain_en": "The match ignites"
+  },
+  "55": {
+    "ori_img": "55.jpg",
+    "gt_img": "",
+    "ins_en": "Remove the small iron rod in the picture",
+    "explain_en": "The water stream returns to normal vertical downward flow"
+  },
+  "56": {
+    "ori_img": "56.png",
+    "gt_img": "",
+    "ins_en": "Place toy cars at the same height on a smooth incline and a rough incline, and observe when the car on the smooth incline reaches the bottom",
+    "explain_en": "The car on the rough incline is still on the slope"
+  },
+  "57": {
+    "ori_img": "57.jpg",
+    "gt_img": "",
+    "ins_en": "Observe the change in hydrometer after pouring higher density salt water into the test tube",
+    "explain_en": "The hydrometer floats higher, showing a higher reading on the scale"
+  },
+  "58": {
+    "ori_img": "58.png",
+    "gt_img": "",
+    "ins_en": "Change to use a movable pulley to pull the bucket",
+    "explain_en": "The pulley becomes a movable pulley, and the direction of the pull is upward"
+  },
+  "59": {
+    "ori_img": "59.jpeg",
+    "gt_img": "",
+    "ins_en": "Change the value to the result of reversing the diode direction",
+    "explain_en": "The ammeter shows zero current"
+  },
+  "60": {
+    "ori_img": "60.png",
+    "gt_img": "",
+    "ins_en": "Change to cover the lens with a blue filter and photograph the flower",
+    "explain_en": "The red flower appears very dark or almost black through the blue filter"
+  },
+  "61": {
+    "ori_img": "61.jpg",
+    "gt_img": "",
+    "ins_en": "Continuously heat a sealed gas tank, and show the change in pressure gauge",
+    "explain_en": "The gauge needle should rise"
+  },
+  "62": {
+    "ori_img": "62.png",
+    "gt_img": "",
+    "ins_en": "Only keep the ray at the critical angle",
+    "explain_en": "Only the red beam is retained, and the black beam is removed"
+  },
+  "63": {
+    "ori_img": "63.jpeg",
+    "gt_img": "",
+    "ins_en": "Pump the bicycle tire to a higher pressure",
+    "explain_en": "The tire becomes more inflated, and the contact patch with the ground becomes smaller"
+  },
+  "64": {
+    "ori_img": "64.png",
+    "gt_img": "",
+    "ins_en": "After 1 minute",
+    "explain_en": "The cube on metal shows noticeably more melting"
+  },
+  "65": {
+    "ori_img": "65.jpeg",
+    "gt_img": "",
+    "ins_en": "Change to cover the lens with a red filter and photograph the green leaf",
+    "explain_en": "The leaf appears very dark or almost black through the red filter"
+  },
+  "66": {
+    "ori_img": "66.png",
+    "gt_img": "",
+    "ins_en": "Add equal drops of blue ink to two cups of water",
+    "explain_en": "The ink disperses much faster in the hot water, forming a lighter cloud"
+  },
+  "67": {
+    "ori_img": "67.jpg",
+    "gt_img": "",
+    "ins_en": "Rotate the polarizing filter 90° before the LCD screen",
+    "explain_en": "The display becomes black due to crossed polarization"
+  },
+  "68": {
+    "ori_img": "68.jpg",
+    "gt_img": "",
+    "ins_en": "Continue to pour some liquid into the left glass tube of the connected vessels",
+    "explain_en": "The liquid levels in both glass tubes should always remain at the same height"
+  },
+  "69": {
+    "ori_img": "69.jpeg",
+    "gt_img": "",
+    "ins_en": "Direct a blower straight upward and place a small ball in the airstream",
+    "explain_en": "The ball hovers stably in the vertical airflow due to the Bernoulli effect"
+  },
+  "70": {
+    "ori_img": "70.png",
+    "gt_img": "",
+    "ins_en": "Show the level after the ice melts",
+    "explain_en": "The water level remains the same after complete melting"
+  },
+  "71": {
+    "ori_img": "71.png",
+    "gt_img": "",
+    "ins_en": "Change the environment of the chamber to a vacuum",
+    "explain_en": "The water boils at room temperature under reduced pressure"
+  },
+  "72": {
+    "ori_img": "72.jpg",
+    "gt_img": "",
+    "ins_en": "Pour oil with a refractive index similar to that of the glass rod into the cup",
+    "explain_en": "The rod becomes nearly invisible due to minimal refraction"
+  },
+  "73": {
+    "ori_img": "73.png",
+    "gt_img": "",
+    "ins_en": "Draw the highest point the ball can reach on the right",
+    "explain_en": "The ball rises to the same height on the right, showing energy conservation"
+  },
+  "74": {
+    "ori_img": "74.jpeg",
+    "gt_img": "",
+    "ins_en": "Show the change after the rightmost ball of the Newton's cradle falls",
+    "explain_en": "The leftmost ball is launched, and the other balls remain stationary"
+  },
+  "75": {
+    "ori_img": "75.png",
+    "gt_img": "",
+    "ins_en": "Pull the A4 paper sharply and observe the cup",
+    "explain_en": "The cup remains upright due to inertia"
+  }
+}

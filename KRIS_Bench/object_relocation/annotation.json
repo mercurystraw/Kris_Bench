@@ -1,0 +1,302 @@
+{
+  "1": {
+    "ori_img": "1.png",
+    "gt_img": "",
+    "ins_en": "Place the coffee on the other side of the computer.",
+    "explain_en": ""
+  },
+  "2": {
+    "ori_img": "2.jpg",
+    "gt_img": "",
+    "ins_en": "Place the cup to the right of the plate.",
+    "explain_en": ""
+  },
+  "3": {
+    "ori_img": "3.jpeg",
+    "gt_img": "",
+    "ins_en": "Place the cup to the left of the plate.",
+    "explain_en": ""
+  },
+  "4": {
+    "ori_img": "4.jpg",
+    "gt_img": "",
+    "ins_en": "Position the charging adapter in the center of the cable.",
+    "explain_en": ""
+  },
+  "5": {
+    "ori_img": "5.jpg",
+    "gt_img": "",
+    "ins_en": "Place the charger on the left side of the phone.",
+    "explain_en": ""
+  },
+  "6": {
+    "ori_img": "6.jpg",
+    "gt_img": "",
+    "ins_en": "Push the chair under the table",
+    "explain_en": ""
+  },
+  "7": {
+    "ori_img": "7.png",
+    "gt_img": "",
+    "ins_en": "Place the lid onto the pot",
+    "explain_en": ""
+  },
+  "8": {
+    "ori_img": "8.png",
+    "gt_img": "",
+    "ins_en": "Move the top paper cup to the bottom left corner.",
+    "explain_en": ""
+  },
+  "9": {
+    "ori_img": "9.png",
+    "gt_img": "",
+    "ins_en": "Swap the positions of the pencil and the pen.",
+    "explain_en": ""
+  },
+  "10": {
+    "ori_img": "10.jpg",
+    "gt_img": "",
+    "ins_en": "Position the mouse to the left side of the keyboard.",
+    "explain_en": ""
+  },
+  "11": {
+    "ori_img": "11.jpg",
+    "gt_img": "",
+    "ins_en": "Place the printed document in front of the printer.",
+    "explain_en": ""
+  },
+  "12": {
+    "ori_img": "12.png",
+    "gt_img": "",
+    "ins_en": "Swap the positions of the two cups",
+    "explain_en": ""
+  },
+  "13": {
+    "ori_img": "13.jpg",
+    "gt_img": "",
+    "ins_en": "Place the printed document on the laptop keyboard.",
+    "explain_en": ""
+  },
+  "14": {
+    "ori_img": "14.jpg",
+    "gt_img": "",
+    "ins_en": "Swap the positions of the two boxes",
+    "explain_en": ""
+  },
+  "15": {
+    "ori_img": "15.png",
+    "gt_img": "",
+    "ins_en": "Place the potted plant on the far right of the same shelf level.",
+    "explain_en": ""
+  },
+  "16": {
+    "ori_img": "16.png",
+    "gt_img": "",
+    "ins_en": "Move the book to the left of the desk lamp stand.",
+    "explain_en": ""
+  },
+  "17": {
+    "ori_img": "17.jpeg",
+    "gt_img": "",
+    "ins_en": "Place the pen holder on the book.",
+    "explain_en": ""
+  },
+  "18": {
+    "ori_img": "18.png",
+    "gt_img": "",
+    "ins_en": "Place the calculator on the brown notebook.",
+    "explain_en": ""
+  },
+  "19": {
+    "ori_img": "19.png",
+    "gt_img": "",
+    "ins_en": "Place the mop behind the bucket",
+    "explain_en": ""
+  },
+  "20": {
+    "ori_img": "20.png",
+    "gt_img": "",
+    "ins_en": "Move the rightmost doll to the leftmost position.",
+    "explain_en": ""
+  },
+  "21": {
+    "ori_img": "21.png",
+    "gt_img": "",
+    "ins_en": "Place the chopsticks to the left of the plate.",
+    "explain_en": ""
+  },
+  "22": {
+    "ori_img": "22.png",
+    "gt_img": "",
+    "ins_en": "Place the chopsticks to the left of the plate",
+    "explain_en": ""
+  },
+  "23": {
+    "ori_img": "23.png",
+    "gt_img": "",
+    "ins_en": "Place the glasses into the glasses case.",
+    "explain_en": ""
+  },
+  "24": {
+    "ori_img": "24.png",
+    "gt_img": "",
+    "ins_en": "Swap the positions of the pencils on the far right and far left.",
+    "explain_en": ""
+  },
+  "25": {
+    "ori_img": "25.jpg",
+    "gt_img": "",
+    "ins_en": "Swap the positions of the two Rubik's cubes.",
+    "explain_en": ""
+  },
+  "26": {
+    "ori_img": "26.jpg",
+    "gt_img": "",
+    "ins_en": "Place the right Coke on top of the box of Coke on the left.",
+    "explain_en": ""
+  },
+  "27": {
+    "ori_img": "27.jpg",
+    "gt_img": "",
+    "ins_en": "Place the toothbrush into the toothbrush holder.",
+    "explain_en": ""
+  },
+  "28": {
+    "ori_img": "28.png",
+    "gt_img": "",
+    "ins_en": "Place the green plant on the far left of the same tier on another shelf.",
+    "explain_en": ""
+  },
+  "29": {
+    "ori_img": "29.jpg",
+    "gt_img": "",
+    "ins_en": "Put one shoe inside the other.",
+    "explain_en": ""
+  },
+  "30": {
+    "ori_img": "30.jpg",
+    "gt_img": "",
+    "ins_en": "Place the left cup onto the other cup.",
+    "explain_en": ""
+  },
+  "31": {
+    "ori_img": "31.png",
+    "gt_img": "",
+    "ins_en": "Place the pillow at the foot of the bed",
+    "explain_en": ""
+  },
+  "32": {
+    "ori_img": "32.jpg",
+    "gt_img": "",
+    "ins_en": "Move the shoes to the far right of the shelf.",
+    "explain_en": ""
+  },
+  "33": {
+    "ori_img": "33.jpg",
+    "gt_img": "",
+    "ins_en": "Place the topmost shoe on the far left side of the rack.",
+    "explain_en": ""
+  },
+  "34": {
+    "ori_img": "34.jpg",
+    "gt_img": "",
+    "ins_en": "Place the left cup on top of the other cup.",
+    "explain_en": ""
+  },
+  "35": {
+    "ori_img": "35.png",
+    "gt_img": "",
+    "ins_en": "Place the green plants on the topmost shelf.",
+    "explain_en": ""
+  },
+  "36": {
+    "ori_img": "36.jpg",
+    "gt_img": "",
+    "ins_en": "Place the mouse on the right side of the mouse pad.",
+    "explain_en": ""
+  },
+  "37": {
+    "ori_img": "37.png",
+    "gt_img": "",
+    "ins_en": "Place the vase in the center of the table.",
+    "explain_en": ""
+  },
+  "38": {
+    "ori_img": "38.png",
+    "gt_img": "",
+    "ins_en": "Place the phone on top of the power bank.",
+    "explain_en": ""
+  },
+  "39": {
+    "ori_img": "39.png",
+    "gt_img": "",
+    "ins_en": "Move the lower coffee cup to the left of another coffee cup.",
+    "explain_en": ""
+  },
+  "40": {
+    "ori_img": "40.jpg",
+    "gt_img": "",
+    "ins_en": "Swap the positions of the computers on the left and right sides of the monitor.",
+    "explain_en": ""
+  },
+  "41": {
+    "ori_img": "41.jpg",
+    "gt_img": "",
+    "ins_en": "Move the pen holder to the lower right corner of the paper.",
+    "explain_en": ""
+  },
+  "42": {
+    "ori_img": "42.jpg",
+    "gt_img": "",
+    "ins_en": "Place the printed document on the top of the printer.",
+    "explain_en": ""
+  },
+  "43": {
+    "ori_img": "43.jpg",
+    "gt_img": "",
+    "ins_en": "Swap the positions of the leftmost and rightmost tools.",
+    "explain_en": ""
+  },
+  "44": {
+    "ori_img": "44.png",
+    "gt_img": "",
+    "ins_en": "Place the jar on the right underneath the other jar.",
+    "explain_en": ""
+  },
+  "45": {
+    "ori_img": "45.jpg",
+    "gt_img": "",
+    "ins_en": "Move the book to the other side of the vase",
+    "explain_en": ""
+  },
+  "46": {
+    "ori_img": "46.png",
+    "gt_img": "",
+    "ins_en": "Move the umbrella to another rack.",
+    "explain_en": ""
+  },
+  "47": {
+    "ori_img": "47.jpg",
+    "gt_img": "",
+    "ins_en": "Place the spoon to the left of the plate",
+    "explain_en": ""
+  },
+  "48": {
+    "ori_img": "48.png",
+    "gt_img": "",
+    "ins_en": "Place the knife on the tissue.",
+    "explain_en": ""
+  },
+  "49": {
+    "ori_img": "49.jpg",
+    "gt_img": "",
+    "ins_en": "Place the basketball on top of the soccer ball.",
+    "explain_en": ""
+  },
+  "50": {
+    "ori_img": "50.jpg",
+    "gt_img": "",
+    "ins_en": "Swap the positions of the two rackets.",
+    "explain_en": ""
+  }
+}

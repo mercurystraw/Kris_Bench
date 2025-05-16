@@ -1,0 +1,410 @@
+{
+  "1": {
+    "ori_img": "1.jpeg",
+    "gt_img": "",
+    "ins_en": "This bread after being left for a long time",
+    "explain_en": "The bread should become moldy"
+  },
+  "2": {
+    "ori_img": "2.jpeg",
+    "gt_img": "",
+    "ins_en": "The plant in the image is blooming",
+    "explain_en": "This is a rhododendron, usually, the flowers are pink or purple."
+  },
+  "3": {
+    "ori_img": "3.jpg",
+    "gt_img": "",
+    "ins_en": "What the creatures in the image look like when they grow up",
+    "explain_en": "The creatures in the image are tadpoles, which grow up to be frogs."
+  },
+  "4": {
+    "ori_img": "4.jpg",
+    "gt_img": "",
+    "ins_en": "Symptoms of potassium deficiency in this leaf",
+    "explain_en": "Yellowing of leaf margins"
+  },
+  "5": {
+    "ori_img": "5.png",
+    "gt_img": "",
+    "ins_en": "After the fruits in the image have been left for a period of time",
+    "explain_en": "The apples will oxidize and turn yellow"
+  },
+  "6": {
+    "ori_img": "6.png",
+    "gt_img": "",
+    "ins_en": "After the fruits in the image ripen",
+    "explain_en": "This is a peach tree, and when ripe, it produces red peaches."
+  },
+  "7": {
+    "ori_img": "7.jpg",
+    "gt_img": "",
+    "ins_en": "Change after touching the leaves of the plant in the image with your hand",
+    "explain_en": "The plant is a Mimosa pudica, and the leaves should contract and droop."
+  },
+  "8": {
+    "ori_img": "8.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to the posture of a male dog marking territory",
+    "explain_en": "A male dog will lift one leg to urinate"
+  },
+  "9": {
+    "ori_img": "9.png",
+    "gt_img": "",
+    "ins_en": "Actions taken by animals in the image to beg for food",
+    "explain_en": "The bird should open its mouth"
+  },
+  "10": {
+    "ori_img": "10.png",
+    "gt_img": "",
+    "ins_en": "The appearance of an animal in a state of extreme alertness in the picture",
+    "explain_en": "The cat should arch its body and have its fur standing on end"
+  },
+  "11": {
+    "ori_img": "11.jpeg",
+    "gt_img": "",
+    "ins_en": "The appearance of the animal in the image after storing food",
+    "explain_en": "The hamster's cheek pouches should be bulging"
+  },
+  "12": {
+    "ori_img": "12.jpg",
+    "gt_img": "",
+    "ins_en": "Change to the state of the plant at night in the image",
+    "explain_en": "The plant is a water lily, and its flowers close at night."
+  },
+  "13": {
+    "ori_img": "13.jpg",
+    "gt_img": "",
+    "ins_en": "After the leaves in the image encounter pest infestation",
+    "explain_en": "Holes will appear on the leaves, as they are eaten by the insects"
+  },
+  "14": {
+    "ori_img": "14.jpg",
+    "gt_img": "",
+    "ins_en": "The action taken by the animal in the image to ward off predators",
+    "explain_en": "The pangolin curls up into a ball"
+  },
+  "15": {
+    "ori_img": "15.jpg",
+    "gt_img": "",
+    "ins_en": "Actions Taken by Animals in the Image to Avoid Danger",
+    "explain_en": "A gecko should drop its tail."
+  },
+  "16": {
+    "ori_img": "16.jpg",
+    "gt_img": "",
+    "ins_en": "Actions Taken by Animals in the Image to Avoid Danger",
+    "explain_en": "The octopus should release ink"
+  },
+  "17": {
+    "ori_img": "17.jpg",
+    "gt_img": "",
+    "ins_en": "Appearance of a plant lacking water in the image",
+    "explain_en": "The leaves will wilt and droop"
+  },
+  "18": {
+    "ori_img": "18.jpg",
+    "gt_img": "",
+    "ins_en": "Egg Hatching in the Image",
+    "explain_en": "The egg should transform into a chick."
+  },
+  "19": {
+    "ori_img": "19.png",
+    "gt_img": "",
+    "ins_en": "Actions Taken by Animals in the Image to Attract Mates",
+    "explain_en": "The Peacock should display their plumage"
+  },
+  "20": {
+    "ori_img": "20.jpg",
+    "gt_img": "",
+    "ins_en": "Actions Taken by Animals in the Image to Attract Mates",
+    "explain_en": "The frigatebird's red throat pouch inflates into a balloon"
+  },
+  "21": {
+    "ori_img": "21.jpg",
+    "gt_img": "",
+    "ins_en": "Actions taken by the animal in the image to avoid danger",
+    "explain_en": "The hedgehog curls up into a ball"
+  },
+  "22": {
+    "ori_img": "22.jpg",
+    "gt_img": "",
+    "ins_en": "Actions taken by the animals in the image to avoid danger",
+    "explain_en": "The Armadillo curls up into a ball"
+  },
+  "23": {
+    "ori_img": "23.jpg",
+    "gt_img": "",
+    "ins_en": "The actions taken by the animals in the image to avoid danger",
+    "explain_en": "The turtle should retract its head and limbs into its shell"
+  },
+  "24": {
+    "ori_img": "24.jpg",
+    "gt_img": "",
+    "ins_en": "Cut the fruit shown in the image",
+    "explain_en": "Cutting the watermelon reveals its red flesh."
+  },
+  "25": {
+    "ori_img": "25.jpg",
+    "gt_img": "",
+    "ins_en": "The appearance of this organism as a fully grown adult",
+    "explain_en": "Turning into a butterfly"
+  },
+  "26": {
+    "ori_img": "26.png",
+    "gt_img": "",
+    "ins_en": "Modify the organism into an intermediate state between nymph and adult.",
+    "explain_en": "Transform into a cocoon"
+  },
+  "27": {
+    "ori_img": "27.png",
+    "gt_img": "",
+    "ins_en": "What the fruit looks like when ripe in the picture",
+    "explain_en": "The banana should turn yellow"
+  },
+  "28": {
+    "ori_img": "28.jpg",
+    "gt_img": "",
+    "ins_en": "The appearance of the fruit after it matures in the image",
+    "explain_en": "The persimmon should turn red"
+  },
+  "29": {
+    "ori_img": "29.jpg",
+    "gt_img": "",
+    "ins_en": "The appearance of the fruit after it ripens in the picture",
+    "explain_en": "The mango should turn yellow"
+  },
+  "30": {
+    "ori_img": "30.png",
+    "gt_img": "",
+    "ins_en": "The organism in the image makes changes to blend into the environment.",
+    "explain_en": "The color of the chameleon should be similar to the background color."
+  },
+  "31": {
+    "ori_img": "31.jpg",
+    "gt_img": "",
+    "ins_en": "Restore the organism in the image to the fertilized egg state",
+    "explain_en": "Transform back into a frog's fertilized egg."
+  },
+  "32": {
+    "ori_img": "32.jpg",
+    "gt_img": "",
+    "ins_en": "Modify this organism to regress into a nymph",
+    "explain_en": "Transform it into a caterpillar"
+  },
+  "33": {
+    "ori_img": "33.jpg",
+    "gt_img": "",
+    "ins_en": "Return the organism in the picture to its juvenile state",
+    "explain_en": "Transform into a tadpole"
+  },
+  "34": {
+    "ori_img": "34.jpg",
+    "gt_img": "",
+    "ins_en": "The organism in the image dissipates heat in hot weather",
+    "explain_en": "The dog should stick out its tongue"
+  },
+  "35": {
+    "ori_img": "35.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to the appearance of this plant in full bloom",
+    "explain_en": "The sunflower in full bloom."
+  },
+  "36": {
+    "ori_img": "36.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to show the plants in the image producing seeds",
+    "explain_en": "Transform into a dandelion with white seeds."
+  },
+  "37": {
+    "ori_img": "37.jpg",
+    "gt_img": "",
+    "ins_en": "Modify to show the changes in the plant after catching insects in the image",
+    "explain_en": "The plant should close"
+  },
+  "38": {
+    "ori_img": "38.png",
+    "gt_img": "",
+    "ins_en": "Changes in the animal's eyes in the image after facing strong light",
+    "explain_en": "The cat's pupils should constrict"
+  },
+  "39": {
+    "ori_img": "39.jpg",
+    "gt_img": "",
+    "ins_en": "The appearance of the plant when mature in the image",
+    "explain_en": "Turns into golden rice"
+  },
+  "40": {
+    "ori_img": "40.jpg",
+    "gt_img": "",
+    "ins_en": "Open the nut in the image to reveal the kernel",
+    "explain_en": "The macadamia nut reveals white nut meat"
+  },
+  "41": {
+    "ori_img": "41.jpg",
+    "gt_img": "",
+    "ins_en": "Appearance of the fish in the image when calm",
+    "explain_en": "The pufferfish deflates and no longer puffs up"
+  },
+  "42": {
+    "ori_img": "42.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the creature in the image to a defensive posture",
+    "explain_en": "Snail retracts into its shell"
+  },
+  "43": {
+    "ori_img": "43.png",
+    "gt_img": "",
+    "ins_en": "What the plant in the image looks like when it grows up",
+    "explain_en": "The shoot has turned into a green bamboo"
+  },
+  "44": {
+    "ori_img": "44.jpg",
+    "gt_img": "",
+    "ins_en": "Color Change When Planting the Plant in the Image into Acidic Soil",
+    "explain_en": "The hydrangeas should turn pink."
+  },
+  "45": {
+    "ori_img": "45.jpg",
+    "gt_img": "",
+    "ins_en": "Changes in the Fish When Encountering Danger in the Image",
+    "explain_en": "The pufferfish should inflate."
+  },
+  "46": {
+    "ori_img": "46.jpg",
+    "gt_img": "",
+    "ins_en": "Change the leaves in the image to an iron-deficient state.",
+    "explain_en": "The plant color should turn yellow."
+  },
+  "47": {
+    "ori_img": "47.jpg",
+    "gt_img": "",
+    "ins_en": "Changes in the organism after albinism in the image",
+    "explain_en": "The coral should turn white"
+  },
+  "48": {
+    "ori_img": "48.jpg",
+    "gt_img": "",
+    "ins_en": "Changes in Animal Fur After Entering Winter in the Picture",
+    "explain_en": "The fur of the fox should turn white."
+  },
+  "49": {
+    "ori_img": "49.jpg",
+    "gt_img": "",
+    "ins_en": "Changes in Animal Fur After Entering Summer in the Image",
+    "explain_en": "The fur of the fox should turn gray."
+  },
+  "50": {
+    "ori_img": "50.jpg",
+    "gt_img": "",
+    "ins_en": "Change the season in the image to autumn",
+    "explain_en": "The maple leaves should turn red."
+  },
+  "51": {
+    "ori_img": "51.jpg",
+    "gt_img": "",
+    "ins_en": "Appearance of the sliced avocado after being left for an hour",
+    "explain_en": "The flesh surface oxidizes and turns brown"
+  },
+  "52": {
+    "ori_img": "52.jpg",
+    "gt_img": "",
+    "ins_en": "Show the grapes in the picture after sun‑drying",
+    "explain_en": "The grapes shrink and become brown raisins"
+  },
+  "53": {
+    "ori_img": "53.jpg",
+    "gt_img": "",
+    "ins_en": "Change the appearance of crab‑apple fruits when ripe",
+    "explain_en": "The skins shift to bright red"
+  },
+  "54": {
+    "ori_img": "54.jpeg",
+    "gt_img": "",
+    "ins_en": "Appearance of the owl’s eyes in a dim environment",
+    "explain_en": "Its pupils dilate, filling most of the iris"
+  },
+  "55": {
+    "ori_img": "55.jpg",
+    "gt_img": "",
+    "ins_en": "Appearance of pine trees producing pollen in spring",
+    "explain_en": "Yellow pollen forms on pine branches"
+  },
+  "56": {
+    "ori_img": "56.jpg",
+    "gt_img": "",
+    "ins_en": "Male frog calling for mates at night",
+    "explain_en": "Its vocal sac beneath the throat inflates"
+  },
+  "57": {
+    "ori_img": "57.jpg",
+    "gt_img": "",
+    "ins_en": "Scene of the wolves howling",
+    "explain_en": "The lead wolf raises its head and howls"
+  },
+  "58": {
+    "ori_img": "58.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the hamster in hibernation",
+    "explain_en": "The hamster curls up, eyes closed"
+  },
+  "59": {
+    "ori_img": "59.jpeg",
+    "gt_img": "",
+    "ins_en": "Heat the corn kernels in the picture until they pop",
+    "explain_en": "The kernels turn into white fluffy popcorn"
+  },
+  "60": {
+    "ori_img": "60.jpg",
+    "gt_img": "",
+    "ins_en": "Plumage of the grey juvenile flamingo in the image when adult",
+    "explain_en": "Feathers change from grey to pink"
+  },
+  "61": {
+    "ori_img": "61.jpeg",
+    "gt_img": "",
+    "ins_en": "Open the seed in the image",
+    "explain_en": "Green spiny husk opens, revealing glossy brown nuts"
+  },
+  "62": {
+    "ori_img": "62.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the animal in the picture to its roosting posture",
+    "explain_en": "It hangs upside‑down, wings wrapped around its body"
+  },
+  "63": {
+    "ori_img": "63.jpg",
+    "gt_img": "",
+    "ins_en": "Show the plant in the picture in its daytime open state",
+    "explain_en": "Petals fully spread, revealing yellow stamens"
+  },
+  "64": {
+    "ori_img": "64.jpg",
+    "gt_img": "",
+    "ins_en": "Show the hummingbird's hovering posture more dynamically while feeding",
+    "explain_en": "The hummingbird hovers in front of the flower, wings blurred into a fan shape"
+  },
+  "65": {
+    "ori_img": "65.jpg",
+    "gt_img": "",
+    "ins_en": "Show the plant's leaves 30 minutes after being touched",
+    "explain_en": "The plant in the image is a Mimosa, and the leaflets reopen and lie flat again"
+  },
+  "66": {
+    "ori_img": "66.jpeg",
+    "gt_img": "",
+    "ins_en": "Show the animal in the image in its summer coat",
+    "explain_en": "The animal in the image is snowshoe hares, and the fur changes from pure white to mottled brown-grey"
+  },
+  "67": {
+    "ori_img": "67.jpg",
+    "gt_img": "",
+    "ins_en": "Put the animal's favorite food in the image",
+    "explain_en": "The animal in the image is a squirrel, and you can put nuts like pine cones, walnuts, peanuts, etc."
+  },
+  "68": {
+    "ori_img": "68.jpeg",
+    "gt_img": "",
+    "ins_en": "Show oxygen release during vigorous photosynthesis of algae",
+    "explain_en": "Tiny bubbles form on the aquatic plant leaves"
+  }
+}

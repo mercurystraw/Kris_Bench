@@ -1,0 +1,452 @@
+{
+  "1": {
+    "ori_img": "1.png",
+    "gt_img": "",
+    "ins_en": "Correct unreasonable parts of the socket in the image",
+    "explain_en": "The layout of the socket holes should be symmetrically distributed, and the holes should be designed in pairs or in groups."
+  },
+  "2": {
+    "ori_img": "2.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the vehicle in the image.",
+    "explain_en": "The front door of the vehicle in the image should be installed in the opposite direction."
+  },
+  "3": {
+    "ori_img": "3.jpg",
+    "gt_img": "",
+    "ins_en": "Correct unreasonable parts of the child's body in the image",
+    "explain_en": "Each hand in the image should have five fingers"
+  },
+  "4": {
+    "ori_img": "4.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts in the image",
+    "explain_en": "Each hand in the image should have five fingers"
+  },
+  "5": {
+    "ori_img": "5.png",
+    "gt_img": "",
+    "ins_en": "Correct unreasonable parts of the bicycle in the image",
+    "explain_en": "The rear wheel of the bicycle in the image is too large; it should be approximately the same size as the front wheel."
+  },
+  "6": {
+    "ori_img": "6.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the man in the image.",
+    "explain_en": "The fingers on the hand on the left side of the image should be five in number."
+  },
+  "7": {
+    "ori_img": "7.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable aspects of the woman's hands in the image.",
+    "explain_en": "The fingers on the right hand in the image should be five."
+  },
+  "8": {
+    "ori_img": "8.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the legs in the image",
+    "explain_en": "Each foot in the image should have five toes"
+  },
+  "9": {
+    "ori_img": "9.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts in the image",
+    "explain_en": "There should be only one steering wheel held by the hand in the image; the extra one above should be removed."
+  },
+  "10": {
+    "ori_img": "10.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the hand in the image",
+    "explain_en": "The hand in the image should have five fingers."
+  },
+  "11": {
+    "ori_img": "11.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the arm in the image",
+    "explain_en": "The arm in the image should be straight rather than twisted."
+  },
+  "12": {
+    "ori_img": "12.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the house in the image.",
+    "explain_en": "The door of the house in the image should not be tilted; it should be placed upright."
+  },
+  "13": {
+    "ori_img": "13.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the foot in the image",
+    "explain_en": "The toes on the right foot in the image should be five."
+  },
+  "14": {
+    "ori_img": "14.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the hand in the image",
+    "explain_en": "The hand in the image should have five fingers."
+  },
+  "15": {
+    "ori_img": "15.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the hand in the image",
+    "explain_en": "The hand in the image should have five fingers."
+  },
+  "16": {
+    "ori_img": "16.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the dog in the image",
+    "explain_en": "The dog in the image should have four legs"
+  },
+  "17": {
+    "ori_img": "17.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable body parts of animals in the image.",
+    "explain_en": "The cat in the image should have only one tail."
+  },
+  "18": {
+    "ori_img": "18.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable body part of the bird in the image",
+    "explain_en": "The bird in the image should have two legs."
+  },
+  "19": {
+    "ori_img": "19.png",
+    "gt_img": "",
+    "ins_en": "Correct any unreasonable body parts on the bird in the image",
+    "explain_en": "The bird in the image should have only one pair of wings"
+  },
+  "20": {
+    "ori_img": "20.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts in the picture of the bird.",
+    "explain_en": "The bird in the picture should have only two legs."
+  },
+  "21": {
+    "ori_img": "21.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the kitten in the image",
+    "explain_en": "The kitten in the image should only have four legs"
+  },
+  "22": {
+    "ori_img": "22.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable body parts of the puppy in the image",
+    "explain_en": "The puppy in the image should only have four legs"
+  },
+  "23": {
+    "ori_img": "23.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable body parts of the kitten in the image",
+    "explain_en": "The kitten in the image should have only two ears"
+  },
+  "24": {
+    "ori_img": "24.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable body parts of the bird in the image.",
+    "explain_en": "There should only be one beak in the image."
+  },
+  "25": {
+    "ori_img": "25.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the animal in the image",
+    "explain_en": "The elephant in the image should be gray"
+  },
+  "26": {
+    "ori_img": "26.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part of the phone in the image",
+    "explain_en": "There should be only one interface in the middle of the image, as there is only one interface in the middle at the bottom of the phone."
+  },
+  "27": {
+    "ori_img": "27.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the toothbrush in the image",
+    "explain_en": "There should only be one toothbrush head in the image because a toothbrush only has one head"
+  },
+  "28": {
+    "ori_img": "28.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the bicycle in the image",
+    "explain_en": "The wheels of the object in the image should be circular because bicycle wheels are circular."
+  },
+  "29": {
+    "ori_img": "29.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the backpack in the image",
+    "explain_en": "The straps of the object in the image should be only two, because a backpack only has two straps."
+  },
+  "30": {
+    "ori_img": "30.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts in the image",
+    "explain_en": "The objects in the image should be straight because this makes it easier to brush your teeth."
+  },
+  "31": {
+    "ori_img": "31.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the image",
+    "explain_en": "The steps in the image should be below the door, because typically, when the door is opened, the steps are just below the door to facilitate descent."
+  },
+  "32": {
+    "ori_img": "32.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts in the bowl image",
+    "explain_en": "The bowl in the image should not have any holes, as it would be unable to hold water otherwise."
+  },
+  "33": {
+    "ori_img": "33.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the object in the image",
+    "explain_en": "The spout and handle of the kettle in the image should be on opposite sides to facilitate pouring water"
+  },
+  "34": {
+    "ori_img": "34.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the image",
+    "explain_en": "The handles of the object in the image should be on both sides, as this makes it easier to lift the object."
+  },
+  "35": {
+    "ori_img": "35.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the key in the image",
+    "explain_en": "Typically, the grip part of a key (the key head) should be in the same plane as the key teeth, as this alignment allows the key to be inserted and turned properly."
+  },
+  "36": {
+    "ori_img": "36.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the teapot in the image",
+    "explain_en": "The spout of the teapot in the image should be open, as this is necessary for pouring water"
+  },
+  "37": {
+    "ori_img": "37.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the chair in the image",
+    "explain_en": "Objects in the image should be properly oriented, as the chair should be properly positioned to facilitate seating."
+  },
+  "38": {
+    "ori_img": "38.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the shower in the image",
+    "explain_en": "The shower in the image should be facing to the right because only in this way can it be used for spraying water."
+  },
+  "39": {
+    "ori_img": "39.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part of the stool in the image",
+    "explain_en": "The object in the image should not have a circular structure around it, as the stool is meant for sitting."
+  },
+  "40": {
+    "ori_img": "40.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the cup in the image",
+    "explain_en": "Objects in the image should not have holes, because a cup is used to hold water"
+  },
+  "41": {
+    "ori_img": "41.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the fork in the image",
+    "explain_en": "The fork in the image should be integrated with the handle and should not be connected with a chain"
+  },
+  "42": {
+    "ori_img": "42.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the wine glass in the image",
+    "explain_en": "The object in the image should have only one cup body, as a goblet consists of a base and a cup body"
+  },
+  "43": {
+    "ori_img": "43.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the fork in the image",
+    "explain_en": "The tines of the fork in the image should not have additional small forks; they are redundant."
+  },
+  "44": {
+    "ori_img": "44.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the cup in the image",
+    "explain_en": "The handle of the cup in the image should be separated and not connected together."
+  },
+  "45": {
+    "ori_img": "45.jpeg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part of the image's fork",
+    "explain_en": "The fork in the image is too thick to be used as cutlery"
+  },
+  "46": {
+    "ori_img": "46.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the image",
+    "explain_en": "The spout and handle are in the same direction, making it impossible to pour water. They should be oriented in different directions."
+  },
+  "47": {
+    "ori_img": "47.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts in the image",
+    "explain_en": "The object's foot area in the image should be closed, as the rain boots are meant to prevent water from entering the feet."
+  },
+  "48": {
+    "ori_img": "48.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the cup in the image.",
+    "explain_en": "The handle of the cup in the image should be vertical so that it can be held correctly."
+  },
+  "49": {
+    "ori_img": "49.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the glasses in the image",
+    "explain_en": "The glasses in the image have three lenses and frames; correct them to have two."
+  },
+  "50": {
+    "ori_img": "50.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable parts of the button in the image",
+    "explain_en": "The button in the image is too thick and should be thinner"
+  },
+  "51": {
+    "ori_img": "51.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part of the building in the image.",
+    "explain_en": "The door at the top should not exist."
+  },
+  "52": {
+    "ori_img": "52.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable body part of the animal in the image.",
+    "explain_en": "The giraffe has two necks, one should be removed."
+  },
+  "53": {
+    "ori_img": "53.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part in the image.",
+    "explain_en": "The mirrored blue cup should also be a blue cup, not a red one."
+  },
+  "54": {
+    "ori_img": "54.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable shadow in the image.",
+    "explain_en": "The light source is coming from the upper right, and the shadow of the handle should be behind the cup, not exaggerated and curving as shown."
+  },
+  "55": {
+    "ori_img": "55.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part in the image.",
+    "explain_en": "The lock should not penetrate into the cup, it should be outside the cup."
+  },
+  "56": {
+    "ori_img": "56.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part of the object in the image.",
+    "explain_en": "The faucet on the mouse should be removed."
+  },
+  "57": {
+    "ori_img": "57.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part of the bicycle in the image.",
+    "explain_en": "The bicycle should only have two wheels."
+  },
+  "58": {
+    "ori_img": "58.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part in the image.",
+    "explain_en": "The vehicle should be tilted because it's unbalanced."
+  },
+  "59": {
+    "ori_img": "59.jpg",
+    "gt_img": "",
+    "ins_en": "Modify the horse's head to a snake's head.",
+    "explain_en": ""
+  },
+  "60": {
+    "ori_img": "60.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable body part of the person in the image.",
+    "explain_en": "One of the hands should be removed because a person only has two hands."
+  },
+  "61": {
+    "ori_img": "61.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable body part of the animal in the image.",
+    "explain_en": "The half-body of the cat on the far left should be removed because there is already a complete cat."
+  },
+  "62": {
+    "ori_img": "62.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part of the person in the image.",
+    "explain_en": "One of the hands should be removed because a person only has two hands."
+  },
+  "63": {
+    "ori_img": "63.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part in the image.",
+    "explain_en": "The English word should be corrected to 'TikTok', and the logo above should be corrected to the correct TikTok logo."
+  },
+  "64": {
+    "ori_img": "64.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part in the image.",
+    "explain_en": "The water should flow down from the kettle spout, not up."
+  },
+  "65": {
+    "ori_img": "65.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part of the person in the image.",
+    "explain_en": "The person should be wearing a bear skin hat, not having hair on top of their head."
+  },
+  "66": {
+    "ori_img": "66.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable body part of the animal in the image.",
+    "explain_en": "The direction of the swan's neck curve should be reversed."
+  },
+  "67": {
+    "ori_img": "67.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part of the body in the image.",
+    "explain_en": "The person should have five toes on each foot, and the high heel should be removed."
+  },
+  "68": {
+    "ori_img": "68.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part of the bicycle in the image.",
+    "explain_en": "Replace the pizza with a bicycle wheel."
+  },
+  "69": {
+    "ori_img": "69.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part in the image.",
+    "explain_en": "Add the back half of the horse and the front half of the cart, and the rider is in front and the cart is behind."
+  },
+  "70": {
+    "ori_img": "70.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable body part of the animal in the image.",
+    "explain_en": "The dog should have one tail, not a broom-like tail."
+  },
+  "71": {
+    "ori_img": "71.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part in the image.",
+    "explain_en": "The woman should be holding the umbrella handle."
+  },
+  "72": {
+    "ori_img": "72.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable body part in the image.",
+    "explain_en": "The image should show a firefighter standing upright."
+  },
+  "73": {
+    "ori_img": "73.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable part of the person in the image.",
+    "explain_en": "The man should be holding a hamburger and putting it in his mouth."
+  },
+  "74": {
+    "ori_img": "74.png",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable body part in the image.",
+    "explain_en": "The person's foot should only have five toes."
+  },
+  "75": {
+    "ori_img": "75.jpg",
+    "gt_img": "",
+    "ins_en": "Correct the unreasonable body part of the person in the image.",
+    "explain_en": "The merged arm should be separated into two hands."
+  }
+}

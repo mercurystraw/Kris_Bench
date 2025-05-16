@@ -1,0 +1,377 @@
+{
+  "1": {
+    "ori_img": "1.jpg",
+    "ins_en": "Please fill in the correct number in place of the '?' in the rightmost figure based on the pattern.",
+    "explain_en": "The number 32 should be filled in; the central number in the rightmost figure is also the product of three numbers divided by 10."
+  },
+  "2": {
+    "ori_img": "2.jpg",
+    "ins_en": "Please fill in the correct number at the '?' in the rightmost figure according to the pattern.",
+    "explain_en": "You should fill in 12 because the value on the right of the figure equals the number on the left multiplied by the number on the top, then divided by 4."
+  },
+  "3": {
+    "ori_img": "3.jpg",
+    "ins_en": "Please fill in the correct number in the '?' of the rightmost figure according to the pattern.",
+    "explain_en": "35 should be filled in because the result of dividing the lower number by the corresponding upper number is equal."
+  },
+  "4": {
+    "ori_img": "4.jpg",
+    "ins_en": "Please fill in the correct number at the '?' in the rightmost figure according to the pattern.",
+    "explain_en": "45 should be filled in, as the central value is exactly equal to the sum of the four surrounding numbers."
+  },
+  "5": {
+    "ori_img": "5.jpeg",
+    "ins_en": "Please draw the correct shape in the blank space at the bottom right corner according to the pattern.",
+    "explain_en": "A diagonal line should be drawn from the top left corner to the bottom right corner of the square, based on the logical XOR of the first and second images in the same row."
+  },
+  "6": {
+    "ori_img": "6.jpeg",
+    "ins_en": "Please draw the correct shape in the bottom right box according to the pattern.",
+    "explain_en": "It should be a small circle. The pattern shows the common features of the first and second shapes are retained."
+  },
+  "7": {
+    "ori_img": "7.png",
+    "ins_en": "Based on the pattern, draw the correct image in the box with a question mark to the right of the center.",
+    "explain_en": "A cow appears in the box to the right of the center because the animal types in the same column are identical."
+  },
+  "8": {
+    "ori_img": "8.png",
+    "ins_en": "Please draw the correct image in the box marked '?' to the right of the center according to the pattern.",
+    "explain_en": "A sailboat appears to the right of the center because the items in the same row belong to the same category."
+  },
+  "9": {
+    "ori_img": "9.png",
+    "ins_en": "Please draw the correct image in the '?' box at the top right corner according to the pattern.",
+    "explain_en": "As long as there are any two items in the top right corner, it is acceptable because the number of objects in the same row is consistent."
+  },
+  "10": {
+    "ori_img": "10.png",
+    "ins_en": "Please draw the correct shape in the '?' box in the first row according to the pattern.",
+    "explain_en": "The box in the first row needs to feature an image of tennis because the first and third images in the same row belong to the same sports category."
+  },
+  "11": {
+    "ori_img": "11.png",
+    "ins_en": "Please draw the correct shape in the '?' box at the top right corner according to the pattern.",
+    "explain_en": "Three oranges appear in the top right corner because the quantity increases in the same row, with the same type of items."
+  },
+  "12": {
+    "ori_img": "12.png",
+    "ins_en": "Please draw the correct shape in the '?' box in the upper right corner according to the pattern.",
+    "explain_en": "Five cars appear in the upper right corner, with the number increasing in the same row and the item category being the same."
+  },
+  "13": {
+    "ori_img": "13.png",
+    "ins_en": "Please draw the correct shape in the box marked '?' to the right of the center following the pattern.",
+    "explain_en": "A watermelon appears to the right of the center because the quantity of items is the same in each column, and the categories are the same in each row."
+  },
+  "14": {
+    "ori_img": "14.png",
+    "ins_en": "Please draw the correct shape in the box marked with a '?' to the right of the center box, following the pattern.",
+    "explain_en": "A pair of white pants should appear in the box to the right of the center, as items in the same row belong to the same category, and items in the same column have the same color."
+  },
+  "15": {
+    "ori_img": "15.jpeg",
+    "ins_en": "Please draw the correct shape in the box at the lower right corner according to the pattern.",
+    "explain_en": "A cube appears, but it is missing the edges at the lower left and upper right corners because the pattern is the union of the first and second images in the same row."
+  },
+  "16": {
+    "ori_img": "16.png",
+    "ins_en": "Please draw the correct shape in the '?' box on the right according to the pattern.",
+    "explain_en": "It should be two arrows, with the left arrow pointing down and the right arrow pointing right."
+  },
+  "17": {
+    "ori_img": "17.png",
+    "ins_en": "Please draw the correct shape in the bottom right box according to the pattern.",
+    "explain_en": "It should be an arrow pointing to the right."
+  },
+  "18": {
+    "ori_img": "18.png",
+    "ins_en": "Please draw the correct shape in the bottom-right '?' box according to the pattern.",
+    "explain_en": "It should be a 90-degree clockwise rotation of the first image in the same column."
+  },
+  "19": {
+    "ori_img": "19.jpg",
+    "ins_en": "Please draw the correct shape in the bottom right square based on the pattern.",
+    "explain_en": "It should be a smiley face, with both eyes having no black fill."
+  },
+  "20": {
+    "ori_img": "20.jpg",
+    "ins_en": "Please draw the correct shape in the bottom-right '?' box according to the pattern.",
+    "explain_en": "It should be a crying face, with the right eye filled in black."
+  },
+  "21": {
+    "ori_img": "21.png",
+    "ins_en": "Please follow the pattern and draw the correct shape in the '?' box located in the bottom-right corner.",
+    "explain_en": "The white hexagon at the top is the result of the shape in the first column of the same row being rotated 180 degrees counterclockwise."
+  },
+  "22": {
+    "ori_img": "22.png",
+    "ins_en": "Please draw the correct shape in the '?' box at the bottom right according to the pattern.",
+    "explain_en": "Determine the third element based on the first two elements in each row. If the corresponding positions of the first two elements are of the same color, fill the third element's position with a black dot; otherwise, fill it with a white dot."
+  },
+  "23": {
+    "ori_img": "23.png",
+    "ins_en": "Please draw the correct shape at the '?' position on the right according to the pattern.",
+    "explain_en": "It should match the posture of the third figure."
+  },
+  "24": {
+    "ori_img": "24.jpg",
+    "ins_en": "Please edit the right side of the image, only retaining the letters that are not covered by English text when the image is folded in half along the central axis.",
+    "explain_en": "Only retain the letter E."
+  },
+  "25": {
+    "ori_img": "25.png",
+    "ins_en": "Please connect the objects on the left with the colors on the right using lines according to the pattern, matching them one-to-one.",
+    "explain_en": "Connect each animal with its main body color."
+  },
+  "26": {
+    "ori_img": "26.png",
+    "ins_en": "Please fill in the correct number in the middle question mark.",
+    "explain_en": "3 should be filled in, because the number in each square represents the number of 1s in the surrounding cells."
+  },
+  "27": {
+    "ori_img": "27.jpg",
+    "ins_en": "Please fill the square with the question mark in the image with a single color according to the pattern.",
+    "explain_en": "It should be completely filled with blue. Because green is two blocks connected, red is three blocks, orange is four blocks, pink is five blocks, blue is six blocks, and yellow is seven blocks. Here, six empty squares are left, which should all be filled with the same color: blue."
+  },
+  "28": {
+    "ori_img": "28.png",
+    "ins_en": "Fill in the correct number at the question mark on the right.",
+    "explain_en": "The number 17 should be filled, because the number at the center of each triangle is the sum of the three numbers around the previous triangle."
+  },
+  "29": {
+    "ori_img": "29.png",
+    "ins_en": "Complete the figure at the question mark.",
+    "explain_en": "Complete it according to the shape of the three different hexagonal stars."
+  },
+  "30": {
+    "ori_img": "30.jpg",
+    "ins_en": "Please draw the correct shape in the box at the bottom right corner according to the pattern.",
+    "explain_en": "The black circle is on the far right, and the lines are in the top right corner."
+  },
+  "31": {
+    "ori_img": "31.png",
+    "ins_en": "Please draw the correct shape in the box with a '?' in the bottom right corner based on the pattern.",
+    "explain_en": "A triangle, with a blue circle on the bottom edge."
+  },
+  "32": {
+    "ori_img": "32.jpg",
+    "ins_en": "Correct the errors in the symmetrical pattern on the right side",
+    "explain_en": "The position of the circle in the right image should be moved one square to the right, and the triangle at the bottom should be horizontally flipped."
+  },
+  "33": {
+    "ori_img": "33.png",
+    "ins_en": "Please draw the correct shape in the '?' box located at the top left corner according to the pattern.",
+    "explain_en": "A blue circle should be filled in."
+  },
+  "34": {
+    "ori_img": "34.jpeg",
+    "ins_en": "Please connect the objects on the left with the objects on the right using lines according to the pattern, matching them one-to-one.",
+    "explain_en": "Connect each tail to the animal it belongs to."
+  },
+  "35": {
+    "ori_img": "35.png",
+    "ins_en": "Please fill in the two empty 3x3 grids according to the pattern.",
+    "explain_en": "The grid of the second row is the result of swapping the positions of 'X' and 'O' in the 3x3 grid of the first row."
+  },
+  "36": {
+    "ori_img": "36.jpg",
+    "ins_en": "Please connect the objects on the left with the objects on the right using lines to match them one-to-one according to the pattern.",
+    "explain_en": "Connect the front parts of the animals to their matching back parts."
+  },
+  "37": {
+    "ori_img": "37.png",
+    "ins_en": "Please connect the objects on the left with the objects on the right using lines, matching them one-to-one according to the pattern.",
+    "explain_en": "Connect the fronts of the animals with their corresponding tails."
+  },
+  "38": {
+    "ori_img": "38.png",
+    "ins_en": "Please connect the objects on the left with the objects on the right using lines, matching them one-to-one according to the pattern.",
+    "explain_en": "Connect the animals with their fur textures."
+  },
+  "39": {
+    "ori_img": "39.png",
+    "ins_en": "Please connect the objects on the left with those on the right using lines, matching them one-to-one according to the pattern.",
+    "explain_en": "Connect each animal to the shadow that matches its shape and size."
+  },
+  "40": {
+    "ori_img": "40.png",
+    "ins_en": "Please draw the correct shape in the bottom right box according to the pattern.",
+    "explain_en": "The image is a square, with the small square on the right being black."
+  },
+  "41": {
+    "ori_img": "41.jpg",
+    "ins_en": "Please fill in the correct number in the ? circle at the bottom right according to the pattern.",
+    "explain_en": "Fill in 4, as the sum of the first three numbers in each row equals the fourth number multiplied by 3."
+  },
+  "42": {
+    "ori_img": "42.png",
+    "ins_en": "Please draw the correct shape in the box at the bottom right according to the pattern.",
+    "explain_en": "A hexagon with solid diagonal lines inside."
+  },
+  "43": {
+    "ori_img": "43.jpg",
+    "ins_en": "Please fill in the correct number in the '?' circle according to the pattern.",
+    "explain_en": "It should be 21, which is the result of subtracting the bottom left number from the top number."
+  },
+  "44": {
+    "ori_img": "44.jpg",
+    "ins_en": "Press the keyboard buttons according to a specific pattern. The first 15 buttons pressed are indicated in the image. According to this pattern, which button should be the one in the bottom right corner? Please fill in the number.",
+    "explain_en": "You should fill in '00', because the sum of each column is 30."
+  },
+  "45": {
+    "ori_img": "45.png",
+    "ins_en": "Please replace the shape at the bottom right with the correct shape according to the pattern.",
+    "explain_en": "It should be a rectangle, with a solid quarter circle in the top left corner."
+  },
+  "46": {
+    "ori_img": "46.png",
+    "ins_en": "Please replace the shape at the bottom right with the correct shape according to the pattern.",
+    "explain_en": "It should be a square without the line in the middle."
+  },
+  "47": {
+    "ori_img": "47.png",
+    "ins_en": "Please replace the shape in the lower right corner with the correct shape according to the pattern.",
+    "explain_en": "It should be a four-pointed star with a dot in the center."
+  },
+  "48": {
+    "ori_img": "48.jpg",
+    "ins_en": "Please draw the correct shape in the box with the question mark in the lower right corner according to the pattern.",
+    "explain_en": "It should be a hexagon with two small circles in the middle."
+  },
+  "49": {
+    "ori_img": "49.png",
+    "ins_en": "Please replace the bottom-right shape with the correct shape based on the pattern.",
+    "explain_en": "It should be a four-pointed star with four black dots around it."
+  },
+  "50": {
+    "ori_img": "50.png",
+    "ins_en": "Please replace the bottom right figure with the correct figure according to the pattern.",
+    "explain_en": "It should be a completely black rhombus."
+  },
+  "51": {
+    "ori_img": "51.jpg",
+    "ins_en": "Please fill in the correct number at the question mark in the bottom right corner of the last triangle according to the pattern.",
+    "explain_en": "It should be 4. Because the number inside the triangle is twice the sum of the numbers at the three vertices."
+  },
+  "52": {
+    "ori_img": "52.png",
+    "ins_en": "Please fill in the correct number at the question mark in the bottom left corner of the image according to the pattern.",
+    "explain_en": "It should be 6. Because, from left to right, the number on the right is twice the number on the left."
+  },
+  "53": {
+    "ori_img": "53.jpg",
+    "ins_en": "Please fill in the correct number at the question mark in the bottom right corner according to the pattern.",
+    "explain_en": "It should be 410. Because the number is composed of the difference and the sum of the numbers above it."
+  },
+  "54": {
+    "ori_img": "54.jpg",
+    "ins_en": "Please draw the correct shape at the question mark according to the pattern.",
+    "explain_en": "The drawn shape should have six right angles. Because the number of right angles in the new shape is one more than the previous shape."
+  },
+  "55": {
+    "ori_img": "55.jpg",
+    "ins_en": "Please draw the correct number of dots at the two question marks according to the pattern.",
+    "explain_en": "The question mark on top should have three dots, and the question mark at the bottom should have six dots, because the number of dots in the third pattern is the sum of the dots in the first two patterns from both top and bottom."
+  },
+  "56": {
+    "ori_img": "56.jpg",
+    "ins_en": "Please draw the correct square grid pattern at the question mark in the bottom right corner according to the pattern.",
+    "explain_en": "It should be a nine-grid square, with the small square in the center bottom filled with cyan."
+  },
+  "57": {
+    "ori_img": "57.jpg",
+    "ins_en": "Please draw the correct pattern at the question mark in the bottom right corner according to the pattern.",
+    "explain_en": "The third pattern should be derived from the first two patterns in each row. If the same position in the first two patterns has the same color, the third pattern at that position should be white; otherwise, it should be blue."
+  },
+  "58": {
+    "ori_img": "58.jpg",
+    "ins_en": "Please draw the correct puzzle piece at the question mark in the bottom right corner according to the pattern.",
+    "explain_en": "The correct puzzle piece should have a concave left and convex top, with other sides being straight, as each edge's protrusions and concavities must complement the adjacent pieces."
+  },
+  "59": {
+    "ori_img": "59.jpg",
+    "ins_en": "Please draw the correct pattern at the question mark in the bottom left corner according to the pattern.",
+    "explain_en": "The overlapping part of the two triangles was originally blue, but it should now be the color of another purple triangle, as the purple triangle should cover part of the blue triangle according to the pattern."
+  },
+  "60": {
+    "ori_img": "60.jpg",
+    "ins_en": "Please connect the objects on the left and right with lines according to the pattern.",
+    "explain_en": "Connect the objects with the same expressions on the left and right together."
+  },
+  "61": {
+    "ori_img": "61.jpg",
+    "ins_en": "Please connect the characters on the left and right with lines according to the pattern.",
+    "explain_en": "On the left is the front view of the character, and on the right is the back view. Connect the front view with its corresponding back view."
+  },
+  "62": {
+    "ori_img": "62.jpg",
+    "ins_en": "Please connect the patterns on the left and right with lines according to the pattern.",
+    "explain_en": "For the connected patterns, the yellow fill position in the left pattern should be white in the right pattern at the same position, and the white fill in the left pattern should be yellow in the right pattern."
+  },
+  "63": {
+    "ori_img": "63.jpg",
+    "ins_en": "Please fill in the correct color for the balloons on the right according to the pattern.",
+    "explain_en": "The colors of the balloons from left to right should correspond to the color sequence below them."
+  },
+  "64": {
+    "ori_img": "64.jpg",
+    "ins_en": "Please fill in the correct color for the ice cream layers on the right according to the pattern.",
+    "explain_en": "The color of the ice cream layers from top to bottom should correspond to the color sequence below them."
+  },
+  "65": {
+    "ori_img": "65.jpg",
+    "ins_en": "Please replace the shape in the bottom right corner with the correct one according to the pattern.",
+    "explain_en": "It should be the mirrored version of the pattern in the bottom left corner to maintain symmetry."
+  },
+  "66": {
+    "ori_img": "66.png",
+    "ins_en": "Please fill in the correct number at the question mark according to the pattern.",
+    "explain_en": "It should be 25. Because in each row, the number in the second column is equal to the result of the first column divided by the third column, then multiplied by 5."
+  },
+  "67": {
+    "ori_img": "67.jpg",
+    "ins_en": "Please draw the correct pattern in the empty square at the bottom right according to the pattern.",
+    "explain_en": "You should draw three smiling faces."
+  },
+  "68": {
+    "ori_img": "68.jpg",
+    "ins_en": "Please draw the correct pattern in the empty square according to the pattern.",
+    "explain_en": "The pattern should be the same as the one in the first row, second column."
+  },
+  "69": {
+    "ori_img": "69.jpg",
+    "ins_en": "Please draw the correct pattern at the question mark in the bottom right corner according to the pattern.",
+    "explain_en": "It should be the same as the pattern in the first row, first column."
+  },
+  "70": {
+    "ori_img": "70.jpg",
+    "ins_en": "Please draw the correct pattern in the empty square at the bottom right according to the pattern.",
+    "explain_en": "The drawn pattern should be the mirrored version of the second pattern in the first row."
+  },
+  "71": {
+    "ori_img": "71.jpg",
+    "ins_en": "Please draw the correct pattern at the question mark according to the pattern.",
+    "explain_en": "The solid black circle should be at the top vertex of the triangle, the hollow circle should be at the left vertex, and there should be no circle at the right vertex."
+  },
+  "72": {
+    "ori_img": "72.jpg",
+    "ins_en": "Please draw the correct pattern at the question mark in the bottom right corner according to the pattern.",
+    "explain_en": "The tip of the pattern should face upwards, with three small black circles inside."
+  },
+  "73": {
+    "ori_img": "73.jpg",
+    "ins_en": "Please draw the correct pattern at the question mark in the bottom right corner according to the pattern.",
+    "explain_en": "It should be the same as the pattern in the third row, second column after rotating it counterclockwise by 90 degrees."
+  },
+  "74": {
+    "ori_img": "74.jpg",
+    "ins_en": "Please draw the correct pattern at the question mark according to the pattern.",
+    "explain_en": "Looking at each row, the pattern should retain the common parts of the first and second patterns."
+  },
+  "75": {
+    "ori_img": "75.jpg",
+    "ins_en": "Please fill in the correct number at the question mark in the bottom right corner according to the pattern.",
+    "explain_en": "It should be 19. Because the previous numbers are sequential prime numbers, the next prime number after 17 is 19."
+  }
+}
