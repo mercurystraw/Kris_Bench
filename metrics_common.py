@@ -8,7 +8,7 @@ from openai import OpenAI
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from ReasonEdit.prompts import (
+from utils.prompts import (
     prompt_consist,
     prompt_quality,
     prompt_instruction_following,
@@ -36,7 +36,7 @@ BENCH_DIR = "KRIS_Bench"
 RESULTS_DIR = "results"
 MODELS = args.models
 CATEGORIES = [
-    "object_count", "color_change", "anomaly_correction",
+    "count_change", "color_change", "anomaly_correction",
     "position_movement", "size_adjustment", "part_completion",
     "multi-instruction_execution",
 ]

@@ -8,7 +8,7 @@ from openai import OpenAI
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from ReasonEdit.prompts import (
+from utils.prompts import (
     prompt_consist,
     prompt_dual_evaluation,
     prompt_quality,
@@ -31,7 +31,7 @@ BENCH_DIR = "KRIS_Bench"
 RESULTS_DIR = "results"
 MODELS = args.models
 CATEGORIES = [
-    'abstract_reasoning', 'mathematics', 'daily_life', 'medicine', 'rule_reasoning',
+    'abstract_reasoning', 'mathematics', 'practical_knowledge', 'medicine', 'rule-based_reasoning',
     'biology', 'geography', 'chemistry', 'humanities', 'physics',
 ]
 METRICS = ["consistency", "dual_score", "image_quality"]

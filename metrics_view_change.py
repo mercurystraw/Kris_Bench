@@ -7,7 +7,7 @@ from openai import OpenAI
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from ReasonEdit.prompts import (
+from utils.prompts import (
     prompt_consist,
     prompt_quality,
     prompt_view_instruction_following,
@@ -37,7 +37,7 @@ args = parser.parse_args()
 BENCH_DIR = "KRIS_Bench"
 RESULTS_DIR = "results"
 MODELS = args.models
-CATEGORIES = ["view_pair"]
+CATEGORIES = ["viewpoint_change"]
 METRICS = ["consistency", "instruction_following", "image_quality"]
 
 # Initialize OpenAI client

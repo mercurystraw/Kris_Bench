@@ -9,7 +9,7 @@ from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from metrics_common import extract_score_and_reason
-from ReasonEdit.prompts import (
+from utils.prompts import (
     prompt_consist_multi,
     prompt_instruction_multi,
     prompt_quality,

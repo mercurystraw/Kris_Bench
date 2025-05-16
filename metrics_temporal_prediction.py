@@ -10,7 +10,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # import the generic extractor that returns (score, reasoning)
 from metrics_common import extract_score_and_reason
-from ReasonEdit.prompts import (
+from utils.prompts import (
     prompt_consist_temporal,
     prompt_instruction_temporal,
     prompt_quality,
