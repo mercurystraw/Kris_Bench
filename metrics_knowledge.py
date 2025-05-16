@@ -23,7 +23,7 @@ parser.add_argument(
     nargs="+",
     default=["doubao", "gpt", "gemini"],
 )
-parser.add_argument("--category", type=str, default="object_count", help="category name")
+parser.add_argument("--category", type=str, default="count_change", help="category name")
 args = parser.parse_args()
 
 # Constants
