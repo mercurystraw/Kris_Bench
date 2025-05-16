@@ -87,7 +87,7 @@ def evaluate_images(model_name, category, image_id, metrics=None):
     if not os.path.exists(edited_path):
         logging.error("Edited image missing: %s", edited_path)
         return results
-    if category == "view_pair" and (not gt_path or not os.path.exists(gt_path)):
+    if category == "viewpoint_change" and (not gt_path or not os.path.exists(gt_path)):
         logging.error("Ground-truth image missing: %s", gt_path)
         return results
 
@@ -95,11 +95,11 @@ def evaluate_images(model_name, category, image_id, metrics=None):
     ori_b64 = encode_image_to_base64(ori_path)
     edt_b64 = encode_image_to_base64(edited_path)
     gt_b64 = encode_image_to_base64(gt_path) if gt_path else None
-    if not ori_b64 or not edt_b64 or (category == "view_pair" and not gt_b64):
+    if not ori_b64 or not edt_b64 or (category == "viewpoint_change" and not gt_b64):
         logging.error("Failed to encode images for %s/%s/%s", model_name, category, image_id)
         return results
 
-    instr = ann.get("instruction", "")
+    instr = ann.get("ins_en", "")
     for metric in metrics:
         if metric == "consistency":
             prompt = prompt_consist.format(instruct=instr)
@@ -108,7 +108,7 @@ def evaluate_images(model_name, category, image_id, metrics=None):
             results["consistency_score"] = score
             results["consistency_reasoning"] = reason
         elif metric == "instruction_following":
-            if category == "view_pair":
+            if category == "viewpoint_change":
                 prompt = prompt_view_instruction_following.format(instruct=instr)
                 resp = evaluate_with_gpt(prompt, ori_b64, edt_b64, gt_b64)
             else:
