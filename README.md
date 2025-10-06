@@ -22,7 +22,7 @@ Beyond **Visual Consistency**, **Visual Quality** and **Instruction Following**,
 <p align="center">
   <img src="assets/teaser.png" alt="KRIS-Bench Overview" width="85%">
 </p>
-------
+---
 
 ## Requirements
 
@@ -101,7 +101,7 @@ Each category produces a `metrics.json` like:
   },
   "2":{
       ...
-  }，
+  },
 }
 ```
 
@@ -117,7 +117,7 @@ Each category produces a `metrics.json` like:
 
 ## 📜Related Repositories
 
-[ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel/tree/main/eval/gen/kris)：The Bagel team has evaluated their models on KRIS_Bench and released the evaluation code.
+[ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel/tree/main/eval/gen/kris): The Bagel team has evaluated their models on KRIS_Bench and released the evaluation code.
 
 ## ✍️Citation
 
