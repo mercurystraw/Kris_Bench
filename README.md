@@ -22,8 +22,6 @@ Beyond **Visual Consistency**, **Visual Quality** and **Instruction Following**,
 <p align="center">
   <img src="assets/teaser.png" alt="KRIS-Bench Overview" width="85%">
 </p>
----
-
 ## Requirements
 
 - Python 3.8+
