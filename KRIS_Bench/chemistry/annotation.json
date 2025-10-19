@@ -8,31 +8,31 @@
   "2": {
     "ori_img": "2.jpg",
     "gt_img": "",
-    "ins_en": "Color change of red cabbage pH indicator when dropped into a cup of water",
+    "ins_en": "Color change of red cabbage pH indicator when dropped into the cup",
     "explain_en": "In the image, it changes to yellow or green when mixed with soap solution"
   },
   "3": {
     "ori_img": "3.jpg",
     "gt_img": "",
-    "ins_en": "Color change of red cabbage pH indicator after being added to a glass of water",
+    "ins_en": "Color change of red cabbage pH indicator after being added to the cup",
     "explain_en": "Vinegar is acidic and changes to red or pink"
   },
   "4": {
     "ori_img": "4.jpg",
     "gt_img": "",
-    "ins_en": "Color changes of red cabbage pH indicator when dropped into a glass of water",
+    "ins_en": "Color changes of red cabbage pH indicator when dropped into the cup",
     "explain_en": "Yogurt is acidic, turning red or pink"
   },
   "5": {
     "ori_img": "5.jpg",
     "gt_img": "",
-    "ins_en": "Color change of red cabbage pH indicator when dropped into a glass of water.",
+    "ins_en": "Color change of red cabbage pH indicator when dropped into the cup.",
     "explain_en": "The image shows soda water, which changes to yellow or green."
   },
   "6": {
     "ori_img": "6.jpg",
     "gt_img": "",
-    "ins_en": "Color Change of Red Cabbage pH Indicator After Being Dropped into a Water Cup",
+    "ins_en": "Color Change of Red Cabbage pH Indicator After Being Dropped into the cup",
     "explain_en": "In the image, lemon juice is acidic and changes to red or pink."
   },
   "7": {
